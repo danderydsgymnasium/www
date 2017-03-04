@@ -1,0 +1,67 @@
+---
+layout: base
+---
+
+{% assign menu = site.menus[page.menu_name] %}
+{% capture has_menu %}{% for item in menu %}{{ item.title }}{% endfor %}{% endcapture %}
+
+{% capture first_page_title %}
+	{% for item in menu %}
+		{% if forloop.index0 == 0 %}
+			{{ item.title }}
+		{% endif %}
+	{% endfor %}
+{% endcapture %}
+
+<section class="banner">
+	<div class="banner__img" style="background-image: url('{{ page.cover }}');"></div>
+	<div class="banner__content content">
+		<h1 class="banner__title">
+			{% if has_menu != '' %}
+				{{ first_page_title | strip }}
+			{% else %}
+				{{ page.title }}
+			{% endif %}
+		</h1>
+		<p class="banner__text"></p>
+	</div>
+</section>
+
+{% if has_menu != '' %}
+	<section class="content content--columns">
+		<div class="content__column">
+{% else %}
+	<section class="content">
+		<div class="text-wrapper">
+{% endif %}
+
+
+			{{ content }}
+
+{% if has_menu != '' %}
+		</div>
+
+		<div class="content__column">
+			<div class="side-menu">
+				<div class="side-menu__title title">Mer info</div>
+
+				{% for item in menu %}
+					{% if item.weight >= 20 and past_divider != true %}
+						{% assign past_divider = true %}
+						<div class="side-menu__break"></div>
+						<div class="side-menu__divider"></div>
+					{% endif %}
+
+					<div class="side-menu__break"></div>
+					<a
+						href="{{ item.url }}"
+						class="side-menu__item{% if item.url == page.url %} side-menu__item--active{% endif %}"
+					>{{ item.title }}</a>
+				{% endfor %}
+			</div>
+		</div>
+	</section>
+{% else %}
+		</div>
+	</section>
+{% endif %}

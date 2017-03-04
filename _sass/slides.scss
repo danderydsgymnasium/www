@@ -1,0 +1,163 @@
+@import "mixins";
+
+.slides {
+	position: relative;
+	overflow: hidden;
+	margin: 0;
+	height: 80vh;
+	max-height: 800px;
+	color: #fff;
+
+	@media (max-width: 600px) {
+		min-height: 375px;
+		height: 65vh;
+	}
+}
+
+.slides__progress {
+	position: absolute;
+	z-index: 1;
+	bottom: 0;
+	left: 0;
+	height: 4px;
+	width: 100%;
+	transform: translateX(-100%);
+	background: #0091EA;
+	border-radius: 0 2px 2px 0;
+	will-change: transform;
+}
+.slides__progress--play {
+	transform: none;
+	transition: transform linear 15s;
+}
+
+.slides__list {
+	font-size: 22px;
+	@include serif();
+	max-width: 1024px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+	justify-content: center;
+	height: 100%;
+	padding: 48px;
+
+	@media (max-width: 600px) {
+		display: none;
+	}
+}
+
+.slides__item {
+	position: relative;
+	z-index: 1;
+	width: 250px;
+	margin: 24px 0;
+	opacity: .6;
+	transition: opacity ease 250ms;
+	will-change: opacity;
+	cursor: pointer;
+}
+.slides__item:focus {
+	opacity: .8;
+	outline: none;
+}
+.slides__item--active {
+	opacity: 1;
+}
+
+
+
+.slide {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	opacity: 0;
+	transition: opacity ease 250ms;
+	will-change: opacity;
+	display: none;
+	background: #000;
+}
+.slide--active {
+	opacity: 1;
+	display: block;
+}
+
+.slide__content {
+	position: relative;
+	z-index: 1;
+	height: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	padding: 0 300px 0 18px;
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+
+	@media (max-width: 600px) {
+		padding: 96px 18px 36px;
+	}
+}
+
+.slide__img {
+	position: absolute;
+	top: -4px;
+	right: -4px;
+	bottom: -4px;
+	left: -4px;
+
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	opacity: .5;
+
+	filter: blur(2px);
+
+	&--no-blur {
+		filter: none;
+	}
+}
+
+.slide__title {
+	margin: 32px 0 ;
+
+	@media (max-width: 600px) {
+		font-size: 32px;
+	}
+}
+
+
+.slides__buttons {
+	display: none;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+
+	@media (max-width: 600px) {
+		display: flex;
+	}
+}
+
+.slides__button {
+	width: 40px;
+	height: 40px;
+	background: rgba(0, 0, 0, .5);
+	border: 0;
+	padding: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	&:focus {
+		background: #000;
+		outline: none;
+	}
+}
+
+.slides__button-image {
+	height: 16px;
+}

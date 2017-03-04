@@ -1,0 +1,44 @@
+@import "mixins";
+
+.program {
+	text-decoration: none;
+	color: inherit;
+	text-align: center;
+	padding-bottom: 12px;
+	-webkit-overflow-scrolling: touch;
+
+	&:focus {
+		outline: none;
+
+		.program__title {
+			background-image: linear-gradient(
+				to bottom,
+				#999 50%,
+				#000 50%
+			);
+		}
+	}
+}
+
+.program__image {
+	background-size: cover;
+	background-position: center center;
+	height: 155px;
+	width: 100%;
+	margin-bottom: 7px;
+}
+
+.program__title {
+	display: inline;
+	font-size: 24px;
+	position: relative;
+	@include serif();
+	background-image: linear-gradient(
+		to bottom,
+		#eee 50%,
+		#000 50%
+	);
+	background-repeat: repeat-x;
+	background-size: 2px .1em;
+	background-position: 0 1.3em;
+}

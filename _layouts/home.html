@@ -1,0 +1,80 @@
+---
+layout: base
+---
+
+<section class="slides">
+	{% for slide in page.slides %}
+		<div
+			class="slide{% if forloop.first %} slide--active{% endif %}"
+			data-img="{{ slide.image }}"
+		>
+			<div
+				class="slide__img{% if slide.no_blur %} slide__img--no-blur{% endif %}"
+				style="background-image: url('{{ slide.image }}');"
+			></div>
+
+			<div class="slide__content">
+				<h1 class="slide__title">{{ slide.title }}</h1>
+
+				{% if slide.url %}
+					<a href="{{ slide.url }}" class="button">Läs mer</a>
+				{% endif %}
+			</div>
+		</div>
+	{% endfor %}
+
+	<div class="slides__list">
+		{% for slide in page.slides %}
+			<div
+				class="slides__item{% if forloop.first %} slides__item--active{% endif %}"
+				tabindex="0"
+			>{{ slide.title }}</div>
+		{% endfor %}
+	</div>
+
+	<div class="slides__buttons">
+		<button class="slides__button" aria-label="Föregående">
+			<img class="slides__button-image" src="/images/icons/chevron_left.svg" aria-hidden="true">
+		</button>
+
+		<button class="slides__button" aria-label="Nästa">
+			<img class="slides__button-image" src="/images/icons/chevron_right.svg" aria-hidden="true">
+		</button>
+	</div>
+
+	<div class="slides__progress"></div>
+</section>
+<script defer src="/scripts/slides.js"></script>
+
+
+<section class="content">
+	<h1>Nyheter</h1>
+
+	<div class="grid">
+
+		{% for item in site.posts limit:3 %}
+			<a href="{{ item.url }}" class="card grid__item">
+				<div class="card__image" style="background-image: url('{{ item.image }}');"></div>
+				<span class="card__date">{{ item.date | date: "%e %B %Y" }}</span>
+				<div class="card__title">{{ item.title }}</div>
+			</a>
+		{% endfor %}
+	</div>
+</section>
+
+
+<section class="content">
+	<h1>Program</h1>
+
+	{% include programs.html collection='programs' %}
+</section>
+
+<section class="message">
+	<h1 class="message__title">Studera på Dagy</h1>
+
+	<p class="message__text">
+		Du som önskar plats i årskurs 1, 2 eller 3
+	</p>
+
+	<a href="/soka-hit" class="button">Ansök nu</a>
+</section>

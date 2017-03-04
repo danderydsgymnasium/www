@@ -1,0 +1,15 @@
+.cover {
+	display: block;
+	width: 100%;
+	margin-top: 96px + 18px;
+	margin-bottom: 0;
+	height: 500px;
+	max-height: 50vh;
+	background-size: cover;
+	background-position: center center;
+	box-sizing: border-box;
+
+	@media (max-width: 600px) {
+		height: 320px;
+	}
+}

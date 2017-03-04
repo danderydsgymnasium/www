@@ -1,0 +1,23 @@
+@import "mixins";
+
+.button {
+	background: #0091EA;
+	padding: 10px 22px;
+	color: #fff;
+	@include sans();
+	font-size: 13px;
+	text-transform: uppercase;
+	font-weight: 600;
+	border: 0;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.button:focus {
+	filter: brightness(.9);
+	outline: none;
+}
+
+.button:hover {
+	filter: brightness(.95);
+}

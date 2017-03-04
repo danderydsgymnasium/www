@@ -1,0 +1,140 @@
+{
+  "hosting": {
+    "public": "_site",
+    "cleanUrls": true,
+    "trailingSlash": false,
+    "ignore": [
+      "styles/"
+    ],
+    "headers": [ {
+      "source" : "**",
+      "headers" : [ {
+        "key" : "Cache-Control",
+        "value" : "public, max-age=1800"
+      } ]
+    }, {
+      "source" : "/scripts/**/*",
+      "headers" : [ {
+        "key" : "Cache-Control",
+        "value" : "public, max-age=31536000"
+      } ]
+    }, {
+      "source" : "/images/**/*",
+      "headers" : [ {
+        "key" : "Cache-Control",
+        "value" : "public, max-age=31536000"
+      } ]
+    }, {
+      "source" : "/assets/**/*",
+      "headers" : [ {
+        "key" : "Cache-Control",
+        "value" : "public, max-age=31536000"
+      } ]
+    } ],
+    "redirects": [ {
+      "source": "/@(d|D)efault.aspx?epslanguage=@(sv|SV)",
+      "destination": "/",
+      "type": 301
+    }, {
+      "source": "/templates/@(p|P)age____34.aspx*",
+      "destination": "/",
+      "type": 301
+    }, {
+      "source": "/templates/@(p|P)age____476.aspx*",
+      "destination": "/kontakt",
+      "type": 301
+    }, {
+      "source": "/templates/@(p|P)age____127.aspx*",
+      "destination": "/om-skolan/lasarsdata",
+      "type": 301
+    }, {
+      "source": "/templates/@(p|P)age____5.aspx*",
+      "destination": "/om-skolan",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____123.aspx*",
+      "destination": "/program",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____713.aspx*",
+      "destination": "/program/naturvetenskap",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____1359.aspx*",
+      "destination": "/program/naturvetenskap/naturvetenskap",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____1360.aspx*",
+      "destination": "/program/naturvetenskap/naturvetenskap-samhalle",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____710.aspx*",
+      "destination": "/program/ekonomi",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____883.aspx*",
+      "destination": "/program/ekonomi/ekonomi",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____884.aspx*",
+      "destination": "/program/ekonomi/juridik",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____714.aspx*",
+      "destination": "/program/samhallsvetenskap",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____1390.aspx*",
+      "destination": "/program/samhallsvetenskap/beteendevetenskap",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____1593.aspx*",
+      "destination": "/program/samhallsvetenskap/beteendevetenskap",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____1073.aspx*",
+      "destination": "/program/samhallsvetenskap/samhallsvetenskap",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____709.aspx*",
+      "destination": "/program/teknik",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____1308.aspx*",
+      "destination": "/program/teknik/design-produktutveckling",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____800.aspx*",
+      "destination": "/program/aspergers",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____787.aspx*",
+      "destination": "/program/gymnasiesarskolan",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____788.aspx*",
+      "destination": "/program/gymnasiesarskolan/poangplan",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____1626.aspx*",
+      "destination": "/program/sprakintroduktion",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____772.aspx*",
+      "destination": "/program/matematik-spets",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____842.aspx*",
+      "destination": "/program/matematik-spets",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____1325.aspx*",
+      "destination": "/program/matematik-spets/mattegodis",
+      "type": 301
+    },  {
+      "source": "/templates/@(p|P)age____715.aspx*",
+      "destination": "/program/fotboll",
+      "type": 301
+    } ]
+  }
+}

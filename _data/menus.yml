@@ -1,0 +1,50 @@
+main:
+  - title: Söka hit
+    url: /soka-hit
+  - title: Program
+    url: /program
+  - title: Om skolan
+    url: /om-skolan
+  - title: Nyheter
+    url: /nyheter
+  - title: Kontakt
+    url: /kontakt
+
+footer:
+  - title: Portalen
+    url: https://danderydsgymnasium.sharepoint.com
+  - title: Hypernet
+    url: https://dagy.hypernet.com
+
+
+naturvetenskap:
+  - title: Matematik spetsutbildning
+    url: /program/matematik-spets
+    weight: 20
+  - title: För elever med ASD/Aspergers syndrom
+    url: /program/aspergers
+    weight: 21
+  - title: Musik, Bild och formgivning eller Teater
+    url: /program/naturvetenskap/estet
+    weight: 22
+
+samhallsvetenskap:
+  - title: För elever med ASD/Aspergers syndrom
+    url: /program/aspergers
+    weight: 20
+  - title: Musik, Bild och formgivning eller Teater
+    url: /program/samhallsvetenskap/estet
+    weight: 21
+
+matematik-spets:
+  - title: Naturvetenskapsprogrammet
+    url: /program/naturvetenskap
+    weight: 20
+
+aspergers:
+  - title: Samhällsvetenskapsprogrammet
+    url: /program/samhallsvetenskap
+    weight: 20
+  - title: Naturvetenskapsprogrammet
+    url: /program/naturvetenskap
+    weight: 21

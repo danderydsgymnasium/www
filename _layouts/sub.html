@@ -1,0 +1,57 @@
+---
+layout: base
+header_dark: true
+---
+
+<div class="content cover" style="background-image:url('{{ page.image }}')"></div>
+
+{% assign menu = site.menus[page.menu_name] %}
+{% capture has_menu %}{% for item in menu %}{{ item.title }}{% endfor %}{% endcapture %}
+
+
+{% if has_menu != '' %}
+	<section class="content content--columns">
+		<div class="content__column">
+{% else %}
+	<section class="content">
+		<div class="text-wrapper">
+{% endif %}
+
+			<h1>{{ page.title }}</h1>
+			{% if page.subtitle %}
+				<h2>{{ page.subtitle }}</h2>
+			{% endif %}
+
+			{{ content }}
+
+{% if has_menu != '' %}
+		</div>
+
+		<div class="content__column">
+			<div class="side-menu">
+				<h1 class="side-menu__title">Mer info</h1>
+
+				{% for item in menu %}
+					{% if item.weight >= 20 %}
+						{% if past_divider != true and past_low_weight == true %}
+							{% assign past_divider = true %}
+							<div class="side-menu__break"></div>
+							<div class="side-menu__divider"></div>
+						{% endif %}
+					{% else %}
+						{% assign past_low_weight = true %}
+					{% endif %}
+
+					<div class="side-menu__break"></div>
+					<a
+						href="{{ item.url }}"
+						class="side-menu__item{% if item.url == page.url %} side-menu__item--active{% endif %}"
+					>{{ item.title }}</a>
+				{% endfor %}
+			</div>
+		</div>
+	</section>
+{% else %}
+		</div>
+	</section>
+{% endif %}

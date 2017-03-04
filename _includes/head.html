@@ -1,0 +1,72 @@
+<meta charset="UTF-8">
+<title>{{ site.title }}</title>
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/meta/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/assets/meta/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/meta/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/assets/meta/manifest.json">
+<link rel="mask-icon" href="/assets/meta/safari-pinned-tab.svg" color="{{ site.theme_color }}">
+<link rel="shortcut icon" href="/assets/meta/favicon.ico">
+<meta name="msapplication-config" content="/assets/meta/browserconfig.xml">
+<meta name="theme-color" content="{{ site.theme_color }}">
+
+<style>
+	@font-face {
+		font-family: 'Open Sans';
+		font-style: normal;
+		font-weight: 300;
+		font-display: optional;
+		src: local('Open Sans Light'),
+				 local('OpenSans-Light'),
+				 url(https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTegdm0LZdjqr5-oayXSOefg.woff2) format('woff2'),
+				 url(https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTaRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+	}
+
+	@font-face {
+		font-family: 'Open Sans';
+		font-style: normal;
+		font-weight: 400;
+		font-display: optional;
+		src: local('Open Sans'),
+				 local('OpenSans'),
+				 url(https://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2) format('woff2'),
+				 url(https://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+	}
+
+	@font-face {
+		font-family: 'Open Sans';
+		font-style: normal;
+		font-weight: 600;
+		font-display: optional;
+		src: local('Open Sans Semibold'),
+				 local('OpenSans-Semibold'),
+				 url(https://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSugdm0LZdjqr5-oayXSOefg.woff2) format('woff2'),
+				 url(https://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSqRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+	}
+
+
+
+	@font-face {
+		font-family: 'Playfair Display';
+		font-style: normal;
+		font-weight: 400;
+		font-display: optional;
+		src: local('Playfair Display'),
+				 local('PlayfairDisplay-Regular'),
+				 url(https://fonts.gstatic.com/s/playfairdisplay/v10/2NBgzUtEeyB-Xtpr9bm1Cdhy5e3cTyNKTHXrP9DO-Rc.woff2) format('woff2'),
+				 url(https://fonts.gstatic.com/s/playfairdisplay/v10/2NBgzUtEeyB-Xtpr9bm1CV4QaRhHkZLZrsruvIjJ6Xo.woff) format('woff');
+	}
+</style>
+
+{% if jekyll.environment == "production" %}
+	{% capture include_to_scssify %}
+		{% include styles.scss %}
+	{% endcapture %}
+
+	<style>
+		{{ include_to_scssify | scssify | autoprefixer }}
+	</style>
+{% else %}
+	<link rel="stylesheet" href="/styles/styles.css">
+{% endif %}

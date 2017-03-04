@@ -1,0 +1,32 @@
+{% assign counter = 0 %}
+{% assign sorted_programs = site.pages | sort: 'order' %}
+
+{% for program in sorted_programs  %}
+	{% if program.collection == include.collection %}
+		{% assign deep = program.url | split: "/" | size %}
+		{% unless deep > 3 %}
+			{% assign third = counter | modulo:3 %}
+
+			{% if third == 0 %}
+				<div class="grid">
+			{% endif %}
+
+				<a href="{{ program.url }}" class="program grid__item">
+					<div class="program__image" style="background-image: url('{{ program.image }}');"></div>
+					<div class="program__title">
+						{% if program.short_title %}
+							{{ program.short_title }}
+						{% else %}
+							{{ program.title }}
+						{% endif %}
+					</div>
+				</a>
+
+			{% if third == 2 or forloop.last %}
+				</div>
+			{% endif %}
+
+			{% assign counter=counter | plus:1 %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}

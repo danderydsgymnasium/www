@@ -1,0 +1,153 @@
+@import "mixins";
+
+body {
+	@include sans();
+	min-height: 100vh;
+	margin: 0;
+	text-decoration-skip: ink;
+	display: flex;
+	flex-direction: column;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	overflow-x: hidden;
+}
+
+main {
+	flex: 1;
+	flex-basis: auto;
+	position: relative;
+}
+
+// XXX
+p a,
+.anchor {
+	color: inherit;
+	@include underline();
+}
+
+.grid {
+	display: flex;
+	margin: 24px -24px;
+	-webkit-overflow-scrolling: touch;
+
+	@media (max-width: 760px) {
+		overflow-x: auto;
+		margin: 12px -12px;
+	}
+
+	&--responsive {
+		@media (max-width: 760px) {
+			display: block;
+		}
+	}
+}
+
+.grid__item {
+	margin: 0 24px;
+	overflow: hidden;
+	flex: 1;
+
+	@media (max-width: 600px) {
+		flex-shrink: 0;
+		flex-basis: 75vw;
+		margin: 0 12px;
+	}
+}
+
+.content {
+	max-width: 1024px;
+	padding: 0 18px;
+	margin-left: auto;
+	margin-right: auto;
+	box-sizing: border-box;
+
+	&--columns {
+		display: flex;
+
+		@media (max-width: 960px) {
+			display: block;
+		}
+	}
+
+	&__column {
+		&:first-child {
+			flex: 1;
+		}
+
+		&:not(:last-child) {
+			padding-right: 96px;
+
+			@media (max-width: 800px) {
+				padding-right: 48px;
+			}
+
+			@media (max-width: 600px) {
+				padding-right: 0;
+			}
+		}
+	}
+}
+
+section {
+	margin-top: 48px;
+	margin-bottom: 48px;
+
+	@media (max-width: 600px) {
+		margin-top: 24px;
+	}
+}
+
+
+
+.icon {
+	vertical-align: middle;
+	margin: -4px 4px 0;
+
+	&--large {
+		width: 24px;
+	}
+}
+
+
+.label {
+	color: #6A6563;
+	font-size: 14px;
+	font-weight: 300;
+	margin-top: 10px;
+}
+
+
+
+table {
+	margin: 16px 0;
+	// table-layout: fixed;
+	width: 100%;
+	line-height: 150%;
+	font-weight: 300;
+	width: 100%;
+	max-width: 700px;
+	font-size: 18px;
+	line-height: 1.58;
+	letter-spacing: -.003em;
+}
+
+td:first-child {
+	width: 100%;
+}
+
+
+
+.map {
+	flex: 1;
+	padding: 16px;
+	display: flex;
+	box-sizing: border-box;
+	min-height: 320px;
+
+	@media (max-width: 600px) {
+		padding: 0;
+	}
+
+	&__container {
+		flex: 1;
+	}
+}

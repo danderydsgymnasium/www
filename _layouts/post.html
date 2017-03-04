@@ -1,0 +1,50 @@
+---
+layout: base
+header_dark: true
+---
+
+<div class="content cover" style="background-image:url('{{ page.image }}')"></div>
+
+<section class="content">
+	<div class="text-wrapper">
+		<h1>{{ page.title }}</h1>
+		<div class="label">
+			<img class="icon" src="/images/icons/calendar.svg" aria-hidden="true">
+			{{ page.date | date: "%e %B %Y" }}
+		</div>
+
+		{{ content }}
+	</div>
+</section>
+
+<section class="pagination__wrapper">
+	{% if page.next %}
+		<a href="{{ page.next.url }}" class="pagination">
+			<img
+				class="icon icon--large"
+				src="/images/icons/left.svg"
+				aria-hidden="true"
+			>
+			<div class="pagination__left">
+				<div class="pagination__subtitle">Nästa nyhet</div>
+				<div class="pagination__title">{{ page.next.title }}</div>
+			</div>
+		</a>
+	{% endif %}
+
+	<div class="pagination__spacer"></div>
+
+	{% if page.previous %}
+		<a href="{{ page.previous.url }}" class="pagination">
+			<div class="pagination__right">
+				<div class="pagination__subtitle">Föregående nyhet</div>
+				<div class="pagination__title">{{ page.previous.title }}</div>
+			</div>
+			<img
+				class="icon icon--large"
+				src="/images/icons/right.svg"
+				aria-hidden="true"
+			>
+		</a>
+	{% endif %}
+</section>

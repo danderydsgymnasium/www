@@ -1,0 +1,51 @@
+title: Danderyds gymnasium
+url: https://www.dagy.danderyd.se
+short_title: Dagy
+theme_color: '#001B30'
+
+locale: sv-SE
+
+analytics_id: UA-22710728-1
+map_api_key: AIzaSyC4jgcxxVkfMlOyyB_elm4qrdu12YgvEYc
+
+instagram: danderyds.gymnasium
+facebook: dandgym
+
+address: Rinkebyvägen 4, 182 36 Danderyd
+position:
+  lat: 59.4151194
+  lng: 18.0423185
+email: info@dagy.danderyd.se
+phone: 08-568 913 01
+
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-menus
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - firebase.json
+  - README.md
+sass:
+  style: compressed
+unused_css:
+  whitelist:
+    - .slides__progress--play
+autoprefixer:
+  browsers:
+    - last 2 versions
+    - safari 8
+kramdown:
+  auto_ids: false
+  input: GFM
+# Posts permalink
+permalink: /nyheter/:title/
+# Pagination
+paginate: 5
+paginate_path: /nyheter/:num/
+# HTML minifier
+compress_html:
+  comments: ["<!--", "-->"]
