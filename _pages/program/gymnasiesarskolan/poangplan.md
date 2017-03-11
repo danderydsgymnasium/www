@@ -1,14 +1,7 @@
 ---
 title: Poängplan
-subtitle: Gymnasiesärskolan
-collection: programs
 layout: sub
-image: /images/xpt4_hgzsjw-alex-robert.png
-order: 4
-menu_name: gymnasiesarskolan
-menu:
-  gymnasiesarskolan:
-    weight: 10
+menu_order: 1
 ---
 
 ### Gymnasiesärskolegemensamma ämnen

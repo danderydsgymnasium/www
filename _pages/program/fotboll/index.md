@@ -3,8 +3,8 @@ title: Nationell idrottsutbildning fotboll
 subtitle: NIU
 collection: specializations
 layout: sub
-image: /images/uvrpmz1atvg-markus-spiske.png
-order: 1
+image: /assets/uvrpmz1atvg-markus-spiske.png
+programs_order: 1
 ---
 
 Danderyds gymnasium är godkänt av både skolverket och

@@ -1,6 +1,6 @@
 ---
 title: Spännande samtal med Mr David Cairns, British Ambassador to Sweden, på Dagy
-image: /images/smaller-2017-02-07T14-00-25.041Z.jpeg
+image: /assets/smaller-2017-02-07T14-00-25.041Z.jpeg
 layout: post
 ---
 

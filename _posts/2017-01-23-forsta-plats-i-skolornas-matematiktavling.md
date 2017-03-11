@@ -1,6 +1,6 @@
 ---
 title: Första plats i Skolornas Matematiktävling
-image: /images/SMT_Final_2016_Vinnare_1.jpg
+image: /assets/SMT_Final_2016_Vinnare_1.jpg
 layout: post
 ---
 

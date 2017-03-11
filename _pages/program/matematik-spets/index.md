@@ -2,10 +2,9 @@
 title: Matematik spetsutbildning
 collection: specializations
 layout: sub
-image: /images/5mz_m06fc9g-roman-mager.png
-order: 0
-menu_name: matematik-spets
-menu: matematik-spets
+image: /assets/5mz_m06fc9g-roman-mager.png
+programs_order: 0
+menu_order: 0
 ---
 
 Vill du fördjupa dig inom matematik? Då ska du söka till vår Spetsutbildning Matematikgymnasiet. Den är nationellt erkänd och har funnits på Danderyds gymnasium i 30 år. Det finns 16 gymnasieutbildningar i Sverige som har fått tillstånd från Skolverket att bedriva spetsutbildning. Fem av dessa är inriktade på matematik. Vår spetsutbildning i matematik är den enda i Stockholms län.
@@ -31,7 +30,7 @@ Här kan du ladda ner exempel på antagningsprovet för att testa hur din proble
 [Antagningsprovet från 2015](/assets/masint151.docx)
 
 <div class="profile">
-	<img class="profile__image" src="/images/SGW.png" alt="Susanne Gennow">
+	<img class="profile__image" src="/assets/SGW.png" alt="Susanne Gennow">
 	<div class="profile__info">
 		<div class="profile__title">Susanne Gennow</div>
 

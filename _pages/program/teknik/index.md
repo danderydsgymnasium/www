@@ -3,10 +3,9 @@ title: Teknik&shy;programmet
 short_title: Teknik
 collection: programs
 layout: sub
-image: /images/d7czyewzyzc-ricardo-gomez-angel.png
-order: 3
-menu_name: teknik
-menu: teknik
+image: /assets/d7czyewzyzc-ricardo-gomez-angel.png
+programs_order: 3
+menu_order: 0
 ---
 
 Teknikprogrammet är en kreativ högskoleförberedande utbildning som varvar teori med praktiskt arbete. Detta gör vi genom ett nära samarbete med branschen samt att våra lärare har en gedigen bakgrund både som forskare, lektorer och som utvecklare inom spelbranschen. Exempelvis har de varit delaktig i produktioner från Sveriges första AAA speltitel Headhunter (Amuze) till Battlefield (DICE).
@@ -18,7 +17,7 @@ Teknikprogrammet på Danderyds gymnasium är för dig som vill studera vidare ti
 Teknikprogrammet på Danderyds gymnasium välkomnar liksom övriga program på Danderyds gymnasium alla som vill växa som människor och vill utvecklas i en riktning som du själv väljer.
 
 <div class="profile">
-	<img class="profile__image" src="/images/anette-bjaras.png" alt="Anette Bjärås">
+	<img class="profile__image" src="/assets/anette-bjaras.png" alt="Anette Bjärås">
 	<div class="profile__info">
 		<div class="profile__title">Anette Bjärås</div>
 		<div>Programrektor</div>

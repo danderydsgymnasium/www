@@ -1,6 +1,6 @@
 ---
 title: Dagys teaterelever agerade på IKEAs event
-image: /images/DSC_1060.jpeg
+image: /assets/DSC_1060.jpeg
 layout: post
 ---
 

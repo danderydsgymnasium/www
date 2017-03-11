@@ -1,0 +1,26 @@
+<div class="side-menu">
+	<h1 class="side-menu__title">Mer info</h1>
+
+	{% if page.menu.size > 1 %}
+		{% for item in page.menu %}
+			<div class="side-menu__break"></div>
+			<a
+				href="{{ item.url }}"
+				class="side-menu__item{% if item.url == page.url %} side-menu__item--active{% endif %}"
+			>{{ item.title }}</a>
+		{% endfor %}
+	{% endif %}
+
+	{% if page.menu.size > 1 and page.external_menu.size %}
+		<div class="side-menu__break"></div>
+		<div class="side-menu__divider"></div>
+	{% endif %}
+
+	{% for item in page.external_menu %}
+		<div class="side-menu__break"></div>
+		<a
+			href="{{ item.url }}"
+			class="side-menu__item{% if item.url == page.url %} side-menu__item--active{% endif %}"
+		>{{ item.title }}</a>
+	{% endfor %}
+</div>

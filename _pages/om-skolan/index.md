@@ -1,9 +1,8 @@
 ---
-layout: banner
 title: Om skolan
-cover: /images/IMG_20160912_170024.png
-menu_name: om-skolan
-menu: om-skolan
+layout: banner
+cover: /assets/IMG_20160912_170024.png
+menu_order: 0
 ---
 
 Danderyds gymnasium är en attraktiv skola med många sökande till ett stort utbud av utbildningar. Våra elever är studiemotiverade och når goda resultat. De flesta fortsätter till universitet och högskola.

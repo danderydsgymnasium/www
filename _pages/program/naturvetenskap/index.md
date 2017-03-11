@@ -3,10 +3,9 @@ title: Naturvetenskaps&shy;programmet
 short_title: Naturvetenskap
 collection: programs
 layout: sub
-image: /images/rtzw4f02zy8-nasa.png
-order: 0
-menu_name: naturvetenskap
-menu: naturvetenskap
+image: /assets/rtzw4f02zy8-nasa.png
+programs_order: 0
+menu_order: 0
 ---
 
 Vi erbjuder tre inriktningar inom det naturvetenskapliga
@@ -31,7 +30,7 @@ gymnasium med framgång i internationella olympiader
 inom matematik, kemi, biologi, fysik och programmering.
 
 <div class="profile">
-	<img class="profile__image" src="/images/anette-bjaras.png" alt="Anette Bjärås">
+	<img class="profile__image" src="/assets/anette-bjaras.png" alt="Anette Bjärås">
 	<div class="profile__info">
 		<div class="profile__title">Anette Bjärås</div>
 		<div>Programrektor</div>

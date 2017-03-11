@@ -1,6 +1,6 @@
 ---
 title: Reportage om UF-företaget Together Active UF i Danderyds nyheter
-image: /images/Dn-49-2016-Flashpublisher2.png
+image: /assets/Dn-49-2016-Flashpublisher2.png
 layout: post
 ---
 

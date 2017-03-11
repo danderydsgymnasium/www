@@ -1,6 +1,6 @@
 ---
 title: Till Strasbourg med juridikklasserna!
-image: /images/image002-str.jpg
+image: /assets/image002-str.jpg
 layout: post
 ---
 

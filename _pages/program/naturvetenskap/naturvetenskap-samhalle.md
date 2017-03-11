@@ -1,13 +1,7 @@
 ---
 title: Inriktning Naturvetenskap och samhälle
-subtitle: Naturvetenskaps&shy;programmet
-collection: programs
 layout: sub
-image: /images/rtzw4f02zy8-nasa.png
-menu_name: naturvetenskap
-menu:
-  naturvetenskap:
-    weight: 11
+menu_order: 2
 ---
 
 <br>

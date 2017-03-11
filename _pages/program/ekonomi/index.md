@@ -1,12 +1,10 @@
 ---
 title: Ekonomi&shy;programmet
-short_title: Ekonomi
 collection: programs
 layout: sub
-image: /images/16124218_455844131427852_8435288921503432704_n.jpg
-order: 1
-menu_name: ekonomi
-menu: ekonomi
+image: /assets/16124218_455844131427852_8435288921503432704_n.jpg
+programs_order: 1
+menu_order: 0
 ---
 
 På Ekonomiprogrammet studerar du svenska och internationella
@@ -33,7 +31,7 @@ juridik och samhällsvetenskapliga områden.
 På ekonomiprogrammet har vi under en lång tid haft ett starkt och aktivt programråd, bestående av elever som driver viktiga skolfrågor ur elevperspektiv. De gör också sitt bästa för att skapa trivsel och skapa sammanhållning mellan årskurserna.
 
 <div class="profile">
-	<img class="profile__image" src="/images/FRY%20JEANETTE%20120x180.png" alt="Jeanette Fry">
+	<img class="profile__image" src="/assets/FRY%20JEANETTE%20120x180.png" alt="Jeanette Fry">
 	<div class="profile__info">
 		<div class="profile__title">Jeanette Fry</div>
 		<div>Rektor EK</div>

@@ -1,4 +1,4 @@
-require "autoprefixer-rails"
+require 'autoprefixer-rails'
 
 browsers = Jekyll.configuration({})['autoprefixer']['browsers']
 

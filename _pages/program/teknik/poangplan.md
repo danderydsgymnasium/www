@@ -1,14 +1,7 @@
 ---
 title: Poängplan
-subtitle: Teknik&shy;programmet
-collection: programs
 layout: sub
-image: /images/d7czyewzyzc-ricardo-gomez-angel.png
-order: 3
-menu_name: teknik
-menu:
-  teknik:
-    weight: 12
+menu_order: 3
 ---
 
 ### Gymnasiegemensamma ämnen

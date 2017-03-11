@@ -1,11 +1,7 @@
 ---
-layout: banner
 title: Elevaktivitet
-cover: /images/IMG_20160912_170024.png
-menu_name: om-skolan
-menu:
-  om-skolan:
-    weight: 14
+layout: banner
+menu_order: 5
 ---
 
 # Elevaktivitet

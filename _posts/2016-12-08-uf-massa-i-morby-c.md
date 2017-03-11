@@ -1,6 +1,6 @@
 ---
 title: UF-mässa i Mörby C
-image: /images/IMG_1718-uf-morby.jpg
+image: /assets/IMG_1718-uf-morby.jpg
 layout: post
 ---
 

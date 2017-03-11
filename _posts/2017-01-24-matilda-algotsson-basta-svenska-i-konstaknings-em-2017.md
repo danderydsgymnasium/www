@@ -1,6 +1,6 @@
 ---
 title: Matilda Algotsson bästa svenska i konståknings EM 2017
-image: /images/konstakning.jpeg
+image: /assets/konstakning.jpeg
 layout: post
 ---
 

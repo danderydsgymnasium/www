@@ -1,7 +1,7 @@
 ---
 layout: banner
 title: Söka hit
-cover: /images/czhuxiqjilg-alejandro-escamilla.png
+cover: /assets/czhuxiqjilg-alejandro-escamilla.png
 ---
 
 # För Åk 9

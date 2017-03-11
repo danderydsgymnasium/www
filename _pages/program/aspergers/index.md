@@ -2,8 +2,8 @@
 title: För elever med ASD/Aspergers syndrom
 collection: specializations
 layout: sub
-image: /images/student_1.jpg
-order: 2
+image: /assets/student_1.jpg
+programs_order: 2
 menu_name: aspergers
 ---
 

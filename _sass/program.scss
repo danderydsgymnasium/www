@@ -18,27 +18,27 @@
 			);
 		}
 	}
-}
 
-.program__image {
-	background-size: cover;
-	background-position: center center;
-	height: 155px;
-	width: 100%;
-	margin-bottom: 7px;
-}
+	&__image {
+		background-size: cover;
+		background-position: center center;
+		height: 155px;
+		width: 100%;
+		margin-bottom: 7px;
+	}
 
-.program__title {
-	display: inline;
-	font-size: 24px;
-	position: relative;
-	@include serif();
-	background-image: linear-gradient(
-		to bottom,
-		#eee 50%,
-		#000 50%
-	);
-	background-repeat: repeat-x;
-	background-size: 2px .1em;
-	background-position: 0 1.3em;
+	&__title {
+		display: inline;
+		font-size: 24px;
+		position: relative;
+		@include serif();
+		background-image: linear-gradient(
+			to bottom,
+			#eee 50%,
+			#000 50%
+		);
+		background-repeat: repeat-x;
+		background-size: 2px .1em;
+		background-position: 0 1.3em;
+	}
 }

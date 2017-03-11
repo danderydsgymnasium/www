@@ -1,13 +1,13 @@
 ---
 layout: base
 title: Nyheter
-cover: /images/xitfeni0dmy-patrik-gothe.png
+cover: /assets/xitfeni0dmy-patrik-gothe.png
 ---
 
 <section class="banner">
 	<div class="banner__img" style="background-image: url('{{ page.cover }}');"></div>
 	<div class="banner__content content">
-		<div class="banner__title title">{{ page.title }}</div>
+		<h1 class="banner__title">{{ page.title }}</h1>
 		<p class="banner__text"></p>
 	</div>
 </section>
@@ -21,7 +21,7 @@ cover: /images/xitfeni0dmy-patrik-gothe.png
 				<div class="news-item__title">{{ post.title }}</div>
 				<p class="news-item__text">{{ post.text }}</p>
 				<div class="label">
-					<img class="icon" src="/images/icons/calendar.svg" aria-hidden="true">
+					<img class="icon" src="/static/icons/calendar.svg" aria-hidden="true">
 					{{ post.date | date: "%e %B %Y" }}
 				</div>
 			</div>

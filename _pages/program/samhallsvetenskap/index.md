@@ -1,12 +1,10 @@
 ---
 title: Samhällsvetenskaps&shy;programmet
-short_title: Samhällsvetenskap
 collection: programs
 layout: sub
-image: /images/vq__yk6faoi-claire-anderson.png
-order: 2
-menu_name: samhallsvetenskap
-menu: samhallsvetenskap
+image: /assets/vq__yk6faoi-claire-anderson.png
+programs_order: 2
+menu_order: 0
 ---
 
 Utbildningen fokuserar på vilka faktorer som styr och bygger ett

@@ -1,14 +1,7 @@
 ---
 title: Inriktning design och produktutveckling
-subtitle: Teknik&shy;programmet
-collection: programs
 layout: sub
-image: /images/d7czyewzyzc-ricardo-gomez-angel.png
-order: 3
-menu_name: teknik
-menu:
-  teknik:
-    weight: 10
+menu_order: 1
 ---
 
 Här ligger fokus på AR och VR teknologier (samma teknologi

@@ -1,5 +1,5 @@
 {% assign counter = 0 %}
-{% assign sorted_programs = site.pages | sort: 'order' %}
+{% assign sorted_programs = site.pages | sort: 'programs_order' %}
 
 {% for program in sorted_programs  %}
 	{% if program.collection == include.collection %}

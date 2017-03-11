@@ -1,6 +1,6 @@
 ---
 title: Dagy på plats på DANTE-mässan
-image: /images/15035780_245168859231316_5614658442225516544_n.jpg
+image: /assets/15035780_245168859231316_5614658442225516544_n.jpg
 layout: post
 ---
 

@@ -1,14 +1,7 @@
 ---
 title: Poängplan
-subtitle: Matematik spetsutbildning
-collection: specializations
 layout: sub
-image: /images/5mz_m06fc9g-roman-mager.png
-order: 0
-menu_name: matematik-spets
-menu:
-  matematik-spets:
-    weight: 11
+menu_order: 2
 ---
 
 ### Gymnasiegemensamma ämnen

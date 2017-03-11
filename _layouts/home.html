@@ -3,7 +3,16 @@ layout: base
 ---
 
 <section class="slides">
-	{% for slide in page.slides %}
+	{% for _slide in page.slides %}
+		<!-- Get post from site.posts by id -->
+		{% if _slide.post %}
+			{% assign post_url = _slide.post | prepend: '/nyheter/' %}
+			{% assign slides = site.posts | where: 'id', post_url %}
+			{% assign slide = slides[0] %}
+		{% else %}
+			{% assign slide = _slide %}
+		{% endif %}
+
 		<div
 			class="slide{% if forloop.first %} slide--active{% endif %}"
 			data-img="{{ slide.image }}"
@@ -24,7 +33,16 @@ layout: base
 	{% endfor %}
 
 	<div class="slides__list">
-		{% for slide in page.slides %}
+		{% for _slide in page.slides %}
+			<!-- Get post from site.posts by id -->
+			{% if _slide.post %}
+				{% assign post_url = _slide.post | prepend: '/nyheter/' %}
+				{% assign slides = site.posts | where: 'id', post_url %}
+				{% assign slide = slides[0] %}
+			{% else %}
+				{% assign slide = _slide %}
+			{% endif %}
+
 			<div
 				class="slides__item{% if forloop.first %} slides__item--active{% endif %}"
 				tabindex="0"
@@ -34,11 +52,11 @@ layout: base
 
 	<div class="slides__buttons">
 		<button class="slides__button" aria-label="Föregående">
-			<img class="slides__button-image" src="/images/icons/chevron_left.svg" aria-hidden="true">
+			<img class="slides__button-image" src="/static/icons/chevron_left.svg" aria-hidden="true">
 		</button>
 
 		<button class="slides__button" aria-label="Nästa">
-			<img class="slides__button-image" src="/images/icons/chevron_right.svg" aria-hidden="true">
+			<img class="slides__button-image" src="/static/icons/chevron_right.svg" aria-hidden="true">
 		</button>
 	</div>
 

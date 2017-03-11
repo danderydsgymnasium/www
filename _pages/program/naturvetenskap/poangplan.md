@@ -1,13 +1,7 @@
 ---
 title: Poängplan
-subtitle: Naturvetenskaps&shy;programmet
-collection: programs
 layout: sub
-image: /images/rtzw4f02zy8-nasa.png
-menu_name: naturvetenskap
-menu:
-  naturvetenskap:
-    weight: 12
+menu_order: 3
 ---
 
 ### Gymnasiegemensamma ämnen

@@ -1,13 +1,7 @@
 ---
 title: Inriktning Naturvetenskap
-subtitle: Naturvetenskaps&shy;programmet
-collection: programs
 layout: sub
-image: /images/rtzw4f02zy8-nasa.png
-menu_name: naturvetenskap
-menu:
-  naturvetenskap:
-    weight: 10
+menu_order: 1
 ---
 
 Denna inriktning ger fördjupade kurser inom biologi,

@@ -2,10 +2,9 @@
 title: Gymnasiesärskolan
 collection: programs
 layout: sub
-image: /images/xpt4_hgzsjw-alex-robert.png
-order: 4
-menu_name: gymnasiesarskolan
-menu: gymnasiesarskolan
+image: /assets/xpt4_hgzsjw-alex-robert.png
+programs_order: 4
+menu_order: 0
 ---
 
 Programmet är till för dig som är intresserad av
@@ -47,7 +46,7 @@ delar av utbildningen på en eller flera arbetsplatser
 utanför skola
 
 <div class="profile">
-	<img class="profile__image" src="/images/CEL.png" alt="Christina Elveson">
+	<img class="profile__image" src="/assets/CEL.png" alt="Christina Elveson">
 	<div class="profile__info">
 		<div class="profile__title">Christina Elveson</div>
 

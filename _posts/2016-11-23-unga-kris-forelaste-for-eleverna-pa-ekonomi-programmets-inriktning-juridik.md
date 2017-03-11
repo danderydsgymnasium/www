@@ -1,6 +1,6 @@
 ---
 title: Unga Kris föreläste för eleverna på Ekonomi programmets inriktning Juridik
-image: /images/15181356_1612293842121468_47045289767945240_n.jpg
+image: /assets/15181356_1612293842121468_47045289767945240_n.jpg
 layout: post
 ---
 

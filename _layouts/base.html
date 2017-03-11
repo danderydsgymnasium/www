@@ -13,7 +13,7 @@ layout: compress
 			<a href="/">
 				<img
 					class="header__logo{% if layout.header_dark %} header__logo--dark{% endif %}"
-					src="/images/logo{% if layout.header_dark %}_dark{% endif %}.svg"
+					src="/static/logo{% if layout.header_dark %}_dark{% endif %}.svg"
 					alt="{{ site.title }}"
 				>
 			</a>
@@ -26,27 +26,11 @@ layout: compress
 			</label>
 
 			<nav class="nav">
-				{% assign menu = site.menus[page.menu_name] %}
+				{% for item in site.main_menu %}
+					{% assign item_url = item.url | append: '/' %}
 
-				{% for item in site.menus.main %}
-					<!--
-						Complicated way to mark the nav link as active if on a sub-page
-					-->
-					{% capture url_matches %}
-						{% for item in menu %}
-							{% if forloop.index0 == 0 %}
-								{{ item.url }}
-							{% elsif item.url == page.url %}
-								0
-							{% endif %}
-						{% endfor %}
-					{% endcapture %}
-					{% assign url_matches = url_matches | strip_newlines | replace: '	', '' | strip %}
-					{% assign item_href_match = item.url | append: '/0' %}
-
-					{% assign item_href = item.url | append: '/' %}
 					<a
-						class="nav__item{% if item_href == page.url or url_matches == item_href_match	%} nav__item--active{% endif %}"
+						class="nav__item{% if item.url == page.dirname or item_url == page.url %} nav__item--active{% endif %}"
 						href="{{ item.url }}"
 					>{{ item.title }}</a>
 				{% endfor %}
@@ -58,7 +42,7 @@ layout: compress
 		{{ content }}
 	</main>
 
-	<footer>
+	<footer class="footer">
 		<div class="content footer__content">
 			<div class="footer__column">
 				<div class="footer__title">Kontakt</div>
@@ -79,7 +63,7 @@ layout: compress
 			</div>
 
 			<div class="footer__column">
-				<img class="footer__logo" src="/images/logo.svg" alt="{{ site.title }}">
+				<img class="footer__logo" src="/static/logo.svg" alt="{{ site.title }}">
 
 				<div>
 					{% if site.instagram %}
@@ -87,13 +71,13 @@ layout: compress
 							href="https://www.instagram.com/{{ site.instagram }}"
 							class="footer__icon"
 						>
-							<img src="/images/icons/instagram.svg">
+							<img src="/static/icons/instagram.svg">
 						</a>
 					{% endif %}
 
 					{% if site.facebook %}
 						<a href="https://www.facebook.com/{{ site.facebook }}" class="footer__icon">
-							<img src="/images/icons/facebook.svg">
+							<img src="/static/icons/facebook.svg">
 						</a>
 					{% endif %}
 				</div>
@@ -102,7 +86,7 @@ layout: compress
 			<div class="footer__column">
 				<div class="footer__title">Intranät</div>
 				<span class="footer__text">
-					{% for item in site.menus.footer %}
+					{% for item in site.footer_menu %}
 						<a href="{{ item.url }}" class="footer__link">
 							{{ item.title }}
 						</a>

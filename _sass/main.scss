@@ -17,13 +17,6 @@ main {
 	position: relative;
 }
 
-// XXX
-p a,
-.anchor {
-	color: inherit;
-	@include underline();
-}
-
 .grid {
 	display: flex;
 	margin: 24px -24px;
@@ -39,17 +32,17 @@ p a,
 			display: block;
 		}
 	}
-}
 
-.grid__item {
-	margin: 0 24px;
-	overflow: hidden;
-	flex: 1;
+	&__item {
+		margin: 0 24px;
+		overflow: hidden;
+		flex: 1;
 
-	@media (max-width: 600px) {
-		flex-shrink: 0;
-		flex-basis: 75vw;
-		margin: 0 12px;
+		@media (max-width: 600px) {
+			flex-shrink: 0;
+			flex-basis: 75vw;
+			margin: 0 12px;
+		}
 	}
 }
 
@@ -96,8 +89,6 @@ section {
 	}
 }
 
-
-
 .icon {
 	vertical-align: middle;
 	margin: -4px 4px 0;
@@ -107,7 +98,6 @@ section {
 	}
 }
 
-
 .label {
 	color: #6A6563;
 	font-size: 14px;
@@ -115,11 +105,8 @@ section {
 	margin-top: 10px;
 }
 
-
-
 table {
 	margin: 16px 0;
-	// table-layout: fixed;
 	width: 100%;
 	line-height: 150%;
 	font-weight: 300;
@@ -133,8 +120,6 @@ table {
 td:first-child {
 	width: 100%;
 }
-
-
 
 .map {
 	flex: 1;

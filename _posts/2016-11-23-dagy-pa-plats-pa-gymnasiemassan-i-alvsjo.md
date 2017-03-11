@@ -1,6 +1,6 @@
 ---
 title: Dagy på plats på gymnasiemässan i Älvsjö
-image: /images/14712927_1572784792739040_8815257292240125715_o.jpg
+image: /assets/14712927_1572784792739040_8815257292240125715_o.jpg
 layout: post
 ---
 

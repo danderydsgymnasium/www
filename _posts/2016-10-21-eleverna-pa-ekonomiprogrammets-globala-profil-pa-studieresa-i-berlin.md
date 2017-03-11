@@ -1,6 +1,6 @@
 ---
 title: Eleverna på Ekonomiprogrammets globala profil på studieresa i Berlin
-image: /images/14716433_321198488243629_8099338009834422272_n.jpg
+image: /assets/14716433_321198488243629_8099338009834422272_n.jpg
 layout: post
 ---
 

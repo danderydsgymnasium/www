@@ -1,7 +1,7 @@
 ---
 layout: banner
 title: Kontakt
-cover: /images/aerial_photo.png
+cover: /assets/aerial_photo.png
 ---
 
 <div class="grid grid--responsive">
@@ -35,24 +35,14 @@ cover: /images/aerial_photo.png
 		</p>
 	</div>
 
-	<div class="map">
-		<div
-			id="map"
-			class="map__container"
-			data-lat="{{ site.position.lat }}"
-			data-lng="{{ site.position.lng }}"
-		></div>
-
-		<script defer src="/scripts/map.js"></script>
-		<script defer src="https://maps.googleapis.com/maps/api/js?callback=initMap&key={{ site.map_api_key }}"></script>
-	</div>
+	{% include map.html %}
 </div>
 
 
 <h1>Studie- och yrkesvägledare</h1>
 <div class="profiles">
 	<div class="profile">
-		<img class="profile__image" src="/images/orve.png" alt="Maj Orve">
+		<img class="profile__image" src="/assets/orve.png" alt="Maj Orve">
 		<div class="profile__info">
 			<div class="profile__title">Maj Orve</div>
 			<div></div>
@@ -67,7 +57,7 @@ cover: /images/aerial_photo.png
 	</div>
 
 	<div class="profile">
-		<img class="profile__image" src="/images/KCN.png" alt="Karin Cederström-Nidén">
+		<img class="profile__image" src="/assets/KCN.png" alt="Karin Cederström-Nidén">
 		<div class="profile__info">
 			<div class="profile__title">Karin Cederström-Nidén</div>
 			<div></div>
@@ -84,7 +74,7 @@ cover: /images/aerial_photo.png
 
 <div class="profiles">
 	<div class="profile">
-		<img class="profile__image" src="/images/lindgren.png" alt="Anna Lindgren">
+		<img class="profile__image" src="/assets/lindgren.png" alt="Anna Lindgren">
 		<div class="profile__info">
 			<div class="profile__title">Anna Lindgren</div>
 			<div></div>
@@ -99,7 +89,7 @@ cover: /images/aerial_photo.png
 	</div>
 
 	<div class="profile">
-		<img class="profile__image" src="/images/ekblom.png" alt="Elina Ekblom">
+		<img class="profile__image" src="/assets/ekblom.png" alt="Elina Ekblom">
 		<div class="profile__info">
 			<div class="profile__title">Elina Ekblom</div>
 			<div></div>
@@ -119,7 +109,7 @@ cover: /images/aerial_photo.png
 <h1>Skolledningen</h1>
 <div class="profiles">
 	<div class="profile">
-		<img class="profile__image" src="/images/wallin.png" alt="Viktoria Wallin">
+		<img class="profile__image" src="/assets/wallin.png" alt="Viktoria Wallin">
 		<div class="profile__info">
 			<div class="profile__title">Viktoria Wallin</div>
 			<div>Tf. gymnasiechef</div>
@@ -134,7 +124,7 @@ cover: /images/aerial_photo.png
 	</div>
 
 	<div class="profile">
-		<img class="profile__image" src="/images/FRY%20JEANETTE%20120x180.png" alt="Jeanette Fry">
+		<img class="profile__image" src="/assets/FRY%20JEANETTE%20120x180.png" alt="Jeanette Fry">
 		<div class="profile__info">
 			<div class="profile__title">Jeanette Fry</div>
 			<div>Rektor EK</div>
@@ -165,7 +155,7 @@ cover: /images/aerial_photo.png
 	</div>
 
 	<div class="profile">
-		<img class="profile__image" src="/images/anette-bjaras.png" alt="Anette Bjärås">
+		<img class="profile__image" src="/assets/anette-bjaras.png" alt="Anette Bjärås">
 		<div class="profile__info">
 			<div class="profile__title">Anette Bjärås</div>
 			<div>Rektor NA-TE</div>

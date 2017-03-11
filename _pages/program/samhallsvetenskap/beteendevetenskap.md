@@ -1,14 +1,7 @@
 ---
 title: Inriktning Beteendevetenskap
-subtitle: Samhällsvetenskaps&shy;programmet
-collection: programs
 layout: sub
-image: /images/vq__yk6faoi-claire-anderson.png
-order: 2
-menu_name: samhallsvetenskap
-menu:
-  samhallsvetenskap:
-    weight: 11
+menu_order: 2
 ---
 
 <br>

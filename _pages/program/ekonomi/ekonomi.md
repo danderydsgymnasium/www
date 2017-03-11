@@ -1,14 +1,7 @@
 ---
 title: Inriktning Ekonomi
-subtitle: Ekonomi&shy;programmet
-collection: programs
 layout: sub
-image: /images/16124218_455844131427852_8435288921503432704_n.jpg
-order: 1
-menu_name: ekonomi
-menu:
-  ekonomi:
-    weight: 10
+menu_order: 1
 ---
 
 Utöver företagsekonomi ingår här bland annat entreprenörskap

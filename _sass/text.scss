@@ -1,14 +1,11 @@
 @import "mixins";
 
-// XXX
 h1, h2, h3 {
 	font-weight: normal;
 	margin: 0;
 }
 
-// XXX
-h1,
-.title {
+h1 {
 	@include serif();
 	font-size: 40px;
 
@@ -21,16 +18,12 @@ h1,
 	}
 }
 
-// XXX
-h2,
-.subtitle {
+h2 {
 	@include serif();
 	font-size: 24px;
 }
 
-// XXX
-h3,
-.subheading {
+h3 {
 	@include serif();
 	font-size: 20px;
 }
@@ -57,7 +50,6 @@ li {
 	}
 }
 
-// XXX
 p,
 .text {
 	color: #6A6563;
@@ -72,6 +64,12 @@ p,
 	@media (max-width: 600px) {
 		font-size: 18px;
 	}
+}
+
+p a,
+.anchor {
+	color: inherit;
+	@include underline();
 }
 
 .text-wrapper {

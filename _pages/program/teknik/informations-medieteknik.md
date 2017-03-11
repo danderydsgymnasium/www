@@ -1,14 +1,7 @@
 ---
 title: Inriktning informations- och medieteknik
-subtitle: Teknik&shy;programmet
-collection: programs
 layout: sub
-image: /images/d7czyewzyzc-ricardo-gomez-angel.png
-order: 3
-menu_name: teknik
-menu:
-  teknik:
-    weight: 11
+menu_order: 2
 ---
 
 <br>

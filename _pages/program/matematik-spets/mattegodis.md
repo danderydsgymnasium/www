@@ -1,14 +1,7 @@
 ---
 title: Mattegodis
-subtitle: Matematik spetsutbildning
-collection: specializations
 layout: sub
-image: /images/5mz_m06fc9g-roman-mager.png
-order: 0
-menu_name: matematik-spets
-menu:
-  matematik-spets:
-    weight: 10
+menu_order: 1
 ---
 
 Varje vecka kommer här att finnas ett matematiskt problem av varierande svårighetsgrad. E-maila gärna dina lösningar och svar till

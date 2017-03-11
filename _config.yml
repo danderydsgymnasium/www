@@ -19,11 +19,30 @@ email: info@dagy.danderyd.se
 phone: 08-568 913 01
 
 
+# Menus
+main_menu:
+  - title: Söka hit
+    url: /soka-hit
+  - title: Program
+    url: /program
+  - title: Om skolan
+    url: /om-skolan
+  - title: Nyheter
+    url: /nyheter
+  - title: Kontakt
+    url: /kontakt
+footer_menu:
+  - title: Portalen
+    url: https://danderydsgymnasium.sharepoint.com
+  - title: Hypernet
+    url: https://dagy.hypernet.com
+
+
+
 # Build settings
 markdown: kramdown
 gems:
   - jekyll-paginate
-  - jekyll-menus
 exclude:
   - Gemfile
   - Gemfile.lock

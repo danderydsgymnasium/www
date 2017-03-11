@@ -1,11 +1,7 @@
 ---
-layout: banner
 title: Läsårsdata
-cover: /images/IMG_20160912_170024.png
-menu_name: om-skolan
-menu:
-  om-skolan:
-    weight: 13
+layout: banner
+menu_order: 4
 ---
 
 ## Vårterminen 2017
