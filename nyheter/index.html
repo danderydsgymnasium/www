@@ -38,8 +38,13 @@ cover: /assets/xitfeni0dmy-patrik-gothe.png
 				{% continue %}
 			{% endif %}
 
+			{% if page == 1 %}
+				{% assign paginate_path = '/nyheter' %}
+			{% else %}
+				{% assign paginate_path = site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page %}
+			{% endif %}
 			<a
-				href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}"
+				href="{{ paginate_path }}"
 				class="pagination__item{% if page == paginator.page %} pagination__item--active{% endif %}"
 			>{{page}}</a>
 		{% endfor %}
