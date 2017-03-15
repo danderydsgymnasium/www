@@ -6,6 +6,9 @@ branches:
   only:
     - master
 
+notifications:
+  email: false
+
 env:
   - JEKYLL_ENV=production
 
