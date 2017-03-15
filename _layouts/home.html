@@ -3,15 +3,12 @@ layout: base
 ---
 
 <section class="slides">
-	{% for _slide in page.slides %}
-		<!-- Get post from site.posts by id -->
-		{% if _slide.post %}
-			{% assign post_url = _slide.post | prepend: '/nyheter/' %}
-			{% assign slides = site.posts | where: 'id', post_url %}
-			{% assign slide = slides[0] %}
-		{% else %}
-			{% assign slide = _slide %}
-		{% endif %}
+	{% for index in (0..2) %}
+		{% assign slide = page.slides[index] %}
+		{% unless slide %}
+			{% assign index = index | plus: page.slides.length %}
+			{% assign slide = site.posts[index] %}
+		{% endunless %}
 
 		<div
 			class="slide{% if forloop.first %} slide--active{% endif %}"
@@ -33,15 +30,12 @@ layout: base
 	{% endfor %}
 
 	<div class="slides__list">
-		{% for _slide in page.slides %}
-			<!-- Get post from site.posts by id -->
-			{% if _slide.post %}
-				{% assign post_url = _slide.post | prepend: '/nyheter/' %}
-				{% assign slides = site.posts | where: 'id', post_url %}
-				{% assign slide = slides[0] %}
-			{% else %}
-				{% assign slide = _slide %}
-			{% endif %}
+		{% for index in (0..2) %}
+			{% assign slide = page.slides[index] %}
+			{% unless slide %}
+				{% assign index = index | plus: page.slides.length %}
+				{% assign slide = site.posts[index] %}
+			{% endunless %}
 
 			<div
 				class="slides__item{% if forloop.first %} slides__item--active{% endif %}"
