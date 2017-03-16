@@ -67,7 +67,7 @@ layout: base
 		{% for item in site.posts limit:3 %}
 			<a href="{{ item.url }}" class="card grid__item">
 				<div class="card__image" style="background-image: url('{{ item.image }}');"></div>
-				<span class="card__date">{{ item.date | date: "%e %B %Y" }}</span>
+				<span class="card__date">{{ item.date | localize: "%e %B %Y" }}</span>
 				<div class="card__title">{{ item.title }}</div>
 			</a>
 		{% endfor %}

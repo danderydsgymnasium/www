@@ -22,7 +22,7 @@ cover: /assets/xitfeni0dmy-patrik-gothe.png
 				<p class="news-item__text">{{ post.text }}</p>
 				<div class="label">
 					<img class="icon" src="/static/icons/calendar.svg" aria-hidden="true">
-					{{ post.date | date: "%e %B %Y" }}
+					{{ post.date | localize: "%e %B %Y" }}
 				</div>
 			</div>
 		</a>

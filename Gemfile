@@ -13,6 +13,7 @@ group :jekyll_plugins do
 	gem 'oga'
 	gem 'css_parser'
 	gem 'autoprefixer-rails'
+	gem 'i18n'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
