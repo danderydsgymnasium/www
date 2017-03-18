@@ -1,16 +1,5 @@
 @import "mixins";
 
-.profiles {
-	display: flex;
-	justify-content: space-between;
-	margin: 16px -16px;
-	padding: 0 16px;
-
-	@media (max-width: 760px) {
-		display: block;
-	}
-}
-
 .profile {
 	display: flex;
 	align-items: center;
