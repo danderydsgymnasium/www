@@ -3,7 +3,7 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html lang="{{ site.locale }}">
+<html lang="{{ site.lang }}">
 <head>
 	{% include head.html %}
 </head>
@@ -14,7 +14,7 @@ layout: compress
 				<img
 					class="header__logo{% if layout.header_dark %} header__logo--dark{% endif %}"
 					src="/static/logo{% if layout.header_dark %}_dark{% endif %}.svg"
-					alt="{{ site.title }}"
+					alt="{{ site.data.settings.title }}"
 				>
 			</a>
 
@@ -26,7 +26,7 @@ layout: compress
 			</label>
 
 			<nav class="nav">
-				{% for item in site.main_menu %}
+				{% for item in site.data.settings.main_menu %}
 					{% assign item_url = item.url | append: '/' %}
 
 					<a
@@ -48,35 +48,35 @@ layout: compress
 				<div class="footer__title">Kontakt</div>
 				<span class="footer__text">
 					<a
-						href="https://maps.google.com/?q={{ site.address | url_param_escape }}"
+						href="https://maps.google.com/?q={{ site.data.settings.address | url_param_escape }}"
 						class="footer__link"
-					>{{ site.address }}</a>
+					>{{ site.data.settings.address }}</a>
 
-					<a href="mailto:{{ site.email }}" class="footer__link">
-						{{ site.email }}
+					<a href="mailto:{{ site.data.settings.email }}" class="footer__link">
+						{{ site.data.settings.email }}
 					</a>
 
-					<a href="tel:{{ site.phone }}" class="footer__link">
-						{{ site.phone }}
+					<a href="tel:{{ site.data.settings.phone }}" class="footer__link">
+						{{ site.data.settings.phone }}
 					</a>
 				</span>
 			</div>
 
 			<div class="footer__column">
-				<img class="footer__logo" src="/static/logo.svg" alt="{{ site.title }}">
+				<img class="footer__logo" src="/static/logo.svg" alt="{{ site.data.settings.title }}">
 
 				<div>
-					{% if site.instagram %}
+					{% if site.data.settings.instagram %}
 						<a
-							href="https://www.instagram.com/{{ site.instagram }}"
+							href="https://www.instagram.com/{{ site.data.settings.instagram }}"
 							class="footer__icon"
 						>
 							<img src="/static/icons/instagram.svg">
 						</a>
 					{% endif %}
 
-					{% if site.facebook %}
-						<a href="https://www.facebook.com/{{ site.facebook }}" class="footer__icon">
+					{% if site.data.settings.facebook %}
+						<a href="https://www.facebook.com/{{ site.data.settings.facebook }}" class="footer__icon">
 							<img src="/static/icons/facebook.svg">
 						</a>
 					{% endif %}
@@ -84,9 +84,9 @@ layout: compress
 			</div>
 
 			<div class="footer__column">
-				<div class="footer__title">Intranät</div>
+				<div class="footer__title">{{ site.data.settings.footer_menu_title }}</div>
 				<span class="footer__text">
-					{% for item in site.footer_menu %}
+					{% for item in site.data.settings.footer_menu %}
 						<a href="{{ item.url }}" class="footer__link">
 							{{ item.title }}
 						</a>
@@ -102,7 +102,7 @@ layout: compress
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-		ga('create', '{{ site.analytics_id }}', 'auto');
+		ga('create', '{{ site.data.settings.analytics_id }}', 'auto');
 		ga('send', 'pageview');
 	</script>
 </body>

@@ -6,29 +6,29 @@ layout: banner
 	<div class="grid__item">
 		<h2>Telefon</h2>
 		<p class="text">
-			<a href="tel:{{ site.phone }}" class="anchor">
-				{{ site.phone }}
+			<a href="tel:{{ site.data.settings.phone }}" class="anchor">
+				{{ site.data.settings.phone }}
 			</a>
 		</p>
 
 		<h2>E-post</h2>
 		<p class="text">
-			<a href="mailto:{{ site.email }}" class="anchor">
-				{{ site.email }}
+			<a href="mailto:{{ site.data.settings.email }}" class="anchor">
+				{{ site.data.settings.email }}
 			</a>
 		</p>
 
 		<h2>Adress</h2>
 		<p class="text">
 			<a
-				href="https://maps.google.com/?q={{ site.address | url_param_escape }}"
+				href="https://maps.google.com/?q={{ site.data.settings.address | url_param_escape }}"
 				class="anchor"
-			>{{ site.address }}</a>
+			>{{ site.data.settings.address }}</a>
 		</p>
 
 		<h2>Kollektivtrafik</h2>
 		<p class="text">
-			{{ site.public_transport | newline_to_br }}
+			{{ site.data.settings.public_transport | newline_to_br }}
 		</p>
 	</div>
 

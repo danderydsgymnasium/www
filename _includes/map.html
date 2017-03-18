@@ -2,10 +2,10 @@
 	<div
 		id="map"
 		class="map__container"
-		data-lat="{{ site.position.lat }}"
-		data-lng="{{ site.position.lng }}"
+		data-lat="{{ site.data.settings.position.lat }}"
+		data-lng="{{ site.data.settings.position.lng }}"
 	></div>
 
 	<script defer src="/scripts/map.js"></script>
-	<script defer src="https://maps.googleapis.com/maps/api/js?callback=initMap&key={{ site.map_api_key }}"></script>
+	<script defer src="https://maps.googleapis.com/maps/api/js?callback=initMap&key={{ site.data.settings.map_api_key }}"></script>
 </div>

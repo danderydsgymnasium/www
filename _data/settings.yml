@@ -1,0 +1,37 @@
+title: Danderyds gymnasium
+short_title: Dagy
+
+analytics_id: UA-22710728-1
+map_api_key: AIzaSyC4jgcxxVkfMlOyyB_elm4qrdu12YgvEYc
+
+instagram: danderyds.gymnasium
+facebook: dandgym
+
+address: Rinkebyvägen 4, 182 36 Danderyd
+position:
+  lat: 59.4151194
+  lng: 18.0423185
+email: info@dagy.danderyd.se
+phone: 08-568 913 01
+public_transport: |
+  Buss: 602, 604, 611, 613
+  Roslagsbanan: Djursholms Ekeby Station
+
+main_menu:
+  - title: Söka hit
+    url: /soka-hit
+  - title: Program
+    url: /program
+  - title: Om skolan
+    url: /om-skolan
+  - title: Nyheter
+    url: /nyheter
+  - title: Kontakt
+    url: /kontakt
+
+footer_menu_title: Intranät
+footer_menu:
+  - title: Portalen
+    url: https://danderydsgymnasium.sharepoint.com
+  - title: Hypernet
+    url: https://dagy.hypernet.com
