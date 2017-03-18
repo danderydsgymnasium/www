@@ -17,6 +17,10 @@ position:
   lng: 18.0423185
 email: info@dagy.danderyd.se
 phone: 08-568 913 01
+public_transport: |
+  Buss: 602, 604, 611, 613
+  Roslagsbanan: Djursholms Ekeby Station
+
 
 lang: 'sv-SE'
 

@@ -1,47 +1,13 @@
 ---
-layout: banner
+layout: contact
 title: Kontakt
 cover: /assets/aerial_photo.png
 ---
 
+# Studie- och yrkesvägledare
+
 <div class="grid grid--responsive">
-	<div>
-		<h2>Telefon</h2>
-		<p class="text">
-			<a href="tel:{{ site.phone }}" class="anchor">
-				{{ site.phone }}
-			</a>
-		</p>
-
-		<h2>E-post</h2>
-		<p class="text">
-			<a href="mailto:{{ site.email }}" class="anchor">
-				{{ site.email }}
-			</a>
-		</p>
-
-		<h2>Adress</h2>
-		<p class="text">
-			<a
-				href="https://maps.google.com/?q={{ site.address | url_param_escape }}"
-				class="anchor"
-			>{{ site.address }}</a>
-		</p>
-
-		<h2>Kollektivtrafik</h2>
-		<p class="text">
-			Buss: 602, 604, 611, 613<br>
-			Roslagsbanan: Djursholms Ekeby Station
-		</p>
-	</div>
-
-	{% include map.html %}
-</div>
-
-
-<h1>Studie- och yrkesvägledare</h1>
-<div class="profiles">
-	<div class="profile">
+	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/orve.png" alt="Maj Orve">
 		<div class="profile__info">
 			<div class="profile__title">Maj Orve</div>
@@ -56,7 +22,7 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 
-	<div class="profile">
+	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/KCN.png" alt="Karin Cederström-Nidén">
 		<div class="profile__info">
 			<div class="profile__title">Karin Cederström-Nidén</div>
@@ -72,8 +38,8 @@ cover: /assets/aerial_photo.png
 	</div>
 </div>
 
-<div class="profiles">
-	<div class="profile">
+<div class="grid grid--responsive">
+	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/lindgren.png" alt="Anna Lindgren">
 		<div class="profile__info">
 			<div class="profile__title">Anna Lindgren</div>
@@ -88,7 +54,7 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 
-	<div class="profile">
+	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/ekblom.png" alt="Elina Ekblom">
 		<div class="profile__info">
 			<div class="profile__title">Elina Ekblom</div>
@@ -104,11 +70,10 @@ cover: /assets/aerial_photo.png
 	</div>
 </div>
 
+# Skolledningen
 
-
-<h1>Skolledningen</h1>
-<div class="profiles">
-	<div class="profile">
+<div class="grid grid--responsive">
+	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/wallin.png" alt="Viktoria Wallin">
 		<div class="profile__info">
 			<div class="profile__title">Viktoria Wallin</div>
@@ -123,7 +88,7 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 
-	<div class="profile">
+	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/FRY%20JEANETTE%20120x180.png" alt="Jeanette Fry">
 		<div class="profile__info">
 			<div class="profile__title">Jeanette Fry</div>
@@ -139,8 +104,8 @@ cover: /assets/aerial_photo.png
 	</div>
 </div>
 
-<div class="profiles">
-	<div class="profile">
+<div class="grid grid--responsive">
+	<div class="profile grid__item">
 		<div class="profile__info">
 			<div class="profile__title">Stig Liljeström</div>
 			<div>Rektor SA-NA-ES</div>
@@ -154,7 +119,7 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 
-	<div class="profile">
+	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/anette-bjaras.png" alt="Anette Bjärås">
 		<div class="profile__info">
 			<div class="profile__title">Anette Bjärås</div>

@@ -1,0 +1,38 @@
+---
+layout: banner
+---
+
+<div class="grid grid--responsive">
+	<div class="grid__item">
+		<h2>Telefon</h2>
+		<p class="text">
+			<a href="tel:{{ site.phone }}" class="anchor">
+				{{ site.phone }}
+			</a>
+		</p>
+
+		<h2>E-post</h2>
+		<p class="text">
+			<a href="mailto:{{ site.email }}" class="anchor">
+				{{ site.email }}
+			</a>
+		</p>
+
+		<h2>Adress</h2>
+		<p class="text">
+			<a
+				href="https://maps.google.com/?q={{ site.address | url_param_escape }}"
+				class="anchor"
+			>{{ site.address }}</a>
+		</p>
+
+		<h2>Kollektivtrafik</h2>
+		<p class="text">
+			{{ site.public_transport | newline_to_br }}
+		</p>
+	</div>
+
+	{% include map.html %}
+</div>
+
+{{ content }}
