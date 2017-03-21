@@ -32,7 +32,7 @@
       } ]
     } ],
     "redirects": [ {
-      "source": "/@(d|D)efault.aspx\?epslanguage=@(sv|SV)",
+      "source": "/@(d|D)efault.aspx*",
       "destination": "/",
       "type": 301
     }, {
