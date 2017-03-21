@@ -4,19 +4,25 @@ program/naturvetenskap:
   - title: För elever med ASD/Aspergers syndrom
     url: /program/aspergers
   - title: Musik, Bild och formgivning eller Teater
-    url: /program/naturvetenskap/estet
+    url: /program/estet
 
 program/samhallsvetenskap:
   - title: För elever med ASD/Aspergers syndrom
     url: /program/aspergers
   - title: Musik, Bild och formgivning eller Teater
-    url: /program/samhallsvetenskap/estet
+    url: /program/estet
 
 program/matematik-spets:
   - title: Naturvetenskapsprogrammet
     url: /program/naturvetenskap
 
 program/aspergers:
+  - title: Samhällsvetenskapsprogrammet
+    url: /program/samhallsvetenskap
+  - title: Naturvetenskapsprogrammet
+    url: /program/naturvetenskap
+
+program/estet:
   - title: Samhällsvetenskapsprogrammet
     url: /program/samhallsvetenskap
   - title: Naturvetenskapsprogrammet
