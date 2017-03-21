@@ -6,8 +6,8 @@ layout: base
 	{% for index in (0..2) %}
 		{% assign slide = page.slides[index] %}
 		{% unless slide %}
-			{% assign index = index | plus: page.slides.length %}
-			{% assign slide = site.posts[index] %}
+			{% assign _index = forloop.index0 | minus: page.slides.size %}
+			{% assign slide = site.posts[_index] %}
 		{% endunless %}
 
 		<div
@@ -33,8 +33,8 @@ layout: base
 		{% for index in (0..2) %}
 			{% assign slide = page.slides[index] %}
 			{% unless slide %}
-				{% assign index = index | plus: page.slides.length %}
-				{% assign slide = site.posts[index] %}
+				{% assign _index = forloop.index0 | minus: page.slides.size %}
+				{% assign slide = site.posts[_index] %}
 			{% endunless %}
 
 			<div
