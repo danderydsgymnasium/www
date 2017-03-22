@@ -22,6 +22,10 @@ Studiedag
 
 Påsklov
 
+### Måndag 17/4
+
+Lovdag, annandag påsk
+
 ### Måndag 1/5
 
 Lovdag, 1:a maj
