@@ -22,8 +22,6 @@ autoprefixer:
 kramdown:
   auto_ids: false
   input: GFM
-# Show posts in the future
-future: true
 # Posts permalink
 permalink: /nyheter/:title/
 # Pagination
