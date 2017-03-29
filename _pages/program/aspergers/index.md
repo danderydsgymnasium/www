@@ -4,7 +4,7 @@ collection: specializations
 layout: sub
 image: /assets/student_1.jpg
 programs_order: 2
-menu_name: aspergers
+menu_order: 0
 ---
 
 På Danderyds gymnasium erbjuder vi elever med Asperger syndrom en utbildning inom Naturprogrammet med samhällsinriktning och Samhällsprogrammet med samhällsinriktning.
