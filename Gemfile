@@ -14,6 +14,7 @@ group :jekyll_plugins do
 	gem 'css_parser'
 	gem 'autoprefixer-rails'
 	gem 'i18n'
+	gem 'image_size'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

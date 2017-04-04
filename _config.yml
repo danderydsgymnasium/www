@@ -2,7 +2,7 @@ theme_color: '#001B30'
 lang: sv-SE
 
 # Build settings
-markdown: kramdown
+markdown: KramdownCustom
 gems:
   - jekyll-paginate
 exclude:
