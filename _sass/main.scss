@@ -139,6 +139,7 @@ td:first-child {
 
 .aspect-ratio {
 	position: relative;
+	margin: 0 auto;
 
 	&__force {
 		content: "";

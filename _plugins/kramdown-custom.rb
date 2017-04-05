@@ -27,12 +27,15 @@ class Jekyll::Converters::Markdown::KramdownCustom
 		html_tree = Oga.parse_html(html)
 
 		html_tree.css('img').each do |img|
-			img_src_attr = img.attributes.find { |attr| attr.name == 'src' }
 
 			# Image already has class, was created from HTML, not Markdown. Bail
 			if (!!img.attributes.find { |attr| attr.name == 'class' })
 				next
 			end
+
+			# Get image size
+			img_src_attr = img.attributes.find { |attr| attr.name == 'src' }
+			image_size = ImageSize.path(Dir.pwd + URI.unescape(img_src_attr.value))
 
 			# Add class to img
 			img_class_attr = Oga::XML::Attribute.new({
@@ -50,6 +53,11 @@ class Jekyll::Converters::Markdown::KramdownCustom
 				:value => 'aspect-ratio'
 			})
 			ratio.attributes.push(ratio_class_attr)
+			ratio_style_attr = Oga::XML::Attribute.new({
+				:name => 'style',
+				:value => "max-height:#{image_size.height}px;max-width:#{image_size.width}px;"
+			})
+			ratio.attributes.push(ratio_style_attr)
 			img.replace(ratio)
 
 			# Force aspect ratio
@@ -61,7 +69,6 @@ class Jekyll::Converters::Markdown::KramdownCustom
 				:value => 'aspect-ratio__force'
 			})
 			force.attributes.push(force_class_attr)
-			image_size = ImageSize.path(Dir.pwd + URI.unescape(img_src_attr.value))
 			force_style_attr = Oga::XML::Attribute.new({
 				:name => 'style',
 				:value => "padding-top:#{image_size.height.to_f / image_size.width.to_f * 100}%;"
