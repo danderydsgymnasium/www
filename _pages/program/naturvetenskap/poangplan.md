@@ -76,12 +76,12 @@ menu_order: 3
 | Geografi 1 | 100p |
 | Biologi 2 | 100p |
 
-### Programfördjupning Idrott och hälsa
+### Programfördjupning
 
-| Träningslära 1 | 100p |
-| Träningslära 2 | 100p |
-| Psykologi 1 | 50p |
-| Psykologi 2b | 50p |
+| Psykologi 1 |
+| Filosofi 1 |
+| Entreprenörskap och företagande |
+| Entreprenörskap 1 |
 
 ## Matematik spetsutbildning
 

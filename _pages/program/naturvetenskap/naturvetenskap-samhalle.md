@@ -6,12 +6,7 @@ menu_order: 2
 
 <br>
 
-## Idrott och hälsa
+## Entreprenörskap
 
-Inom inriktning Naturvetenskap och Samhälle erbjuder vi
-en programfördjupning med fokus på människors fysiska
-och psykiska hälsa. Programfördjupningen heter Idrott och
-hälsa och har skapats för att garantera dig kurser med fysisk
-aktivitet under alla dina tre år på gymnasiet. För ökad
-behörighet till högskolan kan du till exempel läsa Matematik
-4 och Fysik 2 inom ramen för ditt individuella val.
+Inom inriktningen Naturvetenskap och Samhälle erbjuder vi en programfördjupning med fokus på entreprenörskap. Du får möjlighet att använda dina breda kunskaper i kombination med entreprenöriellt lärande och i årskurs 3 får du möjligheten att starta ett UF företag.
+För ökad behörighet till högskolan kan du läsa till exempel Fysik 2 eller Matematik 4 inom ramen för ditt individuella val.
