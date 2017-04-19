@@ -78,10 +78,10 @@ menu_order: 3
 
 ### Programfördjupning
 
-| Psykologi 1 |
-| Filosofi 1 |
-| Entreprenörskap och företagande |
-| Entreprenörskap 1 |
+| Psykologi 1 | 50p |
+| Filosofi 1 | 50p |
+| Entreprenörskap och företagande | 100p |
+| Entreprenörskap 1 | 100p |
 
 ## Matematik spetsutbildning
 
