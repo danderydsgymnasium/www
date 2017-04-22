@@ -1,6 +1,5 @@
 language: ruby
 rvm: 2.3.0
-node_js: 7
 
 branches:
   only:
@@ -13,6 +12,7 @@ env:
   - JEKYLL_ENV=production
 
 install:
+  - nvm install 7
   - gem install jekyll
   - bundle install
   - npm install -g firebase-tools
