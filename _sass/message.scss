@@ -2,7 +2,7 @@
 
 .message {
 	background: #f6f5f3;
-	padding: 110px 0;
+	padding: 110px 18px;
 	text-align: center;
 	border-top: 6px solid #0091EA;
 	margin-bottom: 0;
@@ -10,7 +10,7 @@
 	@include sans();
 
 	@media (max-width: 600px) {
-		padding: 64px 0;
+		padding: 64px 18px;
 	}
 
 	&__title {

@@ -4,8 +4,6 @@ layout: sub
 menu_order: 2
 ---
 
-<br>
-
 # Fördjupningar
 
 ## Ledarskap

@@ -4,8 +4,6 @@ layout: sub
 menu_order: 1
 ---
 
-<br>
-
 ## Naturvetenskapsprogrammet
 
 ### Gymnasiegemensamma ämnen

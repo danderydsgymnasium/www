@@ -53,6 +53,10 @@ main {
 	margin-right: auto;
 	box-sizing: border-box;
 
+	&__spacer {
+		height: 16px;
+	}
+
 	&--columns {
 		display: flex;
 
@@ -140,6 +144,10 @@ td:first-child {
 .aspect-ratio {
 	position: relative;
 	margin: 0 auto;
+
+	& + & {
+		margin-top: 18px;
+	}
 
 	&__force {
 		content: "";
