@@ -1,5 +1,6 @@
 ---
 title: Samhällsvetenskaps&shy;programmet
+short_title: Samhällsvetenskap
 collection: programs
 layout: sub
 image: /assets/vq__yk6faoi-claire-anderson.png
