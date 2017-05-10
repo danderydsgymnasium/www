@@ -25,6 +25,8 @@ vidare studier såväl i Sverige som utomlands. Den praktikperiod
 som våra elever de senaste åren genomfört i London
 har gett dem arbetslivserfarenhet och nya värdefulla nätverk.
 
+{% include video.html src="/assets/Inte.ek.10.mp4" %}
+
 ## Kreativ marknadsföring
 
 Är du intresserad av marknadsföring
@@ -39,3 +41,5 @@ får ett försprång kring entreprenöriella kunskaper. Inom
 ramen för programfördjupningen läser du kurserna Grafisk
 kommunikation, Medier Samhälle och kommunikation
 samt en fördjupningskurs inom Marknadsföring.
+
+{% include video.html src="/assets/kreativ08.mp4" %}

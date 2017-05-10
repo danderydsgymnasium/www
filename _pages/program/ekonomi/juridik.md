@@ -36,3 +36,5 @@ Hos oss får du efter genomförda studier full behörighet till
 fortsatta ekonomistudier på högskolenivå eftersom kursen
 Matematik 3 är obligatorisk. Dessutom ingår kurserna
 Företagsekonomi 2 och Moderna språk.
+
+{% include video.html src="/assets/Juridik04.mp4" %}
