@@ -40,7 +40,7 @@ Lovdag, Sveriges nationaldag
 
 ### Fredag 9/6
 
-Studenten
+Studenten. Utspringet sker klockan 13.00.
 
 ### Tisdag 13/6
 
