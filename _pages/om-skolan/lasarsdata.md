@@ -68,7 +68,7 @@ Terminavslutning: Onsdag 13 juni.
 
 * Sportlov: vecka 9 (26 februari - 2 mars)
 * Påsklov: vecka 14 (30 mars - 6 april)
-* Lov: 31 april och 1 maj
+* Lov: 30 april och 1 maj
 * Kristi himmelsfärdsdag samt lov efter Kristi himmelsfärdsdag: 10 - 11 maj.
 * Sveriges nationaldag: 6 juni.
 
