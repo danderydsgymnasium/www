@@ -17,18 +17,6 @@ public_transport: |
   Buss: 602, 604, 611, 613
   Roslagsbanan: Djursholms Ekeby Station
 
-main_menu:
-  - title: Söka hit
-    url: /soka-hit
-  - title: Program
-    url: /program
-  - title: Om skolan
-    url: /om-skolan
-  - title: Nyheter
-    url: /nyheter
-  - title: Kontakt
-    url: /kontakt
-
 footer_menu_title: Intranät
 footer_menu:
   - title: Portalen
