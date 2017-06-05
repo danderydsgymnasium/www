@@ -27,6 +27,7 @@ layout: compress
 
 			<nav class="nav">
 				{% for item in site.data.menus.main_menu %}
+					{% if item.hidden %} {% continue %} {% endif %}
 					{% assign item_url = item.url | append: '/' %}
 
 					<a
