@@ -4,48 +4,6 @@ layout: banner
 menu_order: 4
 ---
 
-## Vårterminen 2017
-
-### Måndag 9/1
-
-Första skoldag efter jullovet
-
-### Vecka 9
-
-Sportlov
-
-### Måndag 6/3
-
-Studiedag
-
-### Vecka 15
-
-Påsklov
-
-### Måndag 17/4
-
-Lovdag, annandag påsk
-
-### Måndag 1/5
-
-Lovdag, 1:a maj
-
-### Torsdag 25/5
-
-Kristi Himmelsfärdsdag
-
-### Tisdag 6/6
-
-Lovdag, Sveriges nationaldag
-
-### Fredag 9/6
-
-Studenten. Utspringet sker klockan 13.00.
-
-### Tisdag 13/6
-
-Avslutning åk 1 och 2
-
 ## Höstterminen 2017
 
 Terminstart: Tisdagen 15 augusti upprop åk 1. Torsdagen 17 augusti upprop åk 2-3.
