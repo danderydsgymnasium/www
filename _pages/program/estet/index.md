@@ -25,3 +25,20 @@ Musikundervisningen strävar efter att stimulera samspel, samarbetsförmåga och
 I vår teaterstudio arbetar vi med improvisationer och teknikövningar med syfte att utveckla din förmåga att spela teater och att kommunicera med publiken. Du tillägnar dig kunskap med utgångspunkt i teater som kommer till användning i framtida studier och yrken. Med både allvar och humor prövar vi roller och situationer för att få gamla och nya texter att leva inför publik. Genom att ta del av Stockholms rika teaterliv hittar vi förebilder och får inspiration.
 
 ![Teater](/assets/DSC_0132.jpg kyss på hand.jpg)
+
+
+ -Kontaktperson:<br>
+ -Robert Lindström<br>
+ -[rlindstrom@dagy.danderyd.se](mailto:rlindstrom@dagy.danderyd.se)
+ 
+ 
+ -Kontaktperson:<br>
+ -Staffan Isbäck<br>
+ -[08-568 913 54](tel:08-568 913 54)<br>
+ -[staffan.isback@dagy.danderyd.se](mailto:staffan.isback@dagy.danderyd.se)
+ 
+ 
+ -Kontaktperson:<br>
+ -Martin Lange<br>
+ -[08-568 913 55](tel:08-568 913 55)<br>
+ -[martin.lange@dagy.danderyd.se](mailto:martin.lange@dagy.danderyd.se)
