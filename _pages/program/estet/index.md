@@ -16,9 +16,21 @@ I inriktningen ligger fokus på det fria konstnärliga skapandet i olika teknike
 
 ![Bildsal](/assets/bildsal.jpg)
 
+
+Kontaktperson:<br>
+Robert Lindström<br>
+[rlindstrom@dagy.danderyd.se](mailto:rlindstrom@dagy.danderyd.se)
+
+
 ## Musik
 
 Musikundervisningen strävar efter att stimulera samspel, samarbetsförmåga och att utveckla din kreativitet och självkänsla. Genom konserter och musikprojekt får du möjlighet att i små grupper spela och sjunga pop, visor, blues, rock, musikal och jazz. Kören är ett viktigt inslag i skolans musiktraditioner. Under hela din gymnasietid får du också enskild undervisning på ditt huvudinstrument, som kan vara sång.
+
+
+Kontaktperson:<br>
+Robert Lindström<br>
+[rlindstrom@dagy.danderyd.se](mailto:rlindstrom@dagy.danderyd.se)
+
 
 ## Teater
 
@@ -26,17 +38,6 @@ I vår teaterstudio arbetar vi med improvisationer och teknikövningar med syfte
 
 ![Teater](/assets/DSC_0132.jpg kyss på hand.jpg)
 
-
-Kontaktperson:<br>
-Robert Lindström<br>
-[rlindstrom@dagy.danderyd.se](mailto:rlindstrom@dagy.danderyd.se)
- 
- 
-Kontaktperson:<br>
-Staffan Isbäck<br>
-[08-568 913 54](tel:08-568 913 54)<br>
-[staffan.isback@dagy.danderyd.se](mailto:staffan.isback@dagy.danderyd.se)
- 
  
 Kontaktperson:<br>
 Martin Lange<br>
