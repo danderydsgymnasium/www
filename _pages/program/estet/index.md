@@ -27,18 +27,18 @@ I vår teaterstudio arbetar vi med improvisationer och teknikövningar med syfte
 ![Teater](/assets/DSC_0132.jpg kyss på hand.jpg)
 
 
- -Kontaktperson:<br>
- -Robert Lindström<br>
- -[rlindstrom@dagy.danderyd.se](mailto:rlindstrom@dagy.danderyd.se)
+Kontaktperson:<br>
+Robert Lindström<br>
+[rlindstrom@dagy.danderyd.se](mailto:rlindstrom@dagy.danderyd.se)
  
  
- -Kontaktperson:<br>
- -Staffan Isbäck<br>
- -[08-568 913 54](tel:08-568 913 54)<br>
- -[staffan.isback@dagy.danderyd.se](mailto:staffan.isback@dagy.danderyd.se)
+Kontaktperson:<br>
+Staffan Isbäck<br>
+[08-568 913 54](tel:08-568 913 54)<br>
+[staffan.isback@dagy.danderyd.se](mailto:staffan.isback@dagy.danderyd.se)
  
  
- -Kontaktperson:<br>
- -Martin Lange<br>
- -[08-568 913 55](tel:08-568 913 55)<br>
- -[martin.lange@dagy.danderyd.se](mailto:martin.lange@dagy.danderyd.se)
+Kontaktperson:<br>
+Martin Lange<br>
+[08-568 913 55](tel:08-568 913 55)<br>
+[martin.lange@dagy.danderyd.se](mailto:martin.lange@dagy.danderyd.se)
