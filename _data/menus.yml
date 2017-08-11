@@ -1,20 +1,14 @@
 main_menu:
-  - title: Index
-    hidden: true
-    removable: false
-    reorderable: false
   - title: Söka hit
     url: /soka-hit
   - title: Program
     url: /program
     edit_url: /programs
-    removable: false
   - title: Om skolan
     url: /om-skolan
   - title: Nyheter
     url: /nyheter
     edit_url: /posts
-    removable: false
   - title: Kontakt
     url: /kontakt
 
