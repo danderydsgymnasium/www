@@ -16,21 +16,9 @@ I inriktningen ligger fokus på det fria konstnärliga skapandet i olika teknike
 
 ![Bildsal](/assets/bildsal.jpg)
 
-
-Kontaktperson:<br>
-Robert Lindström<br>
-[rlindstrom@dagy.danderyd.se](mailto:rlindstrom@dagy.danderyd.se)
-
-
 ## Musik
 
 Musikundervisningen strävar efter att stimulera samspel, samarbetsförmåga och att utveckla din kreativitet och självkänsla. Genom konserter och musikprojekt får du möjlighet att i små grupper spela och sjunga pop, visor, blues, rock, musikal och jazz. Kören är ett viktigt inslag i skolans musiktraditioner. Under hela din gymnasietid får du också enskild undervisning på ditt huvudinstrument, som kan vara sång.
-
-
-Kontaktperson:<br>
-Robert Lindström<br>
-[rlindstrom@dagy.danderyd.se](mailto:rlindstrom@dagy.danderyd.se)
-
 
 ## Teater
 
@@ -38,7 +26,37 @@ I vår teaterstudio arbetar vi med improvisationer och teknikövningar med syfte
 
 ![Teater](/assets/DSC_0132.jpg kyss på hand.jpg)
 
- 
+# Ansökan
+
+## Bild och Formgivning
+
+Du kommer till Danderyds gymnasium i mars och gör två uppgifter under några timmar. Då får du också prata med bildansvarig. Datum för provet skickas ut med brev till alla som söker inriktningen. Ditt arbete utgör underlag för bedömning av din förutsättning att utvecklas på bild och form inriktningen. Bilduppgifterna ges en provpoäng, som tillsammans med betyget från åk 9 utgör underlag för antagning.
+
+Kontaktperson:<br>
+Robert Lindström<br>
+[rlindstrom@dagy.danderyd.se](mailto:rlindstrom@dagy.danderyd.se)
+
+## Musik
+
+Du som söker musikinriktningen kallas till ett provtillfälle. Då vill vi att du spelar två korta stycken på ditt huvudinstrument, gärna olika slags musik. Om ditt huvudinstrument är sång så sjunger du två sånger. Kan du spela flera instrument får du gärna visa det. Du kan till exempel kompa dig själv när du sjunger.
+
+[Vem kan segla](/assets/VemKanSeglaförutanVind.pdf) är en obligatorisk sång. Vi gör även ett litet gehörs och teoriprov samt en kortare intervju.
+
+Läs mer om antagningsprovet här: [Antagningsprov i musik](/assets/Antagningsprov Musik.pdf)
+
+Glöm inte att ta med noter om du vill att vi ska kompa dig. Är noterna komplicerade är vi tacksamma om du skickar dem i förväg så att vi kan förbereda oss. Vi sätter en provpoäng, som tillsammans med betyget från åk 9 utgör underlag för antagning.
+
+Kontaktperson:<br>
+Staffan Isbäck<br>
+[08-568 913 54](tel:08-568 913 54)<br>
+[staffan.isback@dagy.danderyd.se](mailto:staffan.isback@dagy.danderyd.se)
+
+## Teater
+
+Provet går till så här:
+
+Tillsammans med andra sökande deltar du först i några teater- och improvisationsövningar. Sedan förbereder vi tillsammans en kort scen som kan handla om människor i ett väntrum, i en park eller på en flygplats. Efteråt samtalar vi kort om varför du vill studera på teaterinriktningen. Inga förkunskaper eller förberedelse krävs, men fundera på hur teater kan stödja ditt lärande under gymnasietiden.
+
 Kontaktperson:<br>
 Martin Lange<br>
 [08-568 913 55](tel:08-568 913 55)<br>
