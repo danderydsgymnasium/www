@@ -20,11 +20,13 @@ I inriktningen ligger fokus på det fria konstnärliga skapandet i olika teknike
 
 Musikundervisningen strävar efter att stimulera samspel, samarbetsförmåga och att utveckla din kreativitet och självkänsla. Genom konserter och musikprojekt får du möjlighet att i små grupper spela och sjunga pop, visor, blues, rock, musikal och jazz. Kören är ett viktigt inslag i skolans musiktraditioner. Under hela din gymnasietid får du också enskild undervisning på ditt huvudinstrument, som kan vara sång.
 
+![Musik](/assets/Lycka_DAGY_BA_Photo040.jpg)
+
 ## Teater
 
 I vår teaterstudio arbetar vi med improvisationer och teknikövningar med syfte att utveckla din förmåga att spela teater och att kommunicera med publiken. Du tillägnar dig kunskap med utgångspunkt i teater som kommer till användning i framtida studier och yrken. Med både allvar och humor prövar vi roller och situationer för att få gamla och nya texter att leva inför publik. Genom att ta del av Stockholms rika teaterliv hittar vi förebilder och får inspiration.
 
-![Teater](/assets/DSC_0132.jpg kyss på hand.jpg)
+![Teater](/assets/Lycka_DAGY_BA_Photo084.jpg)
 
 # Ansökan
 
