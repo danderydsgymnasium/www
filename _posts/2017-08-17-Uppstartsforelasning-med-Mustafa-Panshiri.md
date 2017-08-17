@@ -1,6 +1,6 @@
 ---
 title: Uppstartsföreläsning med Mustafa Panshiri
-image: /assets/_DSC6364.JPG 
+image: /assets/DSC6364.jpg  
 layout: post
 ---
 Idag fylldes DaGy med ännu fler glada elever, då vi även kunde hälsa alla elever i årskurs två och tre varmt välkomna tillbaka. 
