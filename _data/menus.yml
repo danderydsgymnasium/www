@@ -31,10 +31,10 @@ program/ekonomi:
     url: /nyheter/tva-veckors-praktik-i-london
 
 program/samhallsvetenskap:
-  - title: För elever med ASD/Aspergers syndrom
-    url: /program/aspergers
   - title: Musik, Bild och formgivning eller Teater
     url: /program/estet
+  - title: För elever med ASD/Aspergers syndrom
+    url: /program/aspergers
 
 program/matematik-spets:
   - title: Naturvetenskapsprogrammet
