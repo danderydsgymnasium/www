@@ -3,7 +3,7 @@ title: Antagningsprov Musik, Bild och formgivning eller Teater
 image: /assets/smaller-2017-05-16T09-48-52.937Z.jpeg
 layout: post
 ---
-# Ansökan
+
 
 ## Bild och Formgivning
 
