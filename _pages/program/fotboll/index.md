@@ -23,7 +23,9 @@ begränsat antal platser. (Skicka in din ansökan så att den
 krävs att eleven har betyg för att komma in på ett program
 kombinerbart med NIU.
 
-["Danderyds gymnasium är en stor anledning till att fotbollen i norrort har tagit stora steg"](http://norrortssporten.se/har-vi-verkligen-nagot-att-klaga-pa/)
+## Länk till artikel:
+
+[<i>"Danderyds gymnasium är en stor anledning till att fotbollen i norrort har tagit stora steg"</i>](http://norrortssporten.se/har-vi-verkligen-nagot-att-klaga-pa/)
 
 ## Huvudmomenten i utbildningen är
 
