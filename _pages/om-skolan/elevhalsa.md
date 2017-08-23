@@ -53,10 +53,10 @@ menu_order: 3
 
 <div class="profile">
 	<div class="profile__info">
-		<div class="profile__title">Sari Ringborg</div>
+		<div class="profile__title">Charlotte Belhomme</div>
 
-		<a class="profile__link" href="mailto:ringborg@dagy.danderyd.se">
-			ringborg@dagy.danderyd.se
+		<a class="profile__link" href="mailto:charlotte.belhomme@dagy.danderyd.se">
+			charlotte.belhomme@dagy.danderyd.se
 		</a>
 		<a class="profile__link" href="tel:08-568 913 12">
 			08-568 913 12
