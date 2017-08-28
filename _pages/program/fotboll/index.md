@@ -19,7 +19,7 @@ studieplan för fotboll i gymnasieskolan.
 En förutsättning för att läsa NIU fotboll är att eleven
 anses vara kvalificerad att gå utbildningen då det finns ett
 begränsat antal platser. (Skicka in din ansökan så att den
-är hos Danderyds gymnasium senast 1/12 2016.) Vidare
+är hos Danderyds gymnasium senast 1/12 2017.) Vidare
 krävs att eleven har betyg för att komma in på ett program
 kombinerbart med NIU.
 
@@ -52,19 +52,25 @@ kombinerbart med NIU.
 
 # Ansökan
 
-[Informationsfolder och ansökningsblankett](/assets/Broschyr NIU fotboll 2017-18.pdf)
+[Informationsfolder och ansökningsblankett](/assets/Broschyr_NIU_fotboll2018-19.pdf)
 
 För att bli antagen krävs att du kommer in på något av Danderyds gymnasiums program. Du söker via webben som vanligt senast den 15 februari.
 
 För att din ansökan ska bli komplett vill vi också ha en bilaga av dig med information om ditt klubblag, tränare, meriter etc samt ett personligt brev.
-Sista dag för att skicka in ansökningsblanketten är 1 december 2016.
+Sista dag för att skicka in ansökningsblanketten är 1 december 2017.
 
-För mer information är ni varmt välkomna på skolans öppet hus 23 november klockan 18-21 där elitfotbollsgymnasiet är representerat med en monter.
+För mer information är ni varmt välkomna på skolans öppet hus 28 november klockan 18-20 där elitfotbollsgymnasiet är representerat med en monter.
 
-## Dessutom erbjuder vi två provträningstillfällen
+## Dessutom erbjuder vi fyra provträningstillfällen
 
-* Tisdagen 15 november kl 14.00-15.30 på Danderyd Arena
-* Torsdagen 1 december kl 14.00-15.30 på Danderyd Arena
+* Torsdagen   9 november kl 14-15.30 på Danderyd Arena (killar)
+* Torsdagen 23 november kl 14-15.30 på Danderyd Arena (killar)
+* Torsdagen 30 november kl 14-15.30 på Danderyd Arena (tjejer)
+* Torsdagen   7 december kl 14-15.30 på Danderyd Arena (killar)
+
+Anmäl ditt deltagande i förväg med namn, klubblag samt position till Daniel Kalles-Pettersson via mail:
+[dkp@dagy.danderyd.se](mailto:dkp@dagy.danderyd.se)
+
 
 ## Se det som ett tillfälle att
 
