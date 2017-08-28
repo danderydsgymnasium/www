@@ -3,7 +3,7 @@ title: Nationell idrottsutbildning fotboll
 subtitle: NIU
 collection: specializations
 layout: sub
-image: /assets/uvrpmz1atvg-markus-spiske.png
+image: /assets/IMG_36367.jpg
 programs_order: 1
 ---
 
