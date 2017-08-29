@@ -54,6 +54,18 @@ program/estet:
     url: /program/naturvetenskap
   - title: Ansökan
     url: /nyheter/antagningsprov-musik-bild-och-formgivning-eller-teater
+    
+program/fotboll:
+  - title: Pia Sundhage besöker NIU
+    url: /nyheter/Pia-Sundhage-besoker-NIU
+  - title: NIU i Barcelona
+    url: /nyheter/NIU-i-Barcelona
+  - title: Uefa Event Kungsträdgården
+    url: /nyheter/UEFA-Event-Kungstradgarden
+  - title: Erik Hamren besöker NIU
+    url: /nyheter/Erik-Hamren-besoker-NIU
+  - title: En dag på NIU
+    url: /nyheter/En-dag-pa-NIU
 
 om-skolan:
   - title: Biblioteket
