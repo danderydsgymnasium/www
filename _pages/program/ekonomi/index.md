@@ -3,7 +3,7 @@ title: Ekonomi&shy;programmet
 short_title: Ekonomi
 collection: programs
 layout: sub
-image: /assets/16124218_455844131427852_8435288921503432704_n.jpg
+image: /assets/Ekonomi.jpg
 programs_order: 1
 menu_order: 0
 ---
