@@ -16,5 +16,4 @@ Skolbibliotekarie: Monica Liljedahl
 Biblioteksassistent: Kristina Tingvall.
 
 <a class="profile__link" href="mailto:biblioteket@dagy.danderyd.se">
-		Maila oss
-	</a>
+		Maila oss</a>
