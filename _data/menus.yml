@@ -13,7 +13,7 @@ main_menu:
   - title: Kontakt
     url: /kontakt
   - title: Biblioteket
-    url: /Biblioteket
+    url: /Bibliotek
 
 program/naturvetenskap:
   - title: Matematik spetsutbildning
