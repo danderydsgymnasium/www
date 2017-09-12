@@ -12,6 +12,8 @@ main_menu:
     edit_url: /posts
   - title: Kontakt
     url: /kontakt
+  - title: Biblioteket
+    url: /Biblioteket
 
 program/naturvetenskap:
   - title: Matematik spetsutbildning
