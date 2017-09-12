@@ -10,7 +10,9 @@ Vi har öppet hela skoldagen och här kan du låna skönlitteratur och aktuella 
 Varmt välkomna till oss!
 
 Skolbibliotekarie: Monica Liljedahl 
+
 Biblioteksassistent: Kristina Tingvall.
+
 <a class="profile__link" href="mailto:biblioteket@dagy.danderyd.se">
 		Maila oss
 	</a>
