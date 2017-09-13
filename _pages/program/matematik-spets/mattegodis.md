@@ -14,7 +14,6 @@ Rätt svar på föregående problem: 6
 Den regelbundna sexhörningens omkrets är 12 cm. 
 Vilken omkrets har den liksidiga triangeln?
 
-<!DOCTYPE html>
 <html>
 <body>
 
