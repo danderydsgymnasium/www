@@ -40,7 +40,7 @@ kombinerbart med NIU.
 
 * Fotboll på schemat på förmiddagstid under hela gymnasiet.
 * Välutbildade instruktörer med såväl GIH-examen, egna erfarenheter av elitnivå samt kvalificerande utbildningar inom SvFF.
-* Stockholms bästa träningsförutsättningar med naturgräs vår och höst samt konstgräs inomhus i RM-hallen vintertid. Båda planerna ligger på skolans område.
+* Stockholms bästa träningsförutsättningar med naturgräs under vår och höst samt uppvärmt konstgräs på Danderyd arena vintertid. RM-hallen finns också att tillgå om vädret inte tillåter utomhusträning. Samtliga planer ligger på skolans område. Vi har också ett välutrustat gym för fys- och rehabträning.
 
 ## Följande program och inriktningar kan du kombinera med fotbollsinriktningen
 
@@ -48,7 +48,7 @@ kombinerbart med NIU.
 * Ekonomiprogrammet: inriktning Ekonomi fördjupning kreativ marknadsföring
 * Naturvetenskapsprogrammet: inriktning natur
 * Naturvetenskapsprogrammet: inriktning naturvetenskap och samhälle
-* Samhällsvetenskapsprogrammet: inriktning beteendevetenskap
+* Samhällsvetenskapsprogrammet: inriktning beteendevetenskap – ledarskap
 
 # Ansökan
 
