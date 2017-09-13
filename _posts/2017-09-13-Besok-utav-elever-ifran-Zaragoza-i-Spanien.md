@@ -1,5 +1,5 @@
 ---
-title: Besök utav elever ifrån Zaragoza i  Spanien
+title: Besök utav elever ifrån Zaragoza i Spanien
 image: /assets/Zaragoza.jpg
 layout: post
 ---
