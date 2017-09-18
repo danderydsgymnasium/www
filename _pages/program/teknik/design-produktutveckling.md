@@ -1,6 +1,7 @@
 ---
 title: Inriktning design och produktutveckling
 layout: sub
+image: /assets/Leksaksrymdraket.jpg
 menu_order: 1
 ---
 
