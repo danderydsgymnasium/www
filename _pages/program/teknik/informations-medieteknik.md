@@ -16,7 +16,4 @@ med de senaste teknologierna och standarderna där HTC
 VIVE är en integrerad del av undervisningen.
 
 
-<img src="/assets/VRlabb.jpg" alt="VRlabb" style="width:304px;height:228px;">
-
-
-<img src="/assets/VRmodellerings.jpg" alt="VRmodellering" style="width:304px;height:228px;">
+<img src="/assets/VRlabb.jpg" alt="VRlabb" style="width:304px;height:228px;"> <img src="/assets/VRmodellerings.jpg" alt="VRmodellering" style="width:304px;height:228px;">
