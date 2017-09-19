@@ -1,4 +1,4 @@
-a---
+---
 title: Inriktning informations- och medieteknik
 layout: sub
 image: /assets/StingrayVR.jpg
