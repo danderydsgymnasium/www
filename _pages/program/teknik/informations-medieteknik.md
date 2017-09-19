@@ -15,8 +15,10 @@ fantastiska miljöer för spel och information. Vi arbetar
 med de senaste teknologierna och standarderna där HTC
 VIVE är en integrerad del av undervisningen.
 
-<div class="image-gallery">
-<img src="/assets/VRmodelleringsa.jpg/>
-<img src="/assets/VRlabba.jpg"/>
-<div class="clear"></div>
-</div>
+<html>
+<body>
+
+<img src="/assets/VRcollage.jpg" alt="Liksidig Triangel" width="700" height="295">
+
+</body>
+</html>
