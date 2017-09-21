@@ -10,25 +10,38 @@ Terminstart: Tisdagen 15 augusti upprop åk 1. Torsdagen 17 augusti upprop åk 2
 <br>
 Fredagen 18 augusti startar undervisningen
 <br>
-Terminavslutning: Torsdag 21 december
 
 ### Lovdagar
 
 Höstlov vecka 44 (30 oktober -3 november)
 
+### Studiedag
+6 November
+
+### Terminsavlutning
+Torsdag 21 december
+
 ## Vårterminen 2018
+
+### Studiedag
+8 Januari
 
 Terminstart: Tisdagen 9 januari
 <br>
-Terminavslutning: Onsdag 13 juni.
 
 ### Lovdagar
 
 * Sportlov: vecka 9 (26 februari - 2 mars)
-* Påsklov: vecka 14 (30 mars - 6 april)
-* Lov: 30 april och 1 maj
-* Kristi himmelsfärdsdag samt lov efter Kristi himmelsfärdsdag: 10 - 11 maj.
-* Sveriges nationaldag: 6 juni.
+
+### Studiedag
+5 Mars
+
+Påsklov: vecka 14 (30 mars - 6 april)
+Lov: 30 april och 1 maj
+Kristi himmelsfärdsdag samt lov efter Kristi himmelsfärdsdag: 10 - 11 maj.
+Sveriges nationaldag: 6 juni.
+
+### Terminsavlutning
+Onsdag 13 juni.
 
 
-Därutöver väljer enheterna själva tre studiedagar under läsåret, 6 november 2017, 8 januari 2018 samt 5 mars 2018.
