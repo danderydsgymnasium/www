@@ -1,6 +1,6 @@
 ---
 layout: banner
-title: Biblioteket
+title: Schoolsoft
 cover: /assets/Schoolsoft.jpg
 ---
 # Schoolsoft
