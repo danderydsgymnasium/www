@@ -1,7 +1,7 @@
 ---
 layout: banner
 title: Biblioteket
-cover: /assets/elevplattform.jpg
+cover: /assets/Schoolsoft.jpg
 ---
 # Schoolsoft
 
