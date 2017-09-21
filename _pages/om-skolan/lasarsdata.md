@@ -23,6 +23,7 @@ Torsdag 21 december
 
 ## Vårterminen 2018
 
+
 ### Studiedag
 8 Januari
 
