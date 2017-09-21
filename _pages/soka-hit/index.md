@@ -20,3 +20,10 @@ Spetsutbildningen i Matematik [klicka här](/program/matematik-spets).
 Går du på ett annat gymnasium men vill byta skola till oss?
 [Klicka här för att ladda ner en ansökningsblankett](/assets/Ansökan om Utbildningsplats.pdf)
 . Glöm inte att bifoga bilagor enligt instruktionerna på ansökningsblanketten
+
+# Öppet hus 2017/2018
+
+<ul>
+  <li>Höstterminen 2017 är det öppet hus på Danderyds Gymnasium den 28:e November kl 18:00-20:00</li>
+  <li>Vårtterminen 2018 är det öppet hus på Danderyds Gymnasium den 5:e Februari kl 18:00-20:00</li>
+</ul> 
