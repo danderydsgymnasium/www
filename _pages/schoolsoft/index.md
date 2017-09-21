@@ -3,9 +3,7 @@ layout: banner
 title: Schoolsoft
 cover: /assets/Schoolsoft.jpg
 ---
-
 # Schoolsoft
-
 [<i>Klicka här för att logga in</i>](https://danderyd.schoolsoft.se/danderyd/jsp/Login.jsp)
 
 Denna termin har vi infört Schoolsoft som vår nya elevplattform.
