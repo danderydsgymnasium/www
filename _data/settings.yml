@@ -21,4 +21,6 @@ footer_menu_title: Intranät
 footer_menu:
   - title: Portalen
     url: https://danderydsgymnasium.sharepoint.com
+  - title: Schoolsoft
+    url: https://danderyd.schoolsoft.se/danderyd/jsp/Login.js
 
