@@ -13,7 +13,7 @@ main_menu:
   - title: Kontakt
     url: /kontakt
    - title: Schoolsoft
-    url: /schoolsoft
+    url: _pages/schoolsoft
   - title: Biblioteket
     url: /Bibliotek
   
