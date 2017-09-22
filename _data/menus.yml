@@ -14,6 +14,8 @@ main_menu:
     url: /kontakt
   - title: Biblioteket
     url: /Bibliotek
+  - title: Schoolsoft
+    url: /schoolsoft
 
 program/naturvetenskap:
   - title: Matematik spetsutbildning
