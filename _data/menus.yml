@@ -1,4 +1,3 @@
-
 main_menu:
   - title: Söka hit
     url: /soka-hit
@@ -12,11 +11,10 @@ main_menu:
     edit_url: /posts
   - title: Kontakt
     url: /kontakt
-   - title: Schoolsoft
-    url: _pages/schoolsoft
+  - title: Schoolsoft
+    url: /schoolsoft
   - title: Biblioteket
     url: /Bibliotek
-  
 
 program/naturvetenskap:
   - title: Matematik spetsutbildning
@@ -77,4 +75,3 @@ om-skolan:
     url: /assets/Likabehandlingsplan.pdf
   - title: Försäkringar
     url: http://www.danderyd.se/Forskola-och-skola/Forsakringar/
-    
