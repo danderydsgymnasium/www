@@ -57,7 +57,8 @@ Vi nås lättast på mail eller Schoolsoft.
 <div class="profile">
 	<div class="profile__info">
 		<div class="profile__title">Charlotte Belhomme 
-			Arbetstider: Måndag till fredag 7.30-16.00</div>
+			</div>
+		Arbetstider: Måndag till fredag 7.30-16.00
 
 		<a class="profile__link" href="mailto:charlotte.belhomme@dagy.danderyd.se">
 			charlotte.belhomme@dagy.danderyd.se
@@ -80,7 +81,8 @@ Vi nås lättast på mail eller Schoolsoft.
 <div class="profile">
 	<div class="profile__info">
 		<div class="profile__title">Anna Nilsson/Therese Alanen 
-			Arbetstider: Måndag till torsdag 7.45-15.15, fredag 8.30-15.00</div>
+			</div>
+		Arbetstider: Måndag till torsdag 7.45-15.15, fredag 8.30-15.00
 
 		<a class="profile__link" href="mailto:alanen@dagy.danderyd.se">
 			alanen@dagy.danderyd.se
