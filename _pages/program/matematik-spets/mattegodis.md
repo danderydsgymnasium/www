@@ -9,15 +9,11 @@ Varje vecka kommer här att finnas ett matematiskt problem av varierande svårig
 
 Veckans mattegodis
 
-Rätt svar på föregående problem: 6
+Rätt svar på föregående problem: 9 cm
 
-Den regelbundna sexhörningens omkrets är 12 cm. 
-Vilken omkrets har den liksidiga triangeln?
+En sexhörning har följande egenskaper:
+1.	det är en rät vinkel mellan två närliggande sidor.
+2.	alla sidor har olika längd.
+3.	sidornas längder är 3, 5, 6, 8, 10 och 16
 
-<html>
-<body>
-
-<img src="/assets/Triangel.jpg" alt="Liksidig Triangel" width="128" height="128">
-
-</body>
-</html>
+Vilken maximal area har en sådan sexhörning?
