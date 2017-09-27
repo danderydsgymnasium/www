@@ -22,7 +22,4 @@ VIVE är en integrerad del av undervisningen.
 
 </body>
 </html>
-<img id="thumbnailImage" src="/VRcollage.jpg" alt="" width="700" height="295"> $("#thumbnailImage").click(function() {
-   $(this).attr('width', '1400');
-    $(this).attr('height', '590');
-});
+<img id="thumbnailImage" src="/VRcollage.jpg" alt="" width="700" height="295"> 
