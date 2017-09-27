@@ -1,7 +1,7 @@
 ---
-layout: banner
-title: Skolornas mattematiktävling
-cover: /assets/Mattetavling.png
+title: Skolornas mattetävling
+image: /assets/Mattetavling.png
+layout: post
 ---
 
 Tisdag 26/9 kvaltävling i Skolornas matematiktävling.
