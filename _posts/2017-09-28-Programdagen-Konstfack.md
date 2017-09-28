@@ -1,6 +1,6 @@
 ---
 title: Programdagen Konstfack
-image: /assets/Konstfackprogramdag1.png
+image: /assets/konstfack.png
 layout: post
 ---
 
