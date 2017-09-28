@@ -11,7 +11,7 @@ Och bara inom designyrket finns ju en rad olika spår, allt från produkt- och m
 En utbildning på Konstfack är alltså en kreativ, akademisk, solid grund att stå på, att borra djupare i och att utvecklas vidare från. 
 En utbildning som ger möjlighet att delta i den samtida debatten genom utveckling av attityder, miljöer, produkter och tjänster i såväl det privata som det offentliga rummet."</i>
 
-Teknikprogrammets tvåor och treor fick under programdagen besöka två utbildningar på konstfack, Industridesign och Inredningsarkitektur och möbeldesign.
+Teknikprogrammets tvåor och treor fick under programdagen besöka två utbildningar på konstfack, <i>Industridesign</i> och <i>Inredningsarkitektur och möbeldesign</i>.
 Eleverna fick en presentation av Magnus Lindfors som arbetar på institutionen för Industridesign. Han berättade om programmen och visade exempel på vad studenterna arbetade med, det var allt från system för patientmottagande på sjukhus till kaffetermosar på flygplan.
-Sedan fick eleverna en rundvandring i verkstäderna och se alla tekniska möjligheter för att förverkliga sina idéer, många av eleverna var positivt överraskade och imponerade av Utbildningen och kunde tänka sig att gå där i framtiden. 
+Sedan fick eleverna en rundvandring i verkstäderna och se alla tekniska möjligheter för att förverkliga sina idéer, många av eleverna var positivt överraskade och imponerade av utbildningen och kunde tänka sig att gå där i framtiden. 
 
