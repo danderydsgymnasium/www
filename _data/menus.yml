@@ -57,6 +57,8 @@ program/estet:
     url: /program/naturvetenskap
   - title: Ansökan
     url: /nyheter/antagningsprov-musik-bild-och-formgivning-eller-teater
+  - title: Våra lokaler
+    url: /program/estet/Vara-lokaler
     
 program/fotboll:
   - title: Pia Sundhage besöker NIU
