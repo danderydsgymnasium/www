@@ -46,7 +46,7 @@ delar av utbildningen på en eller flera arbetsplatser
 utanför skolan.
 
 <div class="profile">
-	<img class="profile__image" src="/assets/UBB.jpg" alt="Ulla-Britt Blom">
+	<img class="profile__image" src="/assets/UBB.png" alt="Ulla-Britt Blom">
 	<div class="profile__info">
 		<div class="profile__title">Ulla-Britt Blom</div>
 
