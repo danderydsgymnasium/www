@@ -4,8 +4,7 @@ image: /assets/Konstfackprogramdag.png
 layout: post
 ---
 
-Den 19:e September hade Danderyds Gymnasium programdag. Alla skolans elever var och besökte verksamheter, universitet eller gjorde vandringar.
-Under höstterminen kommer ni kunna ta del av de olika aktiviteterna för programdagen. Först ut Konstfack!
+Den 19:e September hade Danderyds Gymnasium programdag. Alla skolans elever var och besökte verksamheter, universitet eller gjorde vandringar. Under höstterminen kommer ni kunna ta del av de olika aktiviteterna för programdagen. Först ut Konstfack!
 
 <i>"Här på Sveriges största konstnärliga högskola kan du bli allt det där uppenbara som våra program handlar om - konstnär, designer, inredningsarkitekt, grafisk formgivare, illustratör, pedagog samt konsthantverkare inom en rad olika material – till exempel smyckekonstnär. 
 Och bara inom designyrket finns ju en rad olika spår, allt från produkt- och möbel- till tjänstedesign...
