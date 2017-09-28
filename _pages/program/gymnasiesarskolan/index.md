@@ -43,7 +43,7 @@ och arbetsplatsförlagt lärande.
 
 Arbetsplatsförlagt lärande (APL) innebär att eleven genomför
 delar av utbildningen på en eller flera arbetsplatser
-utanför skola
+utanför skolan.
 
 <div class="profile">
 	<img class="profile__image" src="/assets/UBB.jpg" alt="Ulla-Britt Blom">
