@@ -46,12 +46,12 @@ delar av utbildningen på en eller flera arbetsplatser
 utanför skola
 
 <div class="profile">
-	<img class="profile__image" src="/assets/CEL.png" alt="Christina Elveson">
+	<img class="profile__image" src="/assets/UBB.jpg" alt="Ulla-Britt Blom">
 	<div class="profile__info">
-		<div class="profile__title">Christina Elveson</div>
+		<div class="profile__title">Ulla-Britt Blom</div>
 
-		<a class="profile__link" href="mailto:elveson@dagy.danderyd.se">
-			elveson@dagy.danderyd.se
+		<a class="profile__link" href="mailto:ulla-britt.blom@dagy.danderyd.se">
+			ulla-britt.blom@dagy.danderyd.se
 		</a>
 			<a class="profile__link" href="tel:08-568 913 60">
 				08-568 913 60
