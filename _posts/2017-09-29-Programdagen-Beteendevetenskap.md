@@ -1,5 +1,5 @@
 ---
-title: Programdag Beteendevetenskap
+title: Programdagen Beteendevetenskap
 image: /assets/Samjur.png
 layout: post
 ---
