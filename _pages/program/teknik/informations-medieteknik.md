@@ -15,4 +15,4 @@ fantastiska miljöer för spel och information. Vi arbetar
 med de senaste teknologierna och standarderna där HTC
 VIVE är en integrerad del av undervisningen.
 
-<img src="VRcollage.jpg" alt="VRcollage" style="width:1050px;height:442px;">
+<img src="VRcollage.jpg" alt="VRcollage" style="width:1049px;height:441px;">
