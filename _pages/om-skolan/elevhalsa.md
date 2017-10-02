@@ -17,10 +17,12 @@ menu_order: 3
 		</a>
 
 		<div>
-			Åk 1: E16a, E16b, E16c, E16d, J16a, T16a, I16a, I16b<br>
-			Åk 2: E15a, E15b, E15c, E15d, J15a, T15a<br>
-			Åk 3: E14a, E14b, E14c, E14d, E14e, J14a, J14b, T14a<br>
-			Samt Gymnasiesärskolan
+			Kurator för elever i alla årskurser på:
+			Ekonomiprogrammet
+			Juridikprogrammet
+			Språkintroduktion
+			Teknikprogrammet
+
 		</div>
 
 	</div>
@@ -40,9 +42,11 @@ menu_order: 3
 		</a>
 
 		<div>
-			S16a, S16b, S16c, S16d, S16e, N16a, N16b, N16c, N16d, N16e, N16h<br>
-			S15a, S15b, S15c, S15d, S15e, N15a, N15b, N15c, N15d, N15e, N15h<br>
-			S14a, S14b, S14c, S14d, S14e, N14a, N14b, N14c, N14d, N14e, N14f, N14h
+		Kurator för elever i alla årskurser på:
+		Gymnasiesärskolan
+		Naturprogrammet
+		Samhällsprogrammet
+
 		</div>
 	</div>
 </div>
