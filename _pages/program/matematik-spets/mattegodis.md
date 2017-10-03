@@ -9,11 +9,7 @@ Varje vecka kommer här att finnas ett matematiskt problem av varierande svårig
 
 Veckans mattegodis
 
-Rätt svar på föregående problem: 9 cm
+Rätt svar på föregående problem: 110 a.e
 
-En sexhörning har följande egenskaper:
-1.	det är en rät vinkel mellan två närliggande sidor.
-2.	alla sidor har olika längd.
-3.	sidornas längder är 3, 5, 6, 8, 10 och 16
-
-Vilken maximal area har en sådan sexhörning?
+Produkten och summan av 2017 positiva heltal är 105 respektive
+2037. Vilket är det största heltalet?
