@@ -3,7 +3,7 @@ title: Gamla Elever
 image: /assets/antonbanner.png
 layout: post
 ---
-Framtiden efter gymnasiet är en resa med olika vägar som leder till olika mål. Under detta läsår kommer ni som läsare få träffa gamla elever på från Danderyds gymnasium och lära känna de lite bättre. Små nedslag i dessa olika vägar till framtiden. Först ut är Anton Kasian Edberg!
+Framtiden efter gymnasiet är en resa med olika vägar som leder till olika mål. Under detta läsår kommer ni som läsare få träffa gamla elever på från Danderyds gymnasium och lära känna dem lite bättre. Små nedslag i dessa olika vägar till framtiden. Först ut är Anton Kasian Edberg!
 Anton är född 1995 i Solna och studerar andra året på inriktningen fri konst på Konstfack. Mellan 2011-2013 gick Anton på Danderyds gymnasiums Samhällsinriktning. 
 
 Som konstnär arbetar Anton mycket med populärkulturella referenser och hans verk vittnar om en längtan efter det förflutna:
