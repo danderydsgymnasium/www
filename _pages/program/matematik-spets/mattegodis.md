@@ -8,8 +8,9 @@ Varje vecka kommer här att finnas ett matematiskt problem av varierande svårig
 [susanne.gennow@dagy.danderyd.se](mailto:susanne.gennow@dagy.danderyd.se)
 
 Veckans mattegodis
+Rätt svar på föregående problem: 15
 
-Rätt svar på föregående problem: 110 a.e
+I figuren är fyra vinklar, a, b, c och d markerade. 
+Bestäm a + b + c + d.
 
-Produkten och summan av 2017 positiva heltal är 105 respektive
-2037. Vilket är det största heltalet?
+<img src="/assets/godis1.png" alt="mattegodis" style="width:264px;height:313px;">
