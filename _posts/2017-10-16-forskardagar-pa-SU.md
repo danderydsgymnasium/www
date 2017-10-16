@@ -8,12 +8,12 @@ Eleverna fick lyssna på spännande föreläsningar om varför vi skjuter upp s�
 
 Följande personer föreläste:
 
-- Kom till skott - i tid!
+Kom till skott - i tid!
 Psykologi - Alexander Rosenthal
 
-- Får åklagare visa empati?
+Får åklagare visa empati?
 Kriminologi - Nina törnqvist
 
-- Vem bestämmer manligt och kvinnligt?
+Vem bestämmer manligt och kvinnligt?
 Genusvetenskap - Fanny Ambjörnsson
 Barn och ungdomsvetenskap - Rickard Jonsson
