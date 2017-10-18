@@ -10,6 +10,5 @@ nämligen Filmstaden i Råsunda samt en privat biovisning med valfri film.
 Filmerna visade sig vara av så pass god kvalitet att klassen fick ta med sig hem ett guldkuvert innehållandes första pris!
 
 <img src="/assets/s16c.png" alt="s16c" width="350" height="214">
-S16c stoltserar med sig nyvunna guldkuvert!
 
 
