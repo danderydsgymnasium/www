@@ -1,6 +1,6 @@
 ---
 title: Future friday KTH
-image: /assets/futurefriday.png
+image: /assets/futurefriday1.png
 layout: post
 ---
 I fredags var tvåor och treor från teknikprogrammet på KTH Kista under "Future friday", en dag då KTH bjuder in sina framtida studenter för att delta i föreläsningar och workshops.
