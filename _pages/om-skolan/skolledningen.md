@@ -58,13 +58,13 @@ menu_order: 1
 	<img class="profile__image" src="/assets/anette-bjaras.png" alt="Anette Bjärås">
 	<div class="profile__info">
 		<div class="profile__title">Anette Bjärås</div>
-		<div>Rektor NA-TE</div>
+		<div>Rektor NA-TE och spetsutbildningen i matematik</div>
 
 		<a class="profile__link" href="mailto:bjaras@dagy.danderyd.se">
 			bjaras@dagy.danderyd.se
 		</a>
-		<a class="profile__link" href="tel:08-568 91 000">
-			08-568 91 000
+		<a class="profile__link" href="tel:0737-481877">
+			0737481877
 		</a>
 	</div>
 </div>
