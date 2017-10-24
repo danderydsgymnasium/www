@@ -6,7 +6,7 @@ menu_order: 4
 
 ## Höstterminen 2017
 
-<p><b>Terminstart</b></p>: Tisdagen 15 augusti upprop åk 1. Torsdagen 17 augusti upprop åk 2-3.
+<p><b>Terminstart</b></p> Tisdagen 15 augusti upprop åk 1. Torsdagen 17 augusti upprop åk 2-3.
 <br>
 Fredagen 18 augusti startar undervisningen
 <br>
@@ -27,7 +27,7 @@ Torsdag 21 december
 ### Studiedag
 8 Januari
 
-<p><b>Terminstart</b></p>: Tisdagen 9 januari
+<p><b>Terminstart</b></p> Tisdagen 9 januari
 <br>
 
 ### Lovdagar
