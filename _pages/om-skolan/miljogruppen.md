@@ -15,8 +15,8 @@ Gör du rätt här, kan du troligen ha chans att vinna upp till 5000 kr, vilket 
 
 ## Frukostseminarier 
 Vi som är aktiva medlemmar får ”ledigt” från vissa lektioner i skolan för att kunna fortbilda oss och lära oss mer om olika miljöfrågor. 
-Till exempel seminariet om nudging, för exempel se: <p><a href="https://www.youtube.com/watch?v=4wOe0aqYguY">Världens djupaste soptunna</a></p> 
-eller <p><a href="https://www.youtube.com/watch?v=SB_0vRnkeOk">The dancing traffic lights</a></p>
+Till exempel seminariet om nudging, för exempel se: <a href="https://www.youtube.com/watch?v=4wOe0aqYguY">Världens djupaste soptunna</a> 
+eller <a href="https://www.youtube.com/watch?v=SB_0vRnkeOk">The dancing traffic lights</a>
 
 ## Toa-info 
 På vissa toaletter får vi sätta upp information om olika miljöfrågor eller händelser som vi vill uppmärksamma. 
@@ -25,7 +25,7 @@ Till exempel kommer du där kunna läsa om när vi kommer ha filmvisning i Aulan
 För mer information, mejla till [miljoegruppen@dagy.danderyd.se](mailto:miljoegruppen@dagy.danderyd.se) 
 Självklart är du som vill vara stödmedlem eller aktiv medlem alltid välkommen. Hör av dig till  oss så får du veta mer.
 
-Vi har även en facebook-sida som heter <p><a href="https://www.facebook.com/Dagys-Miljögrupp-497667130600044/">Dagys Miljögrupp</a></p>
+Vi har även en facebook-sida som heter <a href="https://www.facebook.com/Dagys-Miljögrupp-497667130600044/">Dagys Miljögrupp</a>
 Gå in och visa ditt stöd genom att trycka på LIKE! 
 Här kan du också ge oss tips på saker du tycker vi ska jobba mer med.
 
