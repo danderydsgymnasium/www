@@ -6,7 +6,7 @@ menu_order: 4
 
 ## Höstterminen 2017
 
-<p><b>Terminstart</b></p> Tisdagen 15 augusti upprop åk 1. Torsdagen 17 augusti upprop åk 2-3.
+<b>Terminstart</b> Tisdagen 15 augusti upprop åk 1. Torsdagen 17 augusti upprop åk 2-3.
 <br>
 Fredagen 18 augusti startar undervisningen
 <br>
@@ -27,7 +27,7 @@ Torsdag 21 december
 ### Studiedag
 8 Januari
 
-<p><b>Terminstart</b></p> Tisdagen 9 januari
+<b>Terminstart</b> Tisdagen 9 januari
 <br>
 
 ### Lovdagar
@@ -42,7 +42,7 @@ Lov: 30 april och 1 maj
 Kristi himmelsfärdsdag samt lov efter Kristi himmelsfärdsdag: 10 - 11 maj.
 Sveriges nationaldag: 6 juni.
 
-<p><b>Studenten:</b></p> 8 Juni 
+<b>Studenten:</b> 8 Juni 
 
 ### Terminsavlutning
 Onsdag 13 juni.
