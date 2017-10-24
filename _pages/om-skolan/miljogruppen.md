@@ -29,4 +29,4 @@ Vi har även en facebook-sida som heter <p><a href="https://www.facebook.com/Dag
 Gå in och visa ditt stöd genom att trycka på LIKE! 
 Här kan du också ge oss tips på saker du tycker vi ska jobba mer med.
 
-Att vara grön är att vara skön <img src="/assets/miljoegrupp.png" alt="Miljögruppen" width="170" height="164">
+Att vara grön är att vara skön <img src="/assets/miljoe.png" alt="Miljögruppen" width="170" height="164">
