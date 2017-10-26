@@ -12,6 +12,7 @@ Alltså, mer hållbar utveckling i praktiken – inte bara i teorin!
 ## Pågående tävling
 Förvandla din pantburk till en lott och kasta den i en målad plåt-tunna istället för att slänga den i en vanlig papperskorg. 
 Gör du rätt här, kan du troligen ha chans att vinna upp till 5000 kr, vilket är en fantastisk julklapp alternativt sommar-present!
+[Mer information om hur du tävlar här](/assets/Pant_tavling.pdf)
 
 ## Frukostseminarier 
 Vi som är aktiva medlemmar får ”ledigt” från vissa lektioner i skolan för att kunna fortbilda oss och lära oss mer om olika miljöfrågor. 
