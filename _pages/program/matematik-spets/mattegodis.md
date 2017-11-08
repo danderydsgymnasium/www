@@ -8,9 +8,9 @@ Varje vecka kommer här att finnas ett matematiskt problem av varierande svårig
 [susanne.gennow@dagy.danderyd.se](mailto:susanne.gennow@dagy.danderyd.se)
 
 Veckans mattegodis
-Rätt svar på föregående problem: 15
+Rätt svar på föregående problem: 540°
 
-I figuren är fyra vinklar, a, b, c och d markerade. 
-Bestäm a + b + c + d.
+Vilket är avståndet från punkt A till punkt B på 
+cylinderytan om r = 1, h= 6? 
 
-<img src="/assets/godis1.png" alt="mattegodis" style="width:264px;height:313px;">
+<img src="/assets/godiss.png" alt="mattegodis" style="width:264px;height:313px;">
