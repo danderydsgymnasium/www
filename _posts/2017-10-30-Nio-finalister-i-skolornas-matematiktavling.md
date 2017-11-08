@@ -1,6 +1,6 @@
 ---
 title: Nio finalister i Skolornas matematiktävling
-image: /assets/Finalister.png
+image: /assets/Finalistert.png
 layout: post
 ---
 Vi är mycket glada över att nio elever från vår spetsutbildning i matematik kvalificerade sig till finalen i Skolornas matematiktävling!
