@@ -11,6 +11,8 @@ Veckans mattegodis
 Rätt svar på föregående problem: 540°
 
 Vilket är avståndet från punkt A till punkt B på 
-cylinderytan om r = 1, h= 6? 
+cylinderytan om:
 
-<img src="/assets/godiss.png" alt="mattegodis" style="width:264px;height:313px;">
+r = 1, h= 6? 
+
+<img src="/assets/godiss.png" alt="mattegodis" style="width:80px;height:115px;">
