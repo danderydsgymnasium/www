@@ -1,6 +1,6 @@
 ---
 title: Begåvade teaterelever
-image: /assets/burana.png
+image: /assets/buranan.png
 layout: post
 ---
 Söndagen 22 oktober genomfördes två fullsatta föreställningar av Carmina Burana av Karl Orff i Danderyds gymnasiums aula
@@ -15,3 +15,5 @@ Gymnasielärare, Staffan Isbäck, Anders Henriksson och Martin Lange:
 Tack för förtroendet att låta era elever vara en del av projektet. Det är en stor sak att vi kan samarbeta så här, men samtidigt så kändes det som en självklarhet. 
 Det är stort att känna den tilliten och tack för att ni förberett era elever så fint för deras uppgifter. Teater har varit som en öppen famn och det har bara varit att sätta igång och arbeta. 
 Dedikerade och begåvade teaterelever!<i/>
+  
+  <img src="/assets/IMG_0599.png" alt="Burana" width="350" height="233">
