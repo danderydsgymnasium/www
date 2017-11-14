@@ -1,6 +1,6 @@
 ---
 title: Dantemässan
-image: /assets/dante12.png
+image: /assets/dante13.png
 layout: post
 ---
 DANTEMÄSSAN
