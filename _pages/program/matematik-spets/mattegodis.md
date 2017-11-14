@@ -13,4 +13,5 @@ Rätt svar på föregående problem:
 
 
 Veckans mattegodis:
+
 På en rad är talen 1 till 37 skrivna i någon ordning, så att varje tal förekommer endast en gång. Det första talet är delbart med det andra, summan av det första och det andra talet är delbart med det tredje, summan av det första, det andra och det tredje är delbart med det fjärde osv. Således delar varje tal i följden summan av talen som kommer innan det. Vilket är det tredje talet om det första är 37 och det andra är 1?
