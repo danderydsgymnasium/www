@@ -1,6 +1,6 @@
 ---
 title: Gamla elever 2
-image: /assets/oskis.png
+image: /assets/oskis1.png
 layout: post
 ---
 Oskar Ceréus är 25 år gammal, född och uppvuxen i Täby. 
