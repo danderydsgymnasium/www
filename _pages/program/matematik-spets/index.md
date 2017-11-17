@@ -7,17 +7,17 @@ programs_order: 0
 menu_order: 0
 ---
 
-Vill du fördjupa dig inom matematik? Då ska du söka till vår Spetsutbildning Matematikgymnasiet. Den är nationellt erkänd och har funnits på Danderyds gymnasium i 30 år. Det finns 16 gymnasieutbildningar i Sverige som har fått tillstånd från Skolverket att bedriva spetsutbildning. Fem av dessa är inriktade på matematik. Vår spetsutbildning i matematik är den enda i Stockholms län.
+Vill du fördjupa dig inom matematik? Då ska du söka till vår Spetsutbildning Matematikgymnasiet. Den är nationellt erkänd och har funnits på Danderyds gymnasium i drygt 30 år. Det finns idag 20 teoretiska spetsutbildningar i Sverige som har blivit beviljade av Skolverket att bedriva spetsutbildning. Sex av dessa är inriktade på matematik. Vår spetsutbildning i matematik är den enda i Stockholms län.
 
-Matematikgymnasiet är en särskild variant av det Naturvetenskapliga programmet. Du läser matematikkurser parallellt och i snabbare takt. I programmet ingår 700 p matematik, fördelade på Matematik 1-5 och två kurser i Matematik Specialisering. Alla kurser är väl inarbetade och vi har ett utvecklat samarbete med Stockholms Universitet. Du får en bättre helhetsbild av matematik som ämne. Du får tillfälle att öva kreativt tänkande och möjlighet att bli en bra problemlösare.
+Matematikgymnasiet är en särskild variant av det Naturvetenskapliga programmet. Du läser matematikkurser parallellt och i snabbare takt. I programmet ingår 700 p matematik, fördelade på Matematik 1-5 och två kurser i Matematik Specialisering. Alla kurser är väl inarbetade och leds av kunniga och engagerade lärare. Du får en bättre helhetsbild av matematik som ämne. Du får tillfälle att öva kreativt tänkande och möjlighet att bli en bra problemlösare.
 
-Våra kurser inom Matematik Specialisering är inte bara utvidgning och fördjupning utan vi tar även upp ämnesområden och perspektiv som sällan berörs inom de vanliga matematikkurserna. Utbildningen ger dig ett stort försprång vid fortsatta studier inom matematikkrävande områden.
+Våra kurser inom Matematik Specialisering är inte bara utvidgning och fördjupning utan vi tar även upp ämnesområden och perspektiv som sällan berörs inom de vanliga matematikkurserna. Som individuellt val erbjuder vi också ytterligare kurser i matematik. Utbildningen ger dig ett stort försprång vid fortsatta studier inom matematikkrävande områden.
 
 Vi erbjuder dig en stimulerande miljö med likasinnade elever. Flera av våra elever når årligen framgångar i både nationella och internationella matematik- och programmeringstävlingar.
 
 Du som söker denna utbildning kallas till en heldag för antagningsprov där vi testar dina baskunskaper och din problemlösningsförmåga i matematik. Resultaten på dessa prov samt dina betyg från åk 9 ligger till grund för antagningen.
 
-[Läs mer i vår broschyr](/assets/Matematikgymnasiet.pdf)
+[Läs mer i vår broschyr](/assets/BroschyrMaspets.2017-2018.pdf)
 
 # Antagningsprov
 
