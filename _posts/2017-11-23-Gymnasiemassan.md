@@ -7,9 +7,11 @@ layout: post
 Besök oss på Gymnasiemässan som pågår från torsdagen den 23:e till lördagen den 25:e November på Älvsjömässan, Mässvägen 1 i Älvsjö.
 
 Öppettider:
-*Torsdag 23 november kl 09:00 - 17:00
-*Fredag  24 november  kl 09:00 - 16:00 
-*Lördag  25 november  kl 09:00 - 16:00
+<ul>
+  <li>Torsdag 23 november kl 09:00 - 17:00</li>
+  <li>Fredag  24 november  kl 09:00 - 16:00</li>
+  <li>Lördag  25 november  kl 09:00 - 16:00</li>
+</ul> 
 
 Rektor, studievägledare, lärare och elever finns på plats och svarar på dina frågor. 
 Vi ser fram emot att träffa dig!
