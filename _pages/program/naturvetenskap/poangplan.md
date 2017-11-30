@@ -4,99 +4,27 @@ layout: sub
 menu_order: 3
 ---
 
-### Gymnasiegemensamma ämnen
+### Klicka på länkarna för att se poängplanerna för respektive fördjupning
 
-| Engelska 5 | 100p |
-| Engelska 6 | 100p |
-| Historia 1b | 100p |
-| Idrott och hälsa 1 | 100p |
-| Matematik 1c | 100p |
-| Matematik 2c | 100p |
-| Matematik 3c | 100p |
-| Religionskunskap 1 | 50p |
-| Samhällskunskap 1b | 100p |
-| Svenska 1 | 100p |
-| Svenska 2 | 100p |
-| Svenska 3 | 100p |
-| Gymnasiearbete | 100p |
-| Individuellt val | 200p |
 
-### Programgemensamma ämnen
+[Naturvetenskapsprogrammet: Natur Samhälle NIU](/assets/NASAM18NIU1.pdf)
 
-| Biologi 1 | 100p |
-| Fysik 1 | 150p |
-| Kemi 1 | 100p |
-| Moderna språk | 100p |
+[Naturvetenskapsprogrammet: Natur NIU](/assets/NANAT18NIU.pdf)
 
-## Inriktning Naturvetenskap
+[Naturvetenskapsprogrammet: Samhälle för elever med ASD](/assets/NASAM18H.pdf)
 
-| Biologi 2 | 100p |
-| Fysik 2 | 100p |
-| Kemi 2 | 100p |
-| Matematik 4* | 100p |
+[Naturvetenskapsprogrammet: Samhälle](/assets/NASAM18.pdf)
 
-\* Fördjupning Musik, Bild och formgivning eller Teater: kan läsas som indval årskurs 3.
+[Naturvetenskapsprogrammet: Natur](/assets/NANAT18.pdf)
 
-### Programfördjupning Natur
+[Naturvetenskapsprogrammet: Estet musik](/assets/NAMUS18.pdf)
 
-| Filosofi 1 | 50p |
-| Psykologi 1 | 50p |
-| Naturvetenskaplig specialisering | 100p |
+[Naturvetenskapsprogrammet: Estet teater](/assets/NATEA18.pdf)
 
-### Programfördjupning Internationell
+[Naturvetenskapsprogrammet: Estet bild](/assets/NABIL18.pdf)
 
-| Engelska 7 | 100p |
-| Val av språk | 100p |
+[Naturvetenskapsprogrammet: Spetsutbildning matematik](/assets/NAMAT18.pdf)
 
-### Programfördjupning Entreprenörskap
+[Naturvetenskapsprogrammet: Internationell](/assets/NAINT18.pdf)
 
-| Entreprenörskap | 100p |
-| Entreprenörskap och företagande | 100p |
-
-### Programfördjupning Bild och formgivning
-
-| Bild | 100p |
-| Bild och form 1b | 100p |
-| Form | 100p |
-
-### Programfördjupning Musik
-
-| Ensemble med körsång | 200p |
-| Instrument eller sång 1 | 100p |
-
-### Programfördjupning Teater
-
-| Scenisk gestaltning 1 | 100p |
-| Scenisk gestaltning 2 | 100p |
-| Scenisk gestaltning 3 | 100p |
-
-## Inriktning Naturvetenskap och samhälle
-
-| Samhällskunskap 2 | 100p |
-| Geografi 1 | 100p |
-| Biologi 2 | 100p |
-
-### Programfördjupning
-
-| Psykologi 1 | 50p |
-| Filosofi 1 | 50p |
-| Entreprenörskap och företagande | 100p |
-| Entreprenörskap 1 | 100p |
-
-## Matematik spetsutbildning
-
-### Programgemensamma ämnen
-
-| Biologi 1 | 100p |
-| Fysik 1 | 150p |
-| Kemi 1 | 100p |
-| Moderna språk | 100p |
-
-### Programfördjupning
-
-| Fysik 2 | 100p |
-| Matematik - specialisering 1 | 100p |
-| Matematik - specialisering 2 | 100p |
-| Matematik 4 | 100p |
-| Matematik 5 | 100p |
-| Biologi 2, Fysik 3 eller Kemi 2 | 100p |
+[Naturvetenskapsprogrammet: Entreprenörskap](/assets/NAENT18.pdf)
