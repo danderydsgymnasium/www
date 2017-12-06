@@ -1,6 +1,6 @@
 ---
 title: Nobelföreläsning
-image: /assets/rain.png
+image: /assets/raino.png
 layout: post
 ---
 
