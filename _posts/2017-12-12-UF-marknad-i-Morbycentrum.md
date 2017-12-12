@@ -1,6 +1,6 @@
 ---
 title: UF marknad i Mörbycentrum
-image: /assets/uf.png
+image: /assets/uf1.png
 layout: post
 ---
 
