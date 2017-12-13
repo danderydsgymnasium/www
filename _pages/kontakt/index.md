@@ -57,12 +57,12 @@ cover: /assets/aerial_photo.png
 ## Skolledningen
 
 
-	<div class="grid grid--responsive">
+<div class="grid grid--responsive">
 	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/wallin.png" alt="Viktoria Wallin">
 		<div class="profile__info">
 			<div class="profile__title">Viktoria Wallin</div>
-			<div></div>
+			<div>Rektor samordning, ASD, Gysär</div>
 
 			<a class="profile__link" href="mailto:viktoria.wallin@dagy.danderyd.se">
 				viktoria.wallin@dagy.danderyd.se
@@ -88,7 +88,7 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 
-	<div class="grid grid--responsive">
+<div class="grid grid--responsive">
 	<div class="profile grid__item">
 	<img class="profile__image" src="/assets/asa.png" alt="Åsa Hedman">
 		<div class="profile__info">
