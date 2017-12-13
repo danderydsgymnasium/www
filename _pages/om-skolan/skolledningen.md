@@ -45,7 +45,7 @@ menu_order: 1
 		<div>Rektor SA-ES-SI</div>
 
 		<a class="profile__link" href="mailto:Asa.hedman@dagy.danderyd.se">
-			stig.liljestrom@dagy.danderyd.se
+			Asa.hedman@dagy.danderyd.se
 		</a>
 		<a class="profile__link" href="tel:073-748 19 22">
 			073-748 19 22
