@@ -54,7 +54,6 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 
-
 # Skolledningen
 
 <div class="grid grid--responsive">
