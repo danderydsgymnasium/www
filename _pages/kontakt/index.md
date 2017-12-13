@@ -4,7 +4,7 @@ title: Kontakt
 cover: /assets/aerial_photo.png
 ---
 
-# Studie- och yrkesvägledare
+## Studie- och yrkesvägledare
 
 <div class="grid grid--responsive">
 	<div class="profile grid__item">
@@ -54,7 +54,7 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 
-# Skolledningen
+## Skolledningen
 
 <div class="grid grid--responsive">
 	<div class="profile grid__item">
