@@ -119,4 +119,3 @@ cover: /assets/aerial_photo.png
 			</a>
 		</div>
 	</div>
-</div>
