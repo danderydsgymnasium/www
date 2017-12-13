@@ -4,7 +4,7 @@ title: Kontakt
 cover: /assets/aerial_photo.png
 ---
 
-## Studie- och yrkesvägledare
+ ## Studie- och yrkesvägledare
 
 <div class="grid grid--responsive">
 	<div class="profile grid__item">
@@ -22,6 +22,8 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 
+
+<div class="grid grid--responsive">
 	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/KCN.png" alt="Karin Cederström-Nidén">
 		<div class="profile__info">
@@ -54,8 +56,7 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 
-## Skolledningen
-
+ ## Skolledningen
 
 <div class="grid grid--responsive">
 	<div class="profile grid__item">
@@ -73,6 +74,8 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 
+
+<div class="grid grid--responsive">
 	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/FRY%20JEANETTE%20120x180.png" alt="Jeanette Fry">
 		<div class="profile__info">
@@ -104,6 +107,8 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 
+
+<div class="grid grid--responsive">
 	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/anette-bjaras.png" alt="Anette Bjärås">
 		<div class="profile__info">
