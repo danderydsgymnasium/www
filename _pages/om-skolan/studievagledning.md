@@ -72,25 +72,4 @@ menu_order: 2
 
 <br>
 
-<div class="profile">
-	<img class="profile__image" src="/assets/ekblom.png" alt="Elina Ekblom">
-	<div class="profile__info">
-		<div class="profile__title">Elina Ekblom</div>
-
-		<a class="profile__link" href="mailto:elina.ekblom@dagy.danderyd.se">
-			elina.ekblom@dagy.danderyd.se
-		</a>
-		<a class="profile__link" href="tel:08-568 91 315">
-			08-568 91 315
-		</a>
-
-		<div>
-			Åk 1: S16a, S16b, S16c, S16e, N16e<br>
-			Åk 2: S15a, S15b, S15c, S15e, N15e<br>
-			Åk 3: J14a, J14b S14a, S14b, S14c, S14e, N14e
-		</div>
-
-	</div>
-</div>
-
 <img class="text" src="/assets/Vägvisare_bild_1.jpg" alt="Vägvisare">
