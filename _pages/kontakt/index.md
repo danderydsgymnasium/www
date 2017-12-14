@@ -6,6 +6,7 @@ cover: /assets/aerial_photo.png
 
 # Studie- och yrkesvägledare
 
+
 <div class="profile">
 	<img class="profile__image" src="/assets/orve.png" alt="Maj Orve">
 	<div class="profile__info">
@@ -55,6 +56,7 @@ cover: /assets/aerial_photo.png
 <br>
 
 # Skolledningen
+
 
 <div class="profile">
 	<img class="profile__image" src="/assets/wallin.png" alt="Viktoria Wallin">
