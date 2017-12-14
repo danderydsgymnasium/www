@@ -23,7 +23,7 @@ cover: /assets/aerial_photo.png
 	</div>
 
 
-<div class="grid grid--responsive">
+	<div class="grid grid--responsive">
 	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/KCN.png" alt="Karin Cederström-Nidén">
 		<div class="profile__info">
@@ -39,7 +39,7 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 
-<div class="grid grid--responsive">
+	<div class="grid grid--responsive">
 	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/lindgren.png" alt="Anna Lindgren">
 		<div class="profile__info">
@@ -57,7 +57,7 @@ cover: /assets/aerial_photo.png
 
 # Skolledningen
 
-<div class="grid grid--responsive">
+	<div class="grid grid--responsive">
 	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/wallin.png" alt="Viktoria Wallin">
 		<div class="profile__info">
@@ -74,7 +74,7 @@ cover: /assets/aerial_photo.png
 	</div>
 
 
-<div class="grid grid--responsive">
+	<div class="grid grid--responsive">
 	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/FRY%20JEANETTE%20120x180.png" alt="Jeanette Fry">
 		<div class="profile__info">
@@ -90,7 +90,7 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 
-<div class="grid grid--responsive">
+	<div class="grid grid--responsive">
 	<div class="profile grid__item">
 	<img class="profile__image" src="/assets/asa.png" alt="Åsa Hedman">
 		<div class="profile__info">
@@ -107,7 +107,7 @@ cover: /assets/aerial_photo.png
 	</div>
 
 
-<div class="grid grid--responsive">
+	<div class="grid grid--responsive">
 	<div class="profile grid__item">
 		<img class="profile__image" src="/assets/anette-bjaras.png" alt="Anette Bjärås">
 		<div class="profile__info">
