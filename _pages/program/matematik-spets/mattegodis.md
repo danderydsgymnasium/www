@@ -8,6 +8,6 @@ Varje vecka kommer här att finnas ett matematiskt problem av varierande svårig
 [susanne.gennow@dagy.danderyd.se](mailto:susanne.gennow@dagy.danderyd.se)
 
 
-Rätt svar på föregående problem: 2
+Rätt svar på föregående problem: 99999
 
-För att bilda två femsiffriga tal använder man samtliga siffror. Bestäm minsta möjliga summa av de två talen om skillnaden mellan det större talet och det mindre är så liten som möjligt?
+År 2017 var Elises ålder lika med summan av siffrorna i hennes födelseår. Hur många år fyller Elise 2018?
