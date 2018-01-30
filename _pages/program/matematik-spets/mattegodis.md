@@ -8,6 +8,6 @@ Varje vecka kommer här att finnas ett matematiskt problem av varierande svårig
 [susanne.gennow@dagy.danderyd.se](mailto:susanne.gennow@dagy.danderyd.se)
 
 
-Rätt svar på föregående problem: 99999
+Rätt svar på föregående problem: 6 eller 24
 
-År 2017 var Elises ålder lika med summan av siffrorna i hennes födelseår. Hur många år fyller Elise 2018?
+Lina har fem heltal som hon summerar parvis. Hon får då summorna 22, 48, 50, 55, 83, 89, 91, 117 och 124. Bestäm det näst största talet av de fem talen?
