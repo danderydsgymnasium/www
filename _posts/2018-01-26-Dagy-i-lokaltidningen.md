@@ -1,6 +1,6 @@
 ---
 title: Dagy i lokaltidningen
-image: /assets/1024px-Pala_de_padel.png.png
+image: /assets/1024px-Pala_de_padel.png
 layout: post
 ---
 
