@@ -11,7 +11,12 @@ layout: post
  
   <li>Bild (bildsalen):                      Måndag 19 mars kl. 13.00 - 15.00</li>
  
-  <li>Musik (musiksalen):                    Tisdag 20 mars kl. 09.00 - 11.30 eller Onsdag 21 mars kl. 09.00 - 13.00 eller Torsdag 22 mars kl. 09.00 - 11.00</li>
+  <li>Musik (musiksalen):                   
+ <ol> 
+  <li>Tisdag 20 mars kl. 09.00 - 11.30</li> 
+  <li>Onsdag 21 mars kl. 09.00 - 13.00</li> 
+  <li>Torsdag 22 mars kl. 09.00 - 11.00</li>
+  >/ol>
                        
 
 
