@@ -16,7 +16,7 @@ layout: post
   <li>Tisdag 20 mars kl. 09.00 - 11.30</li> 
   <li>Onsdag 21 mars kl. 09.00 - 13.00</li> 
   <li>Torsdag 22 mars kl. 09.00 - 11.00</li>
-  >/ol>
+  </ol>
                        
 
 
