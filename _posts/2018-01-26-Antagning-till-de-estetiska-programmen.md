@@ -7,15 +7,15 @@ layout: post
 <b>Antagning för de estetiska fördjupningarna:</b>
 
 <ul>
-  <li>Teater (teatersalen):                  Måndag 19 mars kl. 13.00 – 16.00</li>
+  <li>Teater (teatersalen):                  Måndag 19 mars kl.13.00 – 16.00</li>
  
-  <li>Bild (bildsalen):                      Måndag 19 mars kl. 13.00 - 15.00</li>
+  <li>Bild (bildsalen):                      Måndag 19 mars kl.13.00 - 15.00</li>
  
   <li>Musik (musiksalen):                   
  <ol> 
-  <li>Tisdag 20 mars kl. 09.00 - 11.30</li> 
-  <li>Onsdag 21 mars kl. 09.00 - 13.00</li> 
-  <li>Torsdag 22 mars kl. 09.00 - 11.00</li>
+  <li>Tisdag 20 mars kl.09.00 - 11.30</li> 
+  <li>Onsdag 21 mars kl.09.00 - 13.00</li> 
+  <li>Torsdag 22 mars kl.09.00 - 11.00</li>
   </ol>
                        
 
