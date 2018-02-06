@@ -1,5 +1,5 @@
 ---
-title: Antagning till de estetiska programmen
+title: Antagning till de estetiska fördjupningarna
 image: /assets/smaller-2017-05-16T09-48-52.937Z.jpeg
 layout: post
 ---
