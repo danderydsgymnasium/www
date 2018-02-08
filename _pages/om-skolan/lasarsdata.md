@@ -4,47 +4,41 @@ layout: banner
 menu_order: 4
 ---
 
-## Höstterminen 2017
+## Höstterminen 2018
 
-<b>Terminstart</b> Tisdagen 15 augusti upprop åk 1. Torsdagen 17 augusti upprop åk 2-3.
+<b>Terminstart</b> Måndagen 20 augusti upprop åk 1. Onsdagen 22 augusti upprop åk 2-3.
 <br>
-Fredagen 18 augusti startar undervisningen
+Torsdagen 23 augusti startar undervisningen
 <br>
 
 ### Lovdagar
 
-Höstlov vecka 44 (30 oktober -3 november)
+Höstlov vecka 44 (29 oktober - 2 november)
 
-### Studiedag
-6 November
 
 ### Terminsavlutning
-Torsdag 21 december
+Torsdag 20 december
 
-## Vårterminen 2018
+## Vårterminen 2019
 
 
-### Studiedag
-8 Januari
-
-<b>Terminstart</b> Tisdagen 9 januari
+<b>Terminstart</b> Tisdagen 8 januari
 <br>
 
 ### Lovdagar
 
-Sportlov: vecka 9 (26 februari - 2 mars)
+Sportlov: vecka 9 (25 februari - 1 mars)
 
-### Studiedag
-5 Mars
+Påsklov: vecka 14 (15 april - 18 april)
 
-Påsklov: vecka 14 (30 mars - 6 april)
-Lov: 30 april och 1 maj
-Kristi himmelsfärdsdag samt lov efter Kristi himmelsfärdsdag: 10 - 11 maj.
+Andra lovdagar: 
+1 maj
+Kristi himmelsfärd: 30 - 31 maj.
+<b>Studenten:</b> Onsdagen 5 Juni 
 Sveriges nationaldag: 6 juni.
 
-<b>Studenten:</b> 8 Juni 
 
 ### Terminsavlutning
-Onsdag 13 juni.
+Onsdag 12 juni.
 
-
+Utöver fastslagna lovdagar kommer skolan att lägga ut tre studiedagar. 
