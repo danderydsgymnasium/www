@@ -21,10 +21,12 @@ Du som söker denna utbildning kallas till en heldag för antagningsprov där vi
 
 # Antagningsprov
 
-Du kallas till antagningsprov, antingen 20/3 eller 21/3. Provet består av två delar, basprovet som testar grundläggande baskunskaper och problemlösningsprov.
+Du kallas till antagningsprov 2018, antingen 16/3 eller 19/3. Provet består av två delar, basprovet som testar grundläggande baskunskaper och problemlösningsprov.
 
 Här kan du ladda ner exempel på antagningsprovet för att testa hur din problemlösningsförmåga ser ut.
 
+[Antagningsprovet från 2017](/assets/masint171.docx)
+<br>
 [Antagningsprovet från 2016](/assets/antagningsprov matematik spets2016161.docx)
 <br>
 [Antagningsprovet från 2015](/assets/masint151.docx)
