@@ -1,6 +1,6 @@
 ---
 title: Tider för antagningsprov mattespets
-image: /assets/mattetavling.png
+image: /assets/Mattetavling.png
 layout: post
 ---
 
