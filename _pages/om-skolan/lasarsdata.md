@@ -7,6 +7,7 @@ menu_order: 4
 
 ### Studiedag 
 8:e Januari
+<br>
 <b>Terminstart</b> Tisdagen 9 januari
 <br>
 
