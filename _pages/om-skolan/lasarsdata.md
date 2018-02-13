@@ -3,6 +3,30 @@ title: Läsårsdata
 layout: banner
 menu_order: 4
 ---
+## Vårterminen 2018 
+
+### Studiedag 
+8:e Januari
+<b>Terminstart</b> Tisdagen 9 januari
+<br>
+
+### Lovdagar 
+
+Sportlov: vecka 9 (26 februari - 2 mars
+
+### Studiedag
+5 Mars
+
+Påsklov: vecka 14 (30 mars - 6 april)
+Lov: 30 april och 1 maj
+Kristi himmelsfärdsdag samt lov efter Kristi himmelsfärdsdag: 10 - 11 maj
+
+Sveriges nationaldag: 6 juni.
+
+<b>Studenten:</b> 8 Juni
+
+### Terminsavlutning
+Onsdag 13 juni.
 
 ## Höstterminen 2018
 
