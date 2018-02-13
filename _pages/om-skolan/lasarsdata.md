@@ -58,12 +58,15 @@ Påsklov: vecka 14 (15 april - 18 april)
 
 Andra lovdagar: 
 1 maj
-Kristi himmelsfärd: 30 - 31 maj.
+<br>
+Kristi himmelsfärd: 30 - 31 maj
+<br>
 <b>Studenten:</b> Onsdagen 5 Juni 
-Sveriges nationaldag: 6 juni.
+<br>
+Sveriges nationaldag: 6 juni
 
 
 ### Terminsavlutning
-Onsdag 12 juni.
+Onsdag 12 juni
 
 Utöver fastslagna lovdagar kommer skolan att lägga ut tre studiedagar. 
