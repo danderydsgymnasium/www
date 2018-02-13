@@ -6,7 +6,7 @@ menu_order: 4
 ## Vårterminen 2018 
 
 ### Studiedag 
-8:e Januari
+8 Januari
 <br>
 <b>Terminstart</b> Tisdagen 9 januari
 <br>
@@ -19,7 +19,9 @@ Sportlov: vecka 9 (26 februari - 2 mars
 5 Mars
 
 Påsklov: vecka 14 (30 mars - 6 april)
+<br>
 Lov: 30 april och 1 maj
+<br>
 Kristi himmelsfärdsdag samt lov efter Kristi himmelsfärdsdag: 10 - 11 maj
 
 Sveriges nationaldag: 6 juni.
@@ -45,7 +47,6 @@ Höstlov vecka 44 (29 oktober - 2 november)
 Torsdag 20 december
 
 ## Vårterminen 2019
-
 
 <b>Terminstart</b> Tisdagen 8 januari
 <br>
