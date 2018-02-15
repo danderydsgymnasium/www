@@ -1,6 +1,6 @@
 ---
 title: Våra elever
-image: /assets/iza.png
+image: /assets/iza7.png
 layout: post
 ---
 Under hösten har Danderyds gymnasium delat berättelser om gamla elever och vad de sysslat med efter gymnasietiden.
