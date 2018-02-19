@@ -15,14 +15,14 @@ kommunikation, etik, genus och miljö i ett modernt samhälle.
 
 <div class="profile">
 	<div class="profile__info">
-		<div class="profile__title">Stig Liljeström</div>
+		<div class="profile__title">Åsa Hedman</div>
 		<div>Programrektor</div>
 
-		<a class="profile__link" href="mailto:stig.liljestrom@dagy.danderyd.se">
-			stig.liljestrom@dagy.danderyd.se
+		<a class="profile__link" href="mailto:asa.hedman@dagy.danderyd.se">
+			asa.hedman@dagy.danderyd.se
 		</a>
-		<a class="profile__link" href="tel:073-748 19 22">
-			073-748 19 22
+		<a class="profile__link" href="tel:08 568 913 74">
+			08 568 913 74
 		</a>
 	</div>
 </div>
