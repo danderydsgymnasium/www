@@ -14,4 +14,4 @@ menu_order: 3
 
 [Ekonomiprogrammet: Internationell NIU](/assets/1EKINT18NIU.pdf)
 
-[Ekonomiprogrammet: Internationell](/assets/1EKINT18.pdf)
+[Ekonomiprogrammet: Internationell](/assets/EKINT182.pdf)
