@@ -12,13 +12,13 @@ layout: post
   <li>Bild (bildsalen):                      Måndag 19 mars kl.13.00 - 15.00</li>
  
   <li>Musik (musiksalen):                   
- <ol> 
+ <ol type="1">
   <li>Tisdag 20 mars kl.09.00 - 11.30</li> 
   <li>Onsdag 21 mars kl.09.00 - 13.00</li> 
   <li>Torsdag 22 mars kl.09.00 - 11.00</li>
   </ol>
-                       
-
+ 
+Antagningsprov till våra särskilda varianter kommer att äga rum i vecka 13. Information kommer att skickas ut i via epost den 19 mars.
 
 Läs mer om hur det går till här:
 <a href="https://www.dagy.danderyd.se/nyheter/antagningsprov-musik-bild-och-formgivning-eller-teater">Antagningsprov Musik, Bild och formgivning eller Teater</a>
