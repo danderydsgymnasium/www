@@ -14,11 +14,9 @@ layout: post
   <li>Musik (musiksalen):
  
 <p>
- 1. Tisdag 20 mars kl.09.00 - 11.30<br>
- 
- 2. Onsdag 21 mars kl.09.00 - 13.00<br>
- 
- 3. Torsdag 22 mars kl.09.00 - 11.00<br>
+1. Tisdag 20 mars kl.09.00 - 11.30<br>
+2. Onsdag 21 mars kl.09.00 - 13.00<br>
+3. Torsdag 22 mars kl.09.00 - 11.00<br>
 </p>
 
 <p> 
