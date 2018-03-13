@@ -16,34 +16,9 @@ menu_order: 2
 		</a>
 
 		<div>
-			Åk 1: E16a, E16b, E16c, E16d, J16a<br>
-			Åk 2: E15a, E15b, E15c, E15d, J15a<br>
-			Åk 3: E14a, E14b, E14c, E14d, E14e
+			Ekonomiprogrammet
 		</div>
 
-	</div>
-</div>
-
-<br>
-
-<div class="profile">
-	<img class="profile__image" src="/assets/KCN.png" alt="Karin Cederström-Nidén">
-	<div class="profile__info">
-		<div class="profile__title">Karin Cederström-Nidén</div>
-
-		<a class="profile__link" href="mailto:karin.cederstrom-niden@dagy.danderyd.se">
-			karin.cederstrom-niden@dagy.danderyd.se
-		</a>
-		<a class="profile__link" href="tel:08-568 91 317">
-			08-568 91 317
-		</a>
-
-		<div>
-			Åk 1: N16h, S16d<br>
-			Åk 2: N15h, S15d<br>
-			Åk 3: N14h, S14d<br>
-			Språkintroduktionsklasserna: I16a, I16b
-		</div>
 	</div>
 </div>
 
@@ -62,11 +37,49 @@ menu_order: 2
 		</a>
 
 		<div>
-			Åk 1: N16a, N16b, N16c, N16d, T16a<br>
-			Åk 2: N15a, N15b, N15c, N15d, T15a<br>
-			Åk 3: N14a, N14b, N14c, N14d, N14f, T14a
+			Naturvetenskapsprogrammet
 		</div>
 
+	</div>
+</div>
+
+<br>
+
+<div class="profile">
+	<img class="profile__image" src="/assets/annika.png" alt="Annika Sedenberg">
+	<div class="profile__info">
+		<div class="profile__title">Annika Sedenberg</div>
+
+		<a class="profile__link" href="mailto:annika.sedenberg@dagy.danderyd.se">
+			annika.sedenberg@dagy.danderyd.se
+		</a>
+		<a class="profile__link" href="tel:08-568 91 315">
+			08-568 91 315
+		</a>
+
+		<div>
+			Samhällsvetenskapsprogrammet, ASD, Gymnasiesärskolan
+		</div>
+	</div>
+</div>
+
+<br>
+
+<div class="profile">
+	<img class="profile__image" src="/assets/isabelle.png" alt="Isabel Svensson">
+	<div class="profile__info">
+		<div class="profile__title">Isabel Svensson</div>
+
+		<a class="profile__link" href="mailto:isabel.svensson@dagy.danderyd.se">
+			isabel.svensson@dagy.danderyd.se
+		</a>
+		<a class="profile__link" href="tel:08-568 91 317">
+			08-568 91 317
+		</a>
+
+		<div>
+			Teknikprogrammet, Språkintroduktion
+		</div>
 	</div>
 </div>
 
