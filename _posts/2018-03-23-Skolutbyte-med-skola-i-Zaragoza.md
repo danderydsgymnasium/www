@@ -1,6 +1,6 @@
 ---
 title: Skolutbyte med skola i Zaragoza
-image: /assets/zarag1.png
+image: /assets/zarrg.png
 layout: post
 ---
 
