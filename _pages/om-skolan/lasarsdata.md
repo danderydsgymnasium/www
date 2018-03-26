@@ -26,7 +26,7 @@ Kristi himmelsfärdsdag samt lov efter Kristi himmelsfärdsdag: 10 - 11 maj
 
 Sveriges nationaldag: 6 juni.
 
-<b>Studenten:</b> 8 Juni
+<b>Studenten:</b> 8 Juni (Utspring kl 13:00)
 
 ### Terminsavlutning
 Onsdag 13 juni.
