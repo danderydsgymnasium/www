@@ -11,5 +11,4 @@ Rätt svar på föregående problem: 5
 
 Robin Hood ska skjuta 3 pilar mot måltavlan.
 Hur många olika poängresultat kan Robin Hood få om alla pilarna träffar tavlan?
-
 <img src="/assets/maltavla.png" alt="Tysklogga" width="240" height="183">
