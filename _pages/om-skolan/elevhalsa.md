@@ -66,12 +66,12 @@ Vi nås lättast på mail eller Schoolsoft.
 
 <div class="profile">
 	<div class="profile__info">
-		<div class="profile__title">Charlotte Belhomme 
+		<div class="profile__title">Anna Nilsson 
 			</div>
 		Arbetstider: Måndag till fredag 7.30-16.00
 
-		<a class="profile__link" href="mailto:charlotte.belhomme@dagy.danderyd.se">
-			charlotte.belhomme@dagy.danderyd.se
+		<a class="profile__link" href="mailto:anna.nilsson@dagy.danderyd.se">
+			anna.nilsson@dagy.danderyd.se
 		</a>
 		<a class="profile__link" href="tel:08-568 913 12">
 			08-568 913 12
@@ -90,7 +90,7 @@ Vi nås lättast på mail eller Schoolsoft.
 
 <div class="profile">
 	<div class="profile__info">
-		<div class="profile__title">Anna Nilsson/Therese Alanen 
+		<div class="profile__title">Therese Alanen 
 			</div>
 		Arbetstider: Måndag till torsdag 7.45-15.15, fredag 8.30-15.00
 
