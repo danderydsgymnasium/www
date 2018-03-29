@@ -7,7 +7,7 @@ layout: post
 Framtidens företagare drabbade samman i den tionde upplagan av Case Competition, Danderyds gymnasiums årliga tävling i entreprenörskap. Alla åk 2 elever på Ekonomiprogrammet, 150 elever deltar.
 Uppgiften bestod i att identifiera affärsmässiga problem i ett case, och sedan föreslå en lösning som presenterades för enormt kompetent domarjury från näringslivet.
 
-Bild 1. Ett vinnande lag från E16c
+Bild 1. Ett vinnande lag från E16c<br>
 Bild 2. Ett vinnande lag från E16b
 
 <img src="/assets/vinnare1.png" alt="Bild1" width="374" height="271"><br>
