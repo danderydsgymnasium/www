@@ -10,6 +10,6 @@ Uppgiften bestod i att identifiera affärsmässiga problem i ett case, och sedan
 Bild 1. Ett vinnande lag från E16c
 Bild 2. Ett vinnande lag från E16b
 
-1. <img src="/assets/vinnare1.png" alt="Bild1" width="374" height="271"><br>
+<img src="/assets/vinnare1.png" alt="Bild1" width="374" height="271"><br>
 
-2. <img src="/assets/vinnare2.png" alt="Bild2" width="374" height="271">
+<img src="/assets/vinnare2.png" alt="Bild2" width="374" height="271">
