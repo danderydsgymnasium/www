@@ -1,6 +1,6 @@
 ---
 title: Case competition 2018
-image: /assets/casecomp.png
+image: /assets/casecomp1.png
 layout: post
 ---
 
