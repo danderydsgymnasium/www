@@ -78,9 +78,9 @@ Vi nås lättast på mail eller Schoolsoft.
 		</a>
 
 		<div>
-			Åk 1: E17a, E17b, E17c, E17d, J17a, T17a, I17a, I17b,I17c<br>
+			Åk 1: N16a, N16b, N16c, N16d, N16e, E17a, E17b, E17c, E17d, J17a, T17a<br>
 			Åk 2: E16a, E16b, E16c, E16d, J16a, T16a<br>
-			Åk 3: E15a, E15b, E15c, E15d, J15a, T15a
+			Åk 3: N15a, N15b, N15c, N15d, N15e, E15a, E15b, E15c, E15d, J15a, T15a
 		</div>
 
 	</div>
@@ -102,9 +102,9 @@ Vi nås lättast på mail eller Schoolsoft.
 		</a>
 
 		<div>
-			Åk 1: N17a, N17b, N17c, N17d, N17e, S17a, S17b, S17c, S17d, S17e, HR17<br>
-			Åk 2: N16a, N16b, N16c, N16d, N16e, N16h, S16a, S16b, S16c, S16d, S16e, HR16<br>
-			Åk 3: N15a, N15b, N15c, N15d, N15e, N15h, S15a, S15b, S15c, S15d, S15e, HR15/14
+			Åk 1: I17a, I17b, I17c, S17a, S17b, S17c, S17d, S17e, HR17<br>
+			Åk 2: N16h, S16a, S16b, S16c, S16d, S16e, HR16<br>
+			Åk 3: N15h, S15a, S15b, S15c, S15d, S15e, HR15/14
 		</div>
 
 	</div>
