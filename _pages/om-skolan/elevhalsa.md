@@ -61,14 +61,14 @@ Kuratorerna arbetar förebyggande med Kamratstödjare på skolan. Några gånger
 
 På Danderyds gymnasium består elevhälsan av två kuratorer och två skolsköterskor. Det är viktigt att alla elever mår bra och känner sig trygga under sin skoltid, vilket även främjar studiemotivationen. Elevhälsan verkar för att eleverna under din gymnasietid ska må bra, både psykosocialt och fysiskt. 
 <br>
-Vi har öppen mottagning Måndag till fredag kl 10-12 och 13-14. 
+Vi har öppen mottagning Måndag till fredag kl 10-12 och 13-14 förutom Tisdag då är det öppen mottagning endast 13-14. 
 Vi nås lättast på mail eller Schoolsoft.
 
 <div class="profile">
 	<div class="profile__info">
 		<div class="profile__title">Anna Nilsson 
 			</div>
-		Arbetstider: Måndag till fredag 7.30-16.00
+		Arbetstider: Måndag till fredag 8.00-14.30
 
 		<a class="profile__link" href="mailto:anna.nilsson@dagy.danderyd.se">
 			anna.nilsson@dagy.danderyd.se
@@ -78,8 +78,8 @@ Vi nås lättast på mail eller Schoolsoft.
 		</a>
 
 		<div>
-			Åk 1: N16a, N16b, N16c, N16d, N16e, E17a, E17b, E17c, E17d, J17a, T17a<br>
-			Åk 2: E16a, E16b, E16c, E16d, J16a, T16a<br>
+			Åk 1: N17a, N17b, N17c, N17d, N17e, E17a, E17b, E17c, E17d, J17a, T17a<br>
+			Åk 2: N16a, N16b, N16c, N16d, N16e, E16a, E16b, E16c, E16d, J16a, T16a<br>
 			Åk 3: N15a, N15b, N15c, N15d, N15e, E15a, E15b, E15c, E15d, J15a, T15a
 		</div>
 
