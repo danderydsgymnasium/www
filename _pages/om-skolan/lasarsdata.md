@@ -55,7 +55,7 @@ Torsdag 20 december
 
 Sportlov: vecka 9 (25 februari - 1 mars)
 
-Påsklov: vecka 14 (15 april - 18 april)
+Påsklov: vecka 16 (15 april - 18 april)
 
 Andra lovdagar: 
 1 maj
