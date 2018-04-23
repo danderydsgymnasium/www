@@ -69,5 +69,7 @@
 	</style>
 {% else %}
 	<link rel="stylesheet" href="/styles/styles.css">
-{% include analytics.html %}
+{% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
 {% endif %}
+
