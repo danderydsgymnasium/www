@@ -30,3 +30,5 @@ paginate_path: /nyheter/:num/
 # HTML minifier
 compress_html:
   comments: ["<!--", "-->"]
+# Google Analytics
+google_analytics: UA—117909648-1
