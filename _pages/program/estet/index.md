@@ -8,6 +8,8 @@ Här finns en möjlighet för dig som vill kombinera antingen en naturvetenskapl
 
 Utbildningen vänder sig till dig som vill ha en god grund inför vidare akademiska studier, samtidigt som du får utöva ditt estetiska intresse och utveckla din kreativitet. Utöver den naturvetenskapliga respektive samhällsvetenskapliga basen, innehåller utbildningarna ett estetiskt grundpaket fördelat över tre år. Studierna i bild, musik eller teater görs i grupper som består av elever från både NA och SA vilket ger dig kontakter som sträcker sig över programmen.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/revB4N2_bKw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 # Programfördjupningar
 
 ## Bild och formgivning
