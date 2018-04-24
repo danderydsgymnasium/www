@@ -6,7 +6,7 @@ layout: post
 
 <b>Prova på event på Danderyds Gymnasium!</b><br>
 
-Välkommen till vårt prova på event tisdagen den 8 maj där du har möjlighet att få veta mer om våra program och träffa våra elever och lärare. Klicka på länkarna nedan för att se hålltider för respektive program.
+Välkommen till vårt prova på event tisdagen den 8 maj där du har möjlighet att få veta mer om våra program och träffa våra elever och lärare.
 
 <b>Ekonomiprogrammet</b><br>
 salarna E212, E213, E214 kl.17.30-19.00<br>
