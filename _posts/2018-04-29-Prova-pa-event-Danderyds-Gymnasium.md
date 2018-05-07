@@ -36,7 +36,7 @@ Här kan du ladda ner den officiella inbjudan: [Inbjudan till prova-på dag](/as
 <b>Samhällsvetenskapsprogrammet</b><br>
 [Information om Samhällsvetenskapsprogrammet](https://www.dagy.danderyd.se/program/samhallsvetenskap/)<br>
 Salar E207,E208 kl.17.30-19.00<br>
-Samhälle Ledarskap/Juridik/Samhällsvetenskap informerar om sina fördjupningskurser<br>
+Samhälle Ledarskap/Juridik/Estet/Samhällsvetenskap informerar om sina fördjupningskurser<br>
 
 
 <b>Teknikprogrammet</b><br>
