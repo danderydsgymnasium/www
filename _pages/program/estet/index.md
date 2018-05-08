@@ -4,6 +4,10 @@ layout: sub
 image: /assets/tq4yjca2bsc-alex-jones.png
 ---
 
+<b>Antagningsprov/omval 2018:</b><br>
+Natur- och Samhällsvetenskapliga programmen med bild, musik eller teater
+äger rum <b>torsdag 24 maj kl. 13.30 i musik-, bild- och teatersalar.</b><br>
+
 Här finns en möjlighet för dig som vill kombinera antingen en naturvetenskaplig eller en samhällsvetenskaplig utbildning med en estetisk inriktning.
 
 Utbildningen vänder sig till dig som vill ha en god grund inför vidare akademiska studier, samtidigt som du får utöva ditt estetiska intresse och utveckla din kreativitet. Utöver den naturvetenskapliga respektive samhällsvetenskapliga basen, innehåller utbildningarna ett estetiskt grundpaket fördelat över tre år. Studierna i bild, musik eller teater görs i grupper som består av elever från både NA och SA vilket ger dig kontakter som sträcker sig över programmen.
