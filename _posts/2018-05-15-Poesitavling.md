@@ -1,6 +1,6 @@
 ---
 title: Poesitävling
-image: /assets/poesi.png
+image: /assets/poesi1.png
 layout: post
 ---
 
