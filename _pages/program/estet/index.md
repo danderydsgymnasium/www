@@ -6,7 +6,11 @@ image: /assets/tq4yjca2bsc-alex-jones.png
 
 <b>Antagningsprov/omval 2018:</b><br>
 Natur- och Samhällsvetenskapliga programmen med bild, musik eller teater
-äger rum <b>torsdag 24 maj kl. 13.30 i musik-, bild- och teatersalar.</b><br>
+äger rum:<br> 
+<b>Teater:               onsdag 30 maj kl. 14.00-16.00</b><br>
+<b>Musik:                onsdag 30 maj kl. 12.30-15.00</b><br>
+<b>Bild:                    torsdag 31 maj kl. 13.30</b><br>
+
 
 Här finns en möjlighet för dig som vill kombinera antingen en naturvetenskaplig eller en samhällsvetenskaplig utbildning med en estetisk inriktning.
 
