@@ -37,14 +37,7 @@ layout: compress
 				{% endfor %}
 			</nav>
 			
-			<script src="https://raw.githubusercontent.com/DataMcFly/jquery.camelhunter/master/jquery.camelhunter.min.js"></script>
-<script type="text/javascript">
-	$("#search-field").camelHunter({
-		onKeyUp 			: true,
-		rss: "/search.xml",
-		results   : "#results"
-	});
-</script>
+			
 		</div>
 	</header>
 
@@ -115,6 +108,15 @@ layout: compress
 		ga('create', '{{ site.data.settings.analytics_id }}', 'auto');
 		ga('send', 'pageview');
 	</script>
+	
+	<script src="https://raw.githubusercontent.com/DataMcFly/jquery.camelhunter/master/jquery.camelhunter.min.js"></script>
+<script type="text/javascript">
+	$("#search-field").camelHunter({
+		onKeyUp 			: true,
+		rss: "/search.xml",
+		results   : "#results"
+	});
+</script>
 		
 </body>
 </html>
