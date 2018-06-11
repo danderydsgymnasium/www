@@ -18,7 +18,7 @@ Utbildningen vänder sig till dig som vill ha en god grund inför vidare akademi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/revB4N2_bKw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# Programfördjupningar
+# Fördjupningar
 
 ## Bild och formgivning
 
