@@ -1,6 +1,6 @@
 ---
 title: Sommarlov
-image: /assets/sommar.png
+image: /assets/sommar1.png
 layout: post
 ---
 Tack för detta läsår!
