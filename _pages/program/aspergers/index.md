@@ -15,17 +15,15 @@ För oss är det viktigt att du trivs och får ett starkt självförtroende. Det
 
 Läsåret 1995/96 startade Dagy sin första utbildningen för elever med Aspergers syndrom. Våren 1998 tog de första eleverna studentexamen och idag pågår verksamheten med en klass i varje årskurs.
 
-Om du är intresserad av att söka hit så skall du först kontakta oss. Du får sedan komma hit och träffa oss och bekanta dig med skolan. Ansökan sker därefter på vanligt vis. För att boka in ett besök, v.g. kontakta inriktningsansvarig Bosse Melander.
+Om du är intresserad av att söka hit så skall du först kontakta oss. Du får sedan komma hit och träffa oss och bekanta dig med skolan. Ansökan sker därefter på vanligt vis. För att boka in ett besök, v.g. kontakta Victoria Wallin.
 
 <div class="profile">
 	<div class="profile__info">
-		<div class="profile__title">Bosse Melander</div>
+		<div class="profile__title">Viktoria Wallin</div>
 
-		<a class="profile__link" href="mailto:melander@dagy.danderyd.se">
-			melander@dagy.danderyd.se
+		<a class="profile__link" href="mailto:viktoria.wallin@danderyd.se">
+			viktoria.wallin@danderyd.se
 		</a>
-			<a class="profile__link" href="tel:08-568 913 49">
-				08-568 913 49
-			</a>
+			
 	</div>
 </div>
