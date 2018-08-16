@@ -1,6 +1,6 @@
 ---
 title: Spetselever i internationella vetenskapsolympiader
-image: /assets/spetsolymp1.jpg
+image: /assets/spetsolymp1.JPG
 layout: post
 ---
 I år kvalificerade sig sex elever från spetsutbildningen i matematik till internationella vetenskapsolympiader. Ett stort grattis!
