@@ -22,8 +22,8 @@ Teknikprogrammet på Danderyds gymnasium välkomnar liksom övriga program på D
 		<div class="profile__title">Anette Bjärås</div>
 		<div>Programrektor</div>
 
-		<a class="profile__link" href="mailto:bjaras@dagy.danderyd.se">
-			bjaras@dagy.danderyd.se
+		<a class="profile__link" href="mailto:anette.bjaras@danderyd.se">
+			anette.bjaras@danderyd.se
 		</a>
 			<a class="profile__link" href="tel:08-568 91 000">
 				08-568 91 000
