@@ -36,8 +36,8 @@ Här kan du ladda ner exempel på antagningsprovet för att testa hur din proble
 	<div class="profile__info">
 		<div class="profile__title">Susanne Gennow</div>
 
-		<a class="profile__link" href="mailto:susanne.gennow@dagy.danderyd.se">
-			susanne.gennow@dagy.danderyd.se
+		<a class="profile__link" href="mailto:susanne.gennow@danderyd.se">
+			susanne.gennow@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:08-568 913 26">
 			08-568 913 26
