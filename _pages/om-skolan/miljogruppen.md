@@ -23,7 +23,7 @@ eller <a href="https://www.youtube.com/watch?v=SB_0vRnkeOk">The dancing traffic 
 På vissa toaletter får vi sätta upp information om olika miljöfrågor eller händelser som vi vill uppmärksamma. 
 Till exempel kommer du där kunna läsa om när vi kommer ha filmvisning i Aulan eller om vi lyckas övertala skolans kök att få designa vår egna vegetariska vecka där NI får bestämma rätterna!
 
-För mer information, mejla till [miljoegruppen@dagy.danderyd.se](mailto:miljoegruppen@dagy.danderyd.se) 
+För mer information, mejla till [miljoegruppen@danderyd.se](mailto:miljoegruppen@danderyd.se) 
 Självklart är du som vill vara stödmedlem eller aktiv medlem alltid välkommen. Hör av dig till  oss så får du veta mer.
 
 Vi har även en facebook-sida som heter <a href="https://www.facebook.com/Dagys-Miljögrupp-497667130600044/">Dagys Miljögrupp</a>
