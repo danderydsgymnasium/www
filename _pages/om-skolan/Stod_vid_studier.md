@@ -13,8 +13,8 @@ Lasse von Gegerfelt   F10
 Studiestöd; Asperger; ADHD
 
 ## E- och J-klasser
-Mia Ullman            F100
-[Mia.ullman@danderyd.se](mailto:Mia.ullman@danderyd.se)                                                      
+Maria Teinert           F100
+[Mia.ullman@danderyd.se](mailto:Maria.Teinert@danderyd.se)                                                      
 
 Studiestöd; Dyslexi 
 
