@@ -25,16 +25,16 @@ kunskapsnivå du har i de olika ämnena och arbetar utifrån
 att du ska lära dig så mycket som möjligt.
 
 <div class="profile">
-	<img class="profile__image" src="/assets/asa.png" alt="Åsa Hedman">
+	<img class="profile__image" src="/assets/isabelle.png" alt="Isabelle Svensson">
 	<div class="profile__info">
-		<div class="profile__title">Åsa Hedman</div>
+		<div class="profile__title">Isabelle Svensson</div>
 		<div></div>
 
-		<a class="profile__link" href="mailto:Asa.hedman@dagy.danderyd.se">
-			Asa.hedman@danderyd.se
+		<a class="profile__link" href="mailto:Isabelle.svensson@dagy.danderyd.se">
+			Isabelle.svensson@danderyd.se
 		</a>
-		<a class="profile__link" href="tel:073-748 19 22">
-			073-748 19 22
+		<a class="profile__link" href="tel:08-568 91 317">
+			08-568 91 317
 		</a>
 	</div>
 </div>
