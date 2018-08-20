@@ -37,8 +37,8 @@ På ekonomiprogrammet har vi under en lång tid haft ett starkt och aktivt progr
 		<div class="profile__title">Jeanette Fry</div>
 		<div>Rektor EK</div>
 
-		<a class="profile__link" href="mailto:jeanette.fry@dagy.danderyd.se">
-			jeanette.fry@dagy.danderyd.se
+		<a class="profile__link" href="mailto:jeanette.fry@danderyd.se">
+			jeanette.fry@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:073-748 11 86">
 			073-748 11 86
