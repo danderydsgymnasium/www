@@ -23,8 +23,8 @@ Går du på ett annat gymnasium men vill byta skola till oss?
 [Klicka här för att ladda ner en ansökningsblankett](/assets/Ansökan om Utbildningsplats.pdf)
 . Glöm inte att bifoga bilagor enligt instruktionerna på ansökningsblanketten
 
-# Öppet hus 2018
+# Öppet hus 2018/2019
 
 <ul>
-  <li>Vårtterminen 2018 är det öppet hus på Danderyds Gymnasium den 5:e Februari kl 18:00-20:00</li>
+  <li>Snart kommer datum för Öppet hus 2018/2019</li>
 </ul> 
