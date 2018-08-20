@@ -22,8 +22,6 @@ Kuratorerna arbetar förebyggande med Kamratstödjare på skolan. Några gånger
 
 		<div>
 			Kurator för elever i alla årskurser på:
-			Ekonomiprogrammet
-			Juridikprogrammet
 			Språkintroduktion
 			Teknikprogrammet
 
@@ -50,12 +48,29 @@ Kuratorerna arbetar förebyggande med Kamratstödjare på skolan. Några gånger
 		Gymnasiesärskolan
 		Naturprogrammet
 		Samhällsprogrammet
+		ASD/Aspberger
 
 		</div>
 	</div>
 </div>
 
 <br>
+
+<div class="profile">
+	<div class="profile__info">
+		<div class="profile__title">Christine Arlehov</div>
+
+		<a class="profile__link" href="mailto:christine.arlehov@danderyd.se">
+			christine.arlehov@danderyd.se
+		</a>
+
+		<div>
+		Kurator för elever i alla årskurser på:
+		Ekonomiprogrammet
+
+		</div>
+	</div>
+</div>
 
 <h1>Skolsköterskor</h1>
 
@@ -66,21 +81,16 @@ Vi nås lättast på mail eller Schoolsoft.
 
 <div class="profile">
 	<div class="profile__info">
-		<div class="profile__title">Anna Nilsson 
+		<div class="profile__title">Anna-Karin Klint Carlander
 			</div>
-		Arbetstider: Måndag till fredag 8.00-14.30
 
-		<a class="profile__link" href="mailto:anna.nilsson@danderyd.se">
-			anna.nilsson@danderyd.se
+		<a class="profile__link" href="mailto:anna-karin.klintcarlander@danderyd.se">
+			anna-karin.klintcarlander@danderyd.se
 		</a>
-		<a class="profile__link" href="tel:08-568 913 12">
-			08-568 913 12
-		</a>
-
+		
 		<div>
-			Åk 1: N17a, N17b, N17c, N17d, N17e, E17a, E17b, E17c, E17d, J17a, T17a<br>
-			Åk 2: N16a, N16b, N16c, N16d, N16e, E16a, E16b, E16c, E16d, J16a, T16a<br>
-			Åk 3: N15a, N15b, N15c, N15d, N15e, E15a, E15b, E15c, E15d, J15a, T15a
+			Språkintro
+			Natur
 		</div>
 
 	</div>
@@ -90,21 +100,22 @@ Vi nås lättast på mail eller Schoolsoft.
 
 <div class="profile">
 	<div class="profile__info">
-		<div class="profile__title">Therese Alanen 
+		<div class="profile__title">Cecilia Nilsonne 
 			</div>
-		Arbetstider: Måndag till torsdag 7.45-15.15, fredag 8.30-15.00
 
-		<a class="profile__link" href="mailto:alanen@danderyd.se">
-			alanen@danderyd.se
+		<a class="profile__link" href="mailto:cecilia.nilsonne@danderyd.se">
+			cecilia.nilsonne@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:08-568 913 13">
 			08-568 913 13
 		</a>
 
 		<div>
-			Åk 1: I17a, I17b, I17c, S17a, S17b, S17c, S17d, S17e, HR17<br>
-			Åk 2: N16h, S16a, S16b, S16c, S16d, S16e, HR16<br>
-			Åk 3: N15h, S15a, S15b, S15c, S15d, S15e, HR15/14
+			Gymnasiesärskolan
+			ASD/Aspberger
+			Ekonomi
+			Samhälle
+			Teknik
 		</div>
 
 	</div>
