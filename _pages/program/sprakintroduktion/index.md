@@ -25,16 +25,16 @@ kunskapsnivå du har i de olika ämnena och arbetar utifrån
 att du ska lära dig så mycket som möjligt.
 
 <div class="profile">
-	<img class="profile__image" src="/assets/KCN.png" alt="Karin Cederström-Nidén">
+	<img class="profile__image" src="/assets/asa.png" alt="Åsa Hedman">
 	<div class="profile__info">
-		<div class="profile__title">Karin Cederström-Nidén</div>
+		<div class="profile__title">Åsa Hedman</div>
 		<div></div>
 
-		<a class="profile__link" href="mailto:karin.cederstrom-niden@dagy.danderyd.se">
-			karin.cederstrom-niden@dagy.danderyd.se
+		<a class="profile__link" href="mailto:Asa.hedman@dagy.danderyd.se">
+			Asa.hedman@danderyd.se
 		</a>
-		<a class="profile__link" href="tel:08-568 91 317">
-			08-568 91 317
+		<a class="profile__link" href="tel:073-748 19 22">
+			073-748 19 22
 		</a>
 	</div>
 </div>
