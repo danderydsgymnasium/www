@@ -10,8 +10,8 @@ menu_order: 1
 		<div class="profile__title">Viktoria Wallin</div>
 		<div>Rektor samordning, ASD, Gysär</div>
 
-		<a class="profile__link" href="mailto:viktoria.wallin@dagy.danderyd.se">
-			viktoria.wallin@dagy.danderyd.se
+		<a class="profile__link" href="mailto:viktoria.wallin@danderyd.se">
+			viktoria.wallin@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:073-807 03 05">
 			073-807 03 05
@@ -27,8 +27,8 @@ menu_order: 1
 		<div class="profile__title">Jeanette Fry</div>
 		<div>Rektor EK-NIU</div>
 
-		<a class="profile__link" href="mailto:jeanette.fry@dagy.danderyd.se">
-			jeanette.fry@dagy.danderyd.se
+		<a class="profile__link" href="mailto:jeanette.fry@danderyd.se">
+			jeanette.fry@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:073-748 11 86">
 			073-748 11 86
@@ -44,8 +44,8 @@ menu_order: 1
 		<div class="profile__title">Åsa Hedman</div>
 		<div>Rektor SA-ES-SI</div>
 
-		<a class="profile__link" href="mailto:Asa.hedman@dagy.danderyd.se">
-			Asa.hedman@dagy.danderyd.se
+		<a class="profile__link" href="mailto:Asa.hedman@danderyd.se">
+			Asa.hedman@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:073-748 19 22">
 			073-748 19 22
@@ -61,8 +61,8 @@ menu_order: 1
 		<div class="profile__title">Anette Bjärås</div>
 		<div>Rektor NA-TE och spetsutbildningen i matematik</div>
 
-		<a class="profile__link" href="mailto:bjaras@dagy.danderyd.se">
-			bjaras@dagy.danderyd.se
+		<a class="profile__link" href="mailto:anette.bjaras@danderyd.se">
+			anette.bjaras@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:073-7481877">
 			0737481877
