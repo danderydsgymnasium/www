@@ -69,7 +69,7 @@ För mer information är ni varmt välkomna på skolans öppet hus 28 november k
 * Torsdagen   7 december kl 14-15.30 på Danderyd Arena (killar)
 
 Anmäl ditt deltagande i förväg med namn, klubblag samt position till Daniel Kalles-Pettersson via mail:
-[dkp@dagy.danderyd.se](mailto:dkp@dagy.danderyd.se)
+[daniel.kalles-pettersson@danderyd.se](mailto:daniel.kalles-pettersson@dagy.danderyd.se)
 
 
 ## Se det som ett tillfälle att
@@ -91,8 +91,8 @@ Anmäl ditt deltagande i förväg med namn, klubblag samt position till Daniel K
 	<div class="profile__info">
 		<div class="profile__title">Daniel Kalles-Pettersson</div>
 
-		<a class="profile__link" href="mailto:dkp@dagy.danderyd.se">
-			dkp@dagy.danderyd.se
+		<a class="profile__link" href="mailto:daniel.kalles-pettersson@danderyd.se">
+			daniel.kalles-pettersson@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:08-568 913 42">
 			08-568 913 42
