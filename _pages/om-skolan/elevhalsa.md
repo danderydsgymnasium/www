@@ -13,8 +13,8 @@ Kuratorerna arbetar förebyggande med Kamratstödjare på skolan. Några gånger
 <div class="profile">
 	<div class="profile__info">
 		<div class="profile__title">Synnöve Roness</div>
-		<a class="profile__link" href="mailto:synnove.roness@dagy.danderyd.se">
-			synnove.roness@dagy.danderyd.se
+		<a class="profile__link" href="mailto:synnove.roness@danderyd.se">
+			synnove.roness@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:073-807 03 14">
 			073-807 03 14
@@ -38,8 +38,8 @@ Kuratorerna arbetar förebyggande med Kamratstödjare på skolan. Några gånger
 	<div class="profile__info">
 		<div class="profile__title">Linus Hultstrand</div>
 
-		<a class="profile__link" href="mailto:linus.hultstrand@dagy.danderyd.se">
-			linus.hultstrand@dagy.danderyd.se
+		<a class="profile__link" href="mailto:linus.hultstrand@danderyd.se">
+			linus.hultstrand@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:073-807 03 20">
 			073-807 03 20
@@ -70,8 +70,8 @@ Vi nås lättast på mail eller Schoolsoft.
 			</div>
 		Arbetstider: Måndag till fredag 8.00-14.30
 
-		<a class="profile__link" href="mailto:anna.nilsson@dagy.danderyd.se">
-			anna.nilsson@dagy.danderyd.se
+		<a class="profile__link" href="mailto:anna.nilsson@danderyd.se">
+			anna.nilsson@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:08-568 913 12">
 			08-568 913 12
@@ -94,8 +94,8 @@ Vi nås lättast på mail eller Schoolsoft.
 			</div>
 		Arbetstider: Måndag till torsdag 7.45-15.15, fredag 8.30-15.00
 
-		<a class="profile__link" href="mailto:alanen@dagy.danderyd.se">
-			alanen@dagy.danderyd.se
+		<a class="profile__link" href="mailto:alanen@danderyd.se">
+			alanen@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:08-568 913 13">
 			08-568 913 13
