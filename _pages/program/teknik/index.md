@@ -3,7 +3,7 @@ title: Teknik&shy;programmet
 short_title: Teknik
 collection: programs
 layout: sub
-image: /assets/ddpostera.jpg
+image: /assets/tek1.png
 programs_order: 3
 menu_order: 0
 ---
