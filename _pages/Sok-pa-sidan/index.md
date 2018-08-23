@@ -1,6 +1,6 @@
 ---
 layout: banner
-title:
+title: Sök på sidan
 cover: /assets/abstract-bright-close-up-268460.png
 ---
  
