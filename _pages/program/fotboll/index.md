@@ -19,7 +19,7 @@ studieplan för fotboll i gymnasieskolan.
 En förutsättning för att läsa NIU fotboll är att eleven
 anses vara kvalificerad att gå utbildningen då det finns ett
 begränsat antal platser. (Skicka in din ansökan så att den
-är hos Danderyds gymnasium senast 1/12 2017.) Vidare
+är hos Danderyds gymnasium senast 1/12 2018.) Vidare
 krävs att eleven har betyg för att komma in på ett program
 kombinerbart med NIU.
 
@@ -52,24 +52,23 @@ kombinerbart med NIU.
 
 # Ansökan
 
-[Informationsfolder och ansökningsblankett](/assets/Broschyr_NIU_fotboll2018-19.pdf)
+[Informationsfolder och ansökningsblankett](/assets/Broschyr NIU fotboll.pdf)
 
 För att bli antagen krävs att du kommer in på något av Danderyds gymnasiums program. Du söker via webben som vanligt senast den 15 februari.
 
 För att din ansökan ska bli komplett vill vi också ha en bilaga av dig med information om ditt klubblag, tränare, meriter etc samt ett personligt brev.
-Sista dag för att skicka in ansökningsblanketten är 1 december 2017.
+Sista dag för att skicka in ansökningsblanketten är 1 december 2018.
 
-För mer information är ni varmt välkomna på skolans öppet hus 28 november klockan 18-20 där elitfotbollsgymnasiet är representerat med en monter.
 
 ## Dessutom erbjuder vi fyra provträningstillfällen
 
-* Torsdagen   9 november kl 14-15.30 på Danderyd Arena (killar)
-* Torsdagen 23 november kl 14-15.30 på Danderyd Arena (killar)
-* Torsdagen 30 november kl 14-15.30 på Danderyd Arena (tjejer)
-* Torsdagen   7 december kl 14-15.30 på Danderyd Arena (killar)
+* Torsdagen   8 november kl 14-15.30 på Danderyd Arena (killar)
+* Torsdagen 22 november kl 14-15.30 på Danderyd Arena (killar)
+* Torsdagen 29 november kl 14-15.30 på Danderyd Arena (tjejer)
+* Torsdagen   6 december kl 14-15.30 på Danderyd Arena (killar)
 
 Anmäl ditt deltagande i förväg med namn, klubblag samt position till Daniel Kalles-Pettersson via mail:
-[daniel.kalles-pettersson@danderyd.se](mailto:daniel.kalles-pettersson@dagy.danderyd.se)
+[daniel.kalles-pettersson@danderyd.se](mailto:daniel.kalles-pettersson@danderyd.se)
 
 
 ## Se det som ett tillfälle att
@@ -83,7 +82,7 @@ Anmäl ditt deltagande i förväg med namn, klubblag samt position till Daniel K
 | Idrottsspecialisering 1 | 100p |
 | Tränings- och tävlingslära 1 | 100p |
 | Idrottsspecialisering 2 | 100p |
-| Tränings- och tävlingslära 2 | 100p |
+| Idrottsspecialisering 3 | 100p |
 
 200 poäng tas från elevens individuella val och 200 poäng tas från programfördjupningen.
 
