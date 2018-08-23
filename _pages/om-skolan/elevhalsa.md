@@ -87,7 +87,12 @@ Vi nås lättast på mail eller Schoolsoft.
 		<a class="profile__link" href="mailto:anna-karin.klintcarlander@danderyd.se">
 			anna-karin.klintcarlander@danderyd.se
 		</a>
-		
+		<a class="profile__link" href="tel:08-568 913 12">
+			08-568 913 12
+		</a>
+		<a class="profile__link" href="tel:0738-07 03 44">
+			0738-07 03 44
+		</a>
 		<div>
 			Språkintro
 			Natur
@@ -106,9 +111,7 @@ Vi nås lättast på mail eller Schoolsoft.
 		<a class="profile__link" href="mailto:cecilia.nilsonne@danderyd.se">
 			cecilia.nilsonne@danderyd.se
 		</a>
-		<a class="profile__link" href="tel:08-568 913 13">
-			08-568 913 13
-		</a>
+		
 
 		<div>
 			Gymnasiesärskolan
