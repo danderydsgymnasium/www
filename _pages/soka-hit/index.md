@@ -25,6 +25,6 @@ Går du på ett annat gymnasium men vill byta skola till oss?
 
 # Öppet hus 2018/2019
 
-<ul>
-  <li>Snart kommer datum för Öppet hus 2018/2019</li>
-</ul> 
+## 2018 29:e November 18:00-20:00
+
+## 2019 4:e Februari 18:00-20:00
