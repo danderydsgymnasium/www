@@ -50,15 +50,15 @@ kombinerbart med NIU.
 * Naturvetenskapsprogrammet: inriktning naturvetenskap och samhälle
 * Samhällsvetenskapsprogrammet: inriktning beteendevetenskap – ledarskap
 
-# Ansökan
+# Ansökan NIU - Fotboll
 
-[Informationsfolder och ansökningsblankett](/assets/Broschyr NIU fotboll.pdf)
+OBS! Sista ansökningsdatum är 1/12 2018.
+[<i>Klicka här</i>](http://fogis.se/fotboll-i-skolan/fotboll-i-gymnasieskolan/nationella-idrottsutbildningar-fotboll1/ ) för att göra din ansökan till NIU – fotboll inför läsåret 2019/2020. 
+
+
+[Informationsfolder och ansökningsblankett](/assets/BroschyrNIU1819.pdf)
 
 För att bli antagen krävs att du kommer in på något av Danderyds gymnasiums program. Du söker via webben som vanligt senast den 15 februari.
-
-För att din ansökan ska bli komplett vill vi också ha en bilaga av dig med information om ditt klubblag, tränare, meriter etc samt ett personligt brev.
-Sista dag för att skicka in ansökningsblanketten är 1 december 2018.
-
 
 ## Dessutom erbjuder vi fyra provträningstillfällen
 
