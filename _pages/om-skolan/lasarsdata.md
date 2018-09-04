@@ -28,7 +28,7 @@ Sveriges nationaldag: 6 juni.
 
 <b>Studenten:</b> 8 Juni (Utspring kl 13:00)
 
-### Terminsavlutning
+### Terminsavslutning
 Onsdag 13 juni.
 
 ## Höstterminen 2018
@@ -43,7 +43,7 @@ Torsdagen 23 augusti startar undervisningen
 Höstlov vecka 44 (29 oktober - 2 november)
 
 
-### Terminsavlutning
+### Terminsavslutning
 Torsdag 20 december
 
 ## Vårterminen 2019
@@ -67,7 +67,7 @@ Kristi himmelsfärd: 30 - 31 maj
 Sveriges nationaldag: 6 juni
 
 
-### Terminsavlutning
+### Terminsavslutning
 Onsdag 12 juni
 
 Utöver fastslagna lovdagar kommer skolan att lägga ut tre studiedagar. 
