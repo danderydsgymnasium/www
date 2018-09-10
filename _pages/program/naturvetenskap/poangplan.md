@@ -7,7 +7,7 @@ menu_order: 3
 ### Klicka på länkarna för att se poängplanerna för respektive fördjupning
 
 
-[Naturvetenskapsprogrammet: Natur Samhälle NIU](/assets/1NASAM18NIU1.pdf)
+[Naturvetenskapsprogrammet: Natur Samhälle NIU](/assets/NASAM18NIU1.pdf)
 
 [Naturvetenskapsprogrammet: Natur NIU](/assets/1NANAT18NIU.pdf)
 
