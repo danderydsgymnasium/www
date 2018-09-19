@@ -10,7 +10,7 @@ menu_order: 3
 
 [Ekonomiprogrammet: Kreativ marknadsföring](/assets/1EKKRE18.pdf)
 
-[Ekonomiprogrammet: Juridik](/assets/1EKJUR18.pdf)
+[Ekonomiprogrammet: Juridik](/assets/EKJUR1819.pdf)
 
 [Ekonomiprogrammet: Internationell NIU](/assets/1EKINT18NIU.pdf)
 
