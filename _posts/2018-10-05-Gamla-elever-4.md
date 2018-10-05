@@ -1,6 +1,6 @@
 ---
 title: Gamla elever 4
-image: /assets/AxelBj.png
+image: /assets/AxelBj1.png
 layout: post
 ---
 <i>”När jag började gymnasiet tvivlade jag stort på att jag skulle kunna uppleva min dröm att kunna livnära mig på fotboll. 
