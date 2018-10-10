@@ -68,25 +68,6 @@ cover: /assets/aerial_photo.png
 
 <br>
 
-<div class="profile">
-	<img class="profile__image" src="/assets/isabelle.png" alt="Isabel Svensson">
-	<div class="profile__info">
-		<div class="profile__title">Isabel Svensson</div>
-
-		<a class="profile__link" href="mailto:isabel.svensson@danderyd.se">
-			isabel.svensson@danderyd.se
-		</a>
-		<a class="profile__link" href="tel:08-568 91 317">
-			08-568 91 317
-		</a>
-
-		<div>
-			Teknikprogrammet, Språkintroduktion
-		</div>
-	</div>
-</div>
-
-<br>
 
 # Skolledningen
 
