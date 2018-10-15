@@ -37,7 +37,7 @@ menu_order: 2
 		</a>
 
 		<div>
-			Naturvetenskapsprogrammet
+			Naturvetenskapsprogrammet, Teknikprogrammet
 		</div>
 
 	</div>
