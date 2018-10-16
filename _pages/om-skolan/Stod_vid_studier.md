@@ -9,13 +9,15 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 ## S-klasser 
 Lasse von Gegerfelt   F10
 [Lars.von-gegerfelt@danderyd.se](mailto:Lars.von-gegerfelt@danderyd.se)
+<br>
 <a href="tel:08-568 913 61">08-568 913 61</a>
 
 Studiestöd; Asperger; ADHD
 
 ## E- och J-klasser
 Maria Teinert           F100
-[maria.teinert@danderyd.se](mailto:maria.teinert@danderyd.se)                                                      
+[maria.teinert@danderyd.se](mailto:maria.teinert@danderyd.se)
+<br>
 <a href="tel:08-568 913 51">08-568 913 51</a>
 
 Studiestöd; Dyslexi 
@@ -23,6 +25,7 @@ Studiestöd; Dyslexi
 ## T- och N-klasser
 Anders Willart        F100
 [Anders.willart@danderyd.se](mailto:Anders.willart@danderyd.se)
+<br>
 <a href="tel:08-568 913 58">08-568 913 58</a>
 
 Studiestöd; Dyslexi
