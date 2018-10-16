@@ -65,4 +65,22 @@ menu_order: 2
 
 <br>
 
+<div class="profile">
+	<div class="profile__info">
+		<div class="profile__title">Pernilla Ivier</div>
+
+		<a class="profile__link" href="mailto:pernilla.ivier@danderyd.se">
+			pernilla.ivier@danderyd.se
+		</a>
+		<a class="profile__link" href="tel:08-568 913 17">
+			08-568 913 17
+		</a>
+
+		<div>
+			Språkintroduktion
+		</div>
+	</div>
+</div>
+<br>
+
 <img class="text" src="/assets/Vägvisare_bild_1.jpg" alt="Vägvisare">
