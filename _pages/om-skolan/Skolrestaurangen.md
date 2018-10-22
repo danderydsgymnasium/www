@@ -13,8 +13,6 @@ Följ gärna våran restaurangspersonals <a href="https://www.instagram.com/dagy
 <img src="/assets/gang.png" alt="gang" width="542" height="271">
 
 
-[Meny för vecka 42](/assets/Veckomenyv42.pdf)
 
-<br>
 
-[Meny för vecka 43](/assets/Veckomenyv43.pdf)
+[Meny för vecka 43](/assets/nyv43.pdf)
