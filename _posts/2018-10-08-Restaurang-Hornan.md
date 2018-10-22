@@ -1,5 +1,5 @@
 ---
-title: Restaurang Hornan
+title: Restaurang Hörnan
 image: /assets/hornan2.png
 layout: post
 ---
