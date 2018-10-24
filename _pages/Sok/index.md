@@ -1,10 +1,10 @@
 ---
 layout: banner
-title: Sök på sidan
+title: Sök
 cover: /assets/abstract-bright-close-up-268460.png
 ---
 
-<input type="text" class="addsearch" name="addsearch" placeholder="Sök..." style="font-size: 18px; font-family: 'Playfair Display', Georgia, Cambria, 'Times New Roman', Times, serif;">
+<input type="text" class="addsearch" name="addsearch" placeholder="Sök..." style="font-size: 18px; font-family: 'Roboto Slab', 'Playfair Display', Georgia, Cambria, 'Times New Roman', Times, serif;">
 
 <div id="addsearch-results"></div>
 
