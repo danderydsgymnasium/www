@@ -1,6 +1,6 @@
 main_menu:
-  - title: Söka hit
-    url: /soka-hit
+  - title: Ansök
+    url: /ansok
   - title: Program
     url: /program
     edit_url: /programs
