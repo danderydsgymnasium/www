@@ -1,6 +1,6 @@
 ---
 layout: banner
-title: Söka hit
+title: Ansök
 cover: /assets/czhuxiqjilg-alejandro-escamilla.png
 ---
 
