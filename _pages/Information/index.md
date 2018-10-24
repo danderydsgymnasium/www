@@ -1,5 +1,5 @@
 ---
-title: Om skolan
+title: Information
 layout: banner
 cover: /assets/IMG_20160912_170024.png
 menu_order: 0
