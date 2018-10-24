@@ -4,8 +4,8 @@ main_menu:
   - title: Program
     url: /program
     edit_url: /programs
-  - title: Om skolan
-    url: /om-skolan
+  - title: Information
+    url: /Information
   - title: Nyheter
     url: /nyheter
     edit_url: /posts
@@ -74,7 +74,7 @@ program/fotboll:
   - title: En dag på NIU
     url: /nyheter/En-dag-pa-NIU
 
-om-skolan:
+Information:
   - title: Likabehandlingsplan
     url: /assets/Likabehandlingsplan.pdf
   - title: Försäkringar
