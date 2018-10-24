@@ -15,8 +15,8 @@ main_menu:
     url: /schoolsoft
   - title: Biblioteket
     url: /Bibliotek
-  - title: Sök på sidan
-    url: /Sok-pa-sidan
+  - title: Sök
+    url: /Sok
 
 program/naturvetenskap:
   - title: Matematik spetsutbildning
