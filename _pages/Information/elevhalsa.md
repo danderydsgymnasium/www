@@ -111,8 +111,12 @@ Vi nås lättast på mail eller Schoolsoft.
 		<a class="profile__link" href="mailto:cecilia.nilsonne@danderyd.se">
 			cecilia.nilsonne@danderyd.se
 		</a>
+		<a class="profile__link" href="tel:08-568 913 13">
+			08-568 913 13
+		</a>
+		<a class="profile__link" href="tel:0738-07 03 45">
+			0738-07 03 45
 		
-
 		<div>
 			Gymnasiesärskolan
 			ASD/Aspberger
