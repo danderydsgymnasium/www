@@ -116,7 +116,7 @@ Vi nås lättast på mail eller Schoolsoft.
 		</a>
 		<a class="profile__link" href="tel:0738-07 03 45">
 			0738-07 03 45
-		
+		</a>
 		<div>
 			Gymnasiesärskolan
 			ASD/Aspberger
