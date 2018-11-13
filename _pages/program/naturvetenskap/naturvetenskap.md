@@ -51,7 +51,7 @@ innovation och motivation. Du får full behörighet
 till universitet och högskola samt praktisk erfarenhet av att
 starta och driva företag genom Ung Företagsamhet, UF.
 
-
+/*
 ## Musik, Bild och formgivning eller Teater
 
 Här finns en möjlighet för dig som vill kombinera
@@ -68,3 +68,5 @@ i grupper som består av elever från både NA och SA vilket
 ger dig kontakter som sträcker sig över programmen.
 
 [Läs mer om Musik, Bild och formgivning eller Teater](/program/naturvetenskap/estet)
+*/
+
