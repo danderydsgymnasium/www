@@ -21,10 +21,6 @@ main_menu:
 program/naturvetenskap:
   - title: Matematik spetsutbildning
     url: /program/matematik-spets
-  - title: För elever med ASD/Aspergers syndrom
-    url: /program/aspergers
-  - title: Musik, Bild och formgivning eller Teater
-    url: /program/estet
 
 program/ekonomi:
   - title: Londonpraktik 2016
@@ -49,8 +45,6 @@ program/matematik-spets:
 program/aspergers:
   - title: Samhällsvetenskapsprogrammet
     url: /program/samhallsvetenskap
-  - title: Naturvetenskapsprogrammet
-    url: /program/naturvetenskap
 
 program/estet:
   - title: Samhällsvetenskapsprogrammet
