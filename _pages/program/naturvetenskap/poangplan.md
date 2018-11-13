@@ -17,12 +17,6 @@ menu_order: 3
 
 [Naturvetenskapsprogrammet: Natur](/assets/1NANAT18.pdf)
 
-[Naturvetenskapsprogrammet: Estet musik](/assets/1NAMUS18.pdf)
-
-[Naturvetenskapsprogrammet: Estet teater](/assets/1NATEA18.pdf)
-
-[Naturvetenskapsprogrammet: Estet bild](/assets/1NABIL18.pdf)
-
 [Naturvetenskapsprogrammet: Spetsutbildning matematik](/assets/1NAMAT18.pdf)
 
 [Naturvetenskapsprogrammet: Internationell](/assets/1NAINT18.pdf)
