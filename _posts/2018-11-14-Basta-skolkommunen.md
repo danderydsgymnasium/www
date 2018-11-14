@@ -1,5 +1,5 @@
 ---
-title: Stockholms bästa skolkommun
+title: Bästa skolkommunen
 image: /assets/labba.png
 layout: post
 ---
