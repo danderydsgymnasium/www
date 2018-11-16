@@ -7,21 +7,19 @@ programs_order: 0
 menu_order: 0
 ---
 
-Vill du fördjupa dig inom matematik? Då ska du söka till vår Spetsutbildning Matematikgymnasiet. Den är nationellt erkänd och har funnits på Danderyds gymnasium i drygt 30 år. Det finns idag 20 teoretiska spetsutbildningar i Sverige som har blivit beviljade av Skolverket att bedriva spetsutbildning. Sex av dessa är inriktade på matematik. Vår spetsutbildning i matematik är den enda i Stockholms län.
+Tycker du att matematik är extra roligt? Tycker du att matematiken i grundskolan har varit för enkel? Längtar du efter att utmana ditt matematiska tänkande? 
 
-Matematikgymnasiet är en särskild variant av det Naturvetenskapliga programmet. Du läser matematikkurser parallellt och i snabbare takt. I programmet ingår 700 p matematik, fördelade på Matematik 1-5 och två kurser i Matematik Specialisering. Alla kurser är väl inarbetade och leds av kunniga och engagerade lärare. Du får en bättre helhetsbild av matematik som ämne. Du får tillfälle att öva kreativt tänkande och möjlighet att bli en bra problemlösare.
+Hos oss finns möjligheten. Matematikgymnasiet är en nationellt erkänd spetsutbildning som har funnits på Danderyds gymnasium i mer än 30 år. Matematikgymnasiet är en särskild variant av det Naturvetenskapliga programmet. Du läser matematikkurser parallellt och i snabbare takt. Vi erbjuder dig en stimulerande miljö med likasinnade. Våra elever brukar varje år nå framgångar i både nationella och internationella matematik- och programmeringstävlingar.
 
-Våra kurser inom Matematik Specialisering är inte bara utvidgning och fördjupning utan vi tar även upp ämnesområden och perspektiv som sällan berörs inom de vanliga matematikkurserna. Som individuellt val erbjuder vi också ytterligare kurser i matematik. Utbildningen ger dig ett stort försprång vid fortsatta studier inom matematikkrävande områden.
-
-Vi erbjuder dig en stimulerande miljö med likasinnade elever. Flera av våra elever når årligen framgångar i både nationella och internationella matematik- och programmeringstävlingar.
+Det finns idag 20 teoretiska spetsutbildningar i Sverige som har blivit beviljade av Skolverket. Av dessa är vår spetsutbildning den enda i Stockholms län som är inriktad på matematik. [<i>Läs mer här om spetsutbildningar</i>](http://www.spetsutbildningar.se/index.php/#start)
 
 Du som söker denna utbildning kallas till en heldag för antagningsprov där vi testar dina baskunskaper och din problemlösningsförmåga i matematik. Resultaten på dessa prov samt dina betyg från åk 9 ligger till grund för antagningen.
 
-[Läs mer i vår broschyr](/assets/BroschyrMaspets.2017-2018.pdf)
+[Läs mer i vår broschyr](/assets/BroschyrMaspets.2018-2019.pdf)
 
 # Antagningsprov
 
-Du kallas till antagningsprov 2018, antingen 16/3 eller 19/3. Provet består av två delar, basprovet som testar grundläggande baskunskaper och problemlösningsprov.
+Du kallas till antagningsprov 2019, antingen 18/3 eller 19/3. Provet består av två delar, basprovet som testar grundläggande baskunskaper och problemlösningsprov. Elever från hela landet är välkomna att söka denna utbildning, den är alltså riksrekryterande. Du som söker kommer att kallas till en heldag för antagningsprov där vi testar dina baskunskaper och din problemlösningsförmåga i matematik. Resultaten från dessa prov samt dina betyg från åk 9 ligger till grund för antagningen. 
 
 Här kan du ladda ner exempel på antagningsprovet för att testa hur din problemlösningsförmåga ser ut.
 
