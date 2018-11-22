@@ -14,5 +14,6 @@ Dagarna kommer att vara följande:<br>
 <li>Samhällsvetenskapsprogrammet: Måndag den 11/2 förmiddag eller Tisdag den 9/4 eftermiddag.</li>
 <li>Samhällsvetenskapsprogrammet med estetisk inriktning: Tisdag den 9 /4 eftermiddag.</li>
 <li>Teknikprogrammet: Måndagen den 11/2 eftermiddag eller Tisdagen den 9/4 förmiddag.</li>
-</ul> 
+</ul>
+<br>
 Varmt välkommen att anmäla dig!
