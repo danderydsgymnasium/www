@@ -8,9 +8,8 @@ programs_order: 0
 menu_order: 0
 ---
 
-Vi erbjuder tre inriktningar inom det naturvetenskapliga
-programmet; Naturvetenskap, Naturvetenskap och samhälle
-samt Naturvetenskap Estet. Utbildningarna vänder
+Vi erbjuder två inriktningar inom det naturvetenskapliga
+programmet; Naturvetenskap, Naturvetenskap och samhälle. Utbildningarna vänder
 sig till dig som vill utveckla ett naturvetenskapligt arbetssätt
 och få en plattform för fortsatta studier och yrkesliv.
 För att förbereda dig för detta får du på det naturvetenskapliga
