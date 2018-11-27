@@ -6,12 +6,12 @@ menu_order: 3
 
 ### Klicka på länkarna för att se poängplanerna för respektive fördjupning
 
-[Ekonomiprogrammet: Kreativ marknadsföring NIU](/assets/1EKKRE18NIU.pdf)
+[Ekonomiprogrammet: Kreativ marknadsföring NIU](/assets/EKKRE19NIU.pdf)
 
-[Ekonomiprogrammet: Kreativ marknadsföring](/assets/1EKKRE18.pdf)
+[Ekonomiprogrammet: Kreativ marknadsföring](/assets/EKKRE19.pdf)
 
-[Ekonomiprogrammet: Juridik](/assets/EKJUR1819.pdf)
+[Ekonomiprogrammet: Juridik](/assets/EKJUR19.pdf)
 
-[Ekonomiprogrammet: Internationell NIU](/assets/1EKINT18NIU.pdf)
+[Ekonomiprogrammet: Internationell NIU](/assets/EKINT19NIUny.pdf)
 
-[Ekonomiprogrammet: Internationell](/assets/EKINT182.pdf)
+[Ekonomiprogrammet: Internationell](/assets/EKINT19.pdf)
