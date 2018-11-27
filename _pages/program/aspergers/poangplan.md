@@ -4,8 +4,7 @@ layout: sub
 menu_order: 1
 ---
 
-### Klicka på länkarna för att se poängplanerna för respektive fördjupning
+### Klicka för att se poängplan för fördjupning
 
-[Naturvetenskapsprogrammet: Natur, Samhälle, för elever med ASD](/assets/1NASAM18H.pdf)
 
-[Samhällsvetenskapsprogrammet: Samhälle, för elever med ASD](/assets/1SASAM18D.pdf)
+[Samhällsvetenskapsprogrammet: Samhälle, för elever med ASD](/assets/SASAM19D.pdf)
