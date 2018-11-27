@@ -7,7 +7,7 @@ programs_order: 2
 menu_order: 0
 ---
 
-På Danderyds gymnasium erbjuder vi elever med Asperger syndrom en utbildning inom Naturprogrammet med samhällsinriktning och Samhällsprogrammet med samhällsinriktning.
+På Danderyds gymnasium erbjuder vi elever med Asperger syndrom en utbildning inom Samhällsprogrammet med samhällsinriktning.
 
 Du går i en klass med 8-9 elever och får ett hemklassrum med egen arbetsplats och bärbar dator. Du kan läsa allt i den lilla gruppen, men du har också möjlighet att välja kurser som intresserar dig ute på skolan.
 
