@@ -15,7 +15,7 @@ För oss är det viktigt att du trivs och får ett starkt självförtroende. Det
 
 Läsåret 1995/96 startade Dagy sin första utbildningen för elever med Aspergers syndrom. Våren 1998 tog de första eleverna studentexamen och idag pågår verksamheten med en klass i varje årskurs.
 
-Om du är intresserad av att söka hit så skall du först kontakta oss. Du får sedan komma hit och träffa oss och bekanta dig med skolan. Ansökan sker därefter på vanligt vis. För att boka in ett besök, v.g. kontakta Viktoria Wallin.
+Om du är intresserad av att söka hit så skall du först kontakta oss. Du får sedan komma hit och träffa oss och bekanta dig med skolan. Ansökan sker därefter på vanligt vis. För att boka in ett besök, v.g. kontakta Staffan Lenneby.
 
 <div class="profile">
 	<div class="profile__info">
