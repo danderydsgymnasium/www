@@ -15,4 +15,4 @@ Följ gärna våran restaurangspersonals <a href="https://www.instagram.com/dagy
 
 
 
-[Meny för vecka 46](/assets/v49.pdf)
+[Meny för vecka 50](/assets/v50.pdf)
