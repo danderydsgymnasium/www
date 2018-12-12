@@ -27,5 +27,5 @@ Går du på ett annat gymnasium men vill byta skola till oss?
 . Glöm inte att bifoga bilagor enligt instruktionerna på ansökningsblanketten
 
 # Öppet hus 2019
-<br>
+
 ## 2019 - 4:e Februari 18:00-20:00
