@@ -17,14 +17,15 @@ Spetsutbildningen i Matematik [klicka här](/program/matematik-spets).
 
 Det är verkligen roligt att det även i år är ett stort intresse för Danderyds gymnasium (Dagy) och att vår reservlista är lång. Här hittar du [information](/assets/rutinreservantagning.pdf) om hur reservantagningen går till på Dagy.
 
+# Titta igenom vår katalog
+[Klicka här för att läsa vår katalog](/assets/dagykatalog.pdf)
+
 # Byt till Åk 2 eller 3
 
 Går du på ett annat gymnasium men vill byta skola till oss?
 [Klicka här för att ladda ner en ansökningsblankett](/assets/Ansökan om Utbildningsplats.pdf)
 . Glöm inte att bifoga bilagor enligt instruktionerna på ansökningsblanketten
 
-# Öppet hus 2018/2019
-
-## 2018 - 29:e November 18:00-20:00
-
+# Öppet hus 2019
+<br>
 ## 2019 - 4:e Februari 18:00-20:00
