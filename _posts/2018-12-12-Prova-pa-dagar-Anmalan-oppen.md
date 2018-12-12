@@ -1,5 +1,5 @@
 ---
-title: Prova på dagar anmälan öppen
+title: Prova på dagar Anmälan öppen
 image: /assets/framsida.png
 layout: post
 ---
