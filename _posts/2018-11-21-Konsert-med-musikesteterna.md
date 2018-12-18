@@ -5,4 +5,9 @@ layout: post
 ---
 
 Konsert med musikesterna i åk2 ikväll, torsdagen den 22/11 kl 18:00 i Albert Hall (musiksalen).<br> 
-Varmt välkomna!
+
+Bilder från konserten:
+<br>
+<img src="/assets/konsert1.png" alt="spetsolymp" width="374" height="271" align="left">
+<br>
+<img src="/assets/konsert2.png" alt="spetsolymp" width="374" height="271" align="left">
