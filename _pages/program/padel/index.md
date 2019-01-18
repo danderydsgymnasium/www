@@ -57,7 +57,7 @@ Dessutom erbjuder vi provträningstillfällen, för mer info om dessa, kontakta 
 		<div class="profile__title">Jonas Bergdahl Lindkvist</div>
 
 		<a class="profile__link" href="mailto:jonas.bergdahllindkvist@danderyd.se">
-			daniel.kalles-pettersson@danderyd.se
+			jonas.bergdahllindkvist@danderyd.s
 		</a>
 		<a class="profile__link" href="tel:08-568 913 42">
 			08-568 913 42
