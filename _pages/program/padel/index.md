@@ -5,6 +5,7 @@ collection: specializations
 layout: sub
 image: /assets/NIU-padel.png
 programs_order: 3
+menu_order: 0
 ---
 
 Från och med läsår 19/20 erbjuder Danderyds gymnasium Nationell idrottsutbildning Padel som riktar sig till dig som vill satsa på en framtid inom Padel.
