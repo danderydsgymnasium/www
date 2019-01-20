@@ -1,7 +1,10 @@
 ---
 title: Musik, Bild och formgivning eller Teater
+collection: specializations
 layout: sub
 image: /assets/tq4yjca2bsc-alex-jones.png
+programs_order: 4
+menu_order: 0
 ---
 
 Här finns en möjlighet för dig som vill kombinera en samhällsvetenskaplig utbildning med en estetisk inriktning.
