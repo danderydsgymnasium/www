@@ -22,13 +22,13 @@ menu_order: 1
 <br>
 
 <div class="profile">
-	<img class="profile__image" src="/assets/FRY%20JEANETTE%20120x180.png" alt="Jeanette Fry">
+	<img class="profile__image" src="/assets/heinz.png" alt="Heinz Glöckler">
 	<div class="profile__info">
-		<div class="profile__title">Jeanette Fry</div>
-		<div>Rektor EK-NIU</div>
+		<div class="profile__title">Heinz Glöckler</div>
+		<div>TF Rektor EK-NIU</div>
 
-		<a class="profile__link" href="mailto:jeanette.fry@danderyd.se">
-			jeanette.fry@danderyd.se
+		<a class="profile__link" href="mailto:heinz.glockler@danderyd.se">
+			heinz.glockler@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:073-748 11 86">
 			073-748 11 86
