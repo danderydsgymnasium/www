@@ -4,25 +4,9 @@ layout: sub
 menu_order: 2
 ---
 
-Du har nytta av kunskaper i juridik vilken framtid du än
-tänker dig eftersom nästan alla verksamheter, offentliga
-som privata, styrs av rättsliga ramar. Ekonomiprogrammet
-Inriktning juridik vänder sig till dig som är intresserad av
-hur det svenska samhället fungerar och vilka regler som
-styr privatliv, yrkesliv och affärsliv.
+Ekonomiprogrammet med inriktning juridik vänder sig till dig som är intresserad av hur rättssystem och lagar styr privatliv, yrkesliv och affärsliv. Du kommer ha nytta av kunskaper i juridik vilken framtid du än tänker dig. Nästan alla verksamheter, offentliga som privata, styrs av rättsliga ramar. Här kommer du att få träna din förmåga att lösa problem utifrån olika perspektiv. Du kommer få många chanser att arbeta praktiskt med juridiska fallbeskrivningar och att tolka relevanta rättskällor. Rättegångsbesök ger underlag för rollspel och diskussioner i klassrummet.
 
-En kombination av ekonomi- och juridikkunskaper tränar
-dig i att lösa problem utifrån olika perspektiv och förbereder
-dig för studier på högre nivåer. Du får många chanser
-att arbeta praktiskt med juridiska fallbeskrivningar och
-tolka relevanta rättskällor. Rättegångsbesök ger underlag
-för rollspel och diskussioner i klassrummet.
-
-I årskurs tre får eleverna i dagsläget besöka EU-institutioner
-på plats som till exempel Kommissionen i Bryssel under
-en unik studieresa som juridikinriktningen arrangerar.
-Inför resan har du studerat EU-rätt i förhållande till svensk
-rätt och arbetat med frågor som rör mänskliga rättigheter.
+I inriktningen ingår dessutom företagsekonomi där du får lära dig entreprenörskap, marknadsföring, kalkylering, redovisning och bokslut. Förutom den obligatoriska kursen Privatjuridik ingår också kurserna Affärsjuridik samt Rätten och samhället. Här utvecklar du dina kunskaper inom juridisk metod, offentlig rätt, civilrätt och internationell rätt. Dessutom ingår Företagsekonomi 2, Retorik och Matematik 3 som kurser.
 
 Elever från juridikinriktningen har vid flera tillfällen vunnit SM i juridik, en tävling som anordnas av Nordiska juristakademin och där skolor från hela Sverige deltar. Deltagandet i SM ger möjlighet till extern utvärdering av undervisningen och en möjlighet för våra elever att få träffa elever och lärare från andra skolor:
 
