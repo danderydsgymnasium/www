@@ -13,7 +13,7 @@ På Ekonomiprogrammet studerar du svenska och internationella företags och orga
 På ekonomiprogrammet har vi under en lång tid haft ett starkt och aktivt programråd, bestående av elever som driver viktiga skolfrågor ur elevperspektiv. De gör också sitt bästa för att skapa trivsel och skapa sammanhållning mellan årskurserna.
 
 <div class="profile">
-	<img class="profile__image" src="/assets/FRY%20JEANETTE%20120x180.png" alt="Heinz Glöckler">
+	<img class="profile__image" src="/assets/heinz.png" alt="Heinz Glöckler">
 	<div class="profile__info">
 		<div class="profile__title">Heinz Glöckler</div>
 		<div>TF Rektor EK</div>
