@@ -8,7 +8,7 @@ Ekonomiprogrammet med inriktning juridik vänder sig till dig som är intressera
 
 I inriktningen ingår dessutom företagsekonomi där du får lära dig entreprenörskap, marknadsföring, kalkylering, redovisning och bokslut. Förutom den obligatoriska kursen Privatjuridik ingår också kurserna Affärsjuridik samt Rätten och samhället. Här utvecklar du dina kunskaper inom juridisk metod, offentlig rätt, civilrätt och internationell rätt. Dessutom ingår Företagsekonomi 2, Retorik och Matematik 3 som kurser.
 
-Elever från juridikinriktningen har vid flera tillfällen vunnit SM i juridik, en tävling som anordnas av Nordiska juristakademin och där skolor från hela Sverige deltar. Deltagandet i SM ger möjlighet till extern utvärdering av undervisningen och en möjlighet för våra elever att få träffa elever och lärare från andra skolor:
+Elever från juridikinriktningen har vid flera tillfällen vunnit SM i juridik, en tävling som anordnas av Nordiska juristakademin och där skolor från hela Sverige deltar. Deltagandet i SM ger möjlighet till extern utvärdering av undervisningen och en möjlighet för våra elever att få träffa elever och lärare från andra skolor.
 
 Förutom den obligatoriska kursen Privatjuridik ingår
 också kurserna Affärsjuridik samt Rätten och samhället i
