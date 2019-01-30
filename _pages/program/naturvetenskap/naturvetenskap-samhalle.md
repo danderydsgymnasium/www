@@ -4,7 +4,4 @@ layout: sub
 menu_order: 2
 ---
 
-## Entreprenörskap
-
-Inom inriktningen Naturvetenskap och Samhälle erbjuder vi en programfördjupning med fokus på entreprenörskap. Du får möjlighet att använda dina breda kunskaper i kombination med entreprenöriellt lärande och i årskurs 3 får du möjligheten att starta ett UF företag.
-För ökad behörighet till högskolan kan du läsa till exempel Fysik 2 eller Matematik 4 inom ramen för ditt individuella val.
+För dig som önskar mer bredd och mindre djup. Du läser Samhällskunskap 2, Geografi 1 och Entreprenörskap istället för kurserna Matematik 4, Fysik 2 och Kemi 2. I årskurs 3 finns möjlighet att starta UF-företag
