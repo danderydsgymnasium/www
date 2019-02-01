@@ -7,13 +7,13 @@ programs_order: 2
 menu_order: 0
 ---
 
-På Danderyds gymnasium erbjuder vi elever med Asperger syndrom en utbildning inom Samhällsprogrammet med samhällsinriktning.
+Här på Danderyds gymnasium får du gå ett högskoleförberedande program, i en mindre klass med ungefär 10 elever där alla elever har aspergers syndrom.
+Vi håller till i nyrenoverade och särskilt anpassade lokaler där varje klass har ett hemklassrum. Klassrummet är öppet på raster och under lunchen och du har tillgång till det både före och efter den schemalagda skoldagen. Du läser majoriteten av kurser med dina klasskamrater, men ibland läser ni även kurser med andra klasser. På Dagy har alla elever tillgång till en egen bärbar dator, vilken är ett viktigt arbetsredskap. Utöver den vanliga undervisningen gör vi också olika studiebesök och dessutom en skolresa. Du har möjlighet att ta del av den övriga skolans aktiviteter. 
+Du kan också välja kurser inom det individuella valet i årskurs 2, 3 samt läsa språkkurser i modernt språk redan från årskurs 1. Vår undervisning sker i en lugn arbetsmiljö och våra lärare tar stort ansvar för att göra undervisningen meningsfull, hanterbar och begriplig. 
 
-Du går i en klass med 8-9 elever och får ett hemklassrum med egen arbetsplats och bärbar dator. Du kan läsa allt i den lilla gruppen, men du har också möjlighet att välja kurser som intresserar dig ute på skolan.
+## Våra lärare
 
-För oss är det viktigt att du trivs och får ett starkt självförtroende. Det ser vi som viktiga förutsättningar för ett gott studieresultat. Hos oss kommer du också att på olika sätt förberedas för kommande studier och yrkesval.
-
-Läsåret 1995/96 startade Dagy sin första utbildningen för elever med Aspergers syndrom. Våren 1998 tog de första eleverna studentexamen och idag pågår verksamheten med en klass i varje årskurs.
+Varje klass har en mentor som följer dig under utbildningen och som hjälper dig att på olika sätt bli förberedd inför kommande studier och yrkesval. Alla lärare är behöriga och har stor erfarenhet av att arbeta med personer med ASD. Du kommer under dina år hos oss att utvecklas både socialt och kommunikativt och få med dig ökade insikter och ett stärkt självförtroende.
 
 Om du är intresserad av att söka hit så skall du först kontakta oss. Du får sedan komma hit och träffa oss och bekanta dig med skolan. Ansökan sker därefter på vanligt vis. För att boka in ett besök, v.g. kontakta Staffan Lenneby.
 
