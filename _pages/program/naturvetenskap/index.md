@@ -8,25 +8,8 @@ programs_order: 0
 menu_order: 0
 ---
 
-Vi erbjuder två inriktningar inom det naturvetenskapliga
-programmet; Naturvetenskap, Naturvetenskap och samhälle. Utbildningarna vänder
-sig till dig som vill utveckla ett naturvetenskapligt arbetssätt
-och få en plattform för fortsatta studier och yrkesliv.
-För att förbereda dig för detta får du på det naturvetenskapliga
-programmet arbeta med laborationer, fältarbete
-och undersökande arbetsmetoder.
-
-Vi har moderna laborationssalar och klassrum försedda
-med den teknik som en modern undervisning kräver.
-Vi anordnar studiebesök och ser till att du får möta forskare
-och experter verksamma vid olika högskolor och arbetsplatser.
-Vårt mål är att utbildningen ska stimulera dig till
-kreativitet, nyfikenhet och analytiskt tänkande.
-
-Vi deltar också i den forskarskola som anordnas av Stockholms
-Universitet. Varje år deltar elever från Danderyds
-gymnasium med framgång i internationella olympiader
-inom matematik, kemi, biologi, fysik och programmering.
+Vi erbjuder två inriktningar inom det naturvetenskapliga programmet; Naturvetenskap samt Naturvetenskap och samhälle. Dessutom har vi flera olika fördjupningar att välja mellan. Hos oss finns välutrustade laborationssalar och klassrum försedda med den teknik som en modern undervisning kräver. Vi anordnar studiebesök och ser till att du får möta forskare och experter verksamma vid olika högskolor 
+och arbetsplatser. Vi deltar också i den forskarskola som anordnas av Stockholms Universitet. Du kommer att få arbeta med till exempel laborationer, fältarbete och undersökande arbetsmetoder. Varje år deltar många av våra elever i internationella olympiader inom matematik, kemi, biologi, fysik och programmering.
 
 <div class="profile">
 	<img class="profile__image" src="/assets/anette-bjaras.png" alt="Anette Bjärås">
