@@ -8,13 +8,10 @@ programs_order: 3
 menu_order: 0
 ---
 
-Teknikprogrammet är en kreativ högskoleförberedande utbildning som varvar teori med praktiskt arbete. Detta gör vi genom ett nära samarbete med branschen samt att våra lärare har en gedigen bakgrund både som forskare, lektorer och som utvecklare inom spelbranschen. Exempelvis har de varit delaktig i produktioner från Sveriges första AAA speltitel Headhunter (Amuze) till Battlefield (DICE).
+Är du intresserad av programmering och design? Eller av grafik, smarta designlösningar, VR, AR, spel och datorer? Ser du en framtid som civilingenjör, spelutvecklare, arkitekt eller båt-, möbel- eller produktdesigner? Då är Teknikprogrammet på Danderyds Gymnasium något för dig. 
+För dig som vill utvecklas inom grafisk design eller programmering.  Du arbetar med designprocesser från konceptidé till färdig produkt. Du får en gedigen grund inom matematik och fysik där du utvecklar dina kreativa förmågor och efter din tid här på Danderyds gymnasium läser du vidare på högskola eller universitet som KTH eller Konstfack. 
 
-Vi arbetar ämnesövergripande både inom och mellan program och våra teknikelever jobbar bl.a. med att ta fram system eller produkter som efterfrågas från andra elever. Vår ambition är att arbeta med den absolut senaste tekniken inom Augmented Reality, Virtual Reality och 3D Printing. Vi kan stoltsera med Stockholms första VR-Lab på gymnasienivå där våra teknikelever tar fram virtuella applikationer.
-
-Teknikprogrammet på Danderyds gymnasium är för dig som vill studera vidare till ingenjör, arkitekt, produktdesigner eller spelutvecklare och vi har stark fokus på design- och innovations tänkande.
-
-Teknikprogrammet på Danderyds gymnasium välkomnar liksom övriga program på Danderyds gymnasium alla som vill växa som människor och vill utvecklas i en riktning som du själv väljer.
+Väl förbered för de utmaningar som där ges. Vi har ett nära samarbete med branschen, våra 100% behöriga lärare har gedigna bakgrunder, bl.a som forskare, lektorer, utvecklare, ingenjörer och företagare. Några har t.ex. varit delaktiga i produktionen av Battlefield2, andra har forskat inom Surface Science i Japan, varit läromedelsförfattare, skrivit texter till Nationalencyklopedin och spel- och programutvecklare, startat berg och dalbanefysiken på Gröna Lund som sedermera blev en stor succé i Stockholmsområdet. Bredden hos våra lärare garanterar att utbildningen som här erbjuds både är relevant men också stimulerande.Vår ambition är att arbeta med den absolut senaste tekniken och de senaste mjukvarorna där vi jobbar mycket med VR och 3D-printing i våra fullt utrustade lokaler. Vi kan t.o.m. stoltsera med ett VR-labb! Här tar våra teknikelever fram virtuella applikationer, bygger framtidens designkoncept eller bara har kul mellan lektionerna.  Inom teknikprogrammet kan du välja mellan två olika inriktningar, design och produktutveckling eller informations - och medieteknik. 
 
 <div class="profile">
 	<img class="profile__image" src="/assets/anette-bjaras.png" alt="Anette Bjärås">
