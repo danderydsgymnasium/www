@@ -4,10 +4,4 @@ layout: sub
 image: /assets/Leksaksrymdraket.jpg
 menu_order: 1
 ---
-
-Här ligger fokus på AR och VR teknologier (samma teknologi
-som Pokémon Go och IKEA). Du kommer att utbildas
-i att ta fram innehåll som du självklart kan använda i
-din smartphone och du kommer att skapa virtuella utställningar
-med dina produkter som du kan ta med överallt,
-HTC VIVE är en integrerad del av utbildningen.
+Om du vill jobba med industridesign, där du jobbar både digitalt med den senaste tekniken men även jobbar analogt. Tex så kan ett projekt vara att ta du tar fram en lermodell av en bil som du överför till digitalt format, bearbetar i 3D och presenterar i vår VR miljö 
