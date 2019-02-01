@@ -4,6 +4,8 @@ layout: sub
 menu_order: 1
 ---
 
+## Internationell fördjupning
+
 Internationell politik, rika och fattiga länder, stadsplanering,
 krig och konflikter, globala frågor och organisationer. Låter
 det intressant? Inriktning samhällsvetenskap innebär att du lä­
@@ -52,3 +54,8 @@ i grupper som består av elever från både NA och SA vilket
 ger dig kontakter som sträcker sig över programmen.
 
 [Läs mer om Musik, Bild och formgivning eller Teater](/program/samhallsvetenskap/estet)
+
+
+## Samhällsvetenskapsprogrammet för elever med Aspergers syndrom
+
+Har du ASD/Aspergers syndrom kan du hos oss läsa Samhällsvetenskapsprogrammet med inriktning Samhällsvetenskap. Här på Danderyds gymnasium får du gå i en mindre klass med ca 10 elever.
