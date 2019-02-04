@@ -11,7 +11,7 @@ Du kommer till Danderyds gymnasium i mars och gör två uppgifter under några t
 
 Kontaktperson:<br>
 Robert Lindström<br>
-[rlindstrom@dagy.danderyd.se](mailto:rlindstrom@dagy.danderyd.se)
+[robert.lindstrom@danderyd.se](mailto:robert.lindstrom@danderyd.se)
 
 ## Musik
 
@@ -26,7 +26,7 @@ Glöm inte att ta med noter om du vill att vi ska kompa dig. Är noterna komplic
 Kontaktperson:<br>
 Staffan Isbäck<br>
 [08-568 913 54](tel:08-568 913 54)<br>
-[staffan.isback@dagy.danderyd.se](mailto:staffan.isback@dagy.danderyd.se)
+[staffan.isback@danderyd.se](mailto:staffan.isback@danderyd.se)
 
 ## Teater
 
@@ -37,4 +37,4 @@ Tillsammans med andra sökande deltar du först i några teater- och improvisati
 Kontaktperson:<br>
 Martin Lange<br>
 [08-568 913 55](tel:08-568 913 55)<br>
-[martin.lange@dagy.danderyd.se](mailto:martin.lange@dagy.danderyd.se)
+[martin.lange@danderyd.se](mailto:martin.lange@danderyd.se)
