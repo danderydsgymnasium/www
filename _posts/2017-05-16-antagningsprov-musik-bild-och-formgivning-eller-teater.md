@@ -4,6 +4,12 @@ image: /assets/smaller-2017-05-16T09-48-52.937Z.jpeg
 layout: post
 ---
 
+## Antagningsprover 2019
+<ul>
+<li>Teater måndag 18 mars kl 14</li>
+<li>Bild måndag 18 mars kl 14</li>
+<li>Musik tisdag 19 mars tid meddelas i kallelsen till provet.</li>
+</ul>
 
 ## Bild och Formgivning
 
