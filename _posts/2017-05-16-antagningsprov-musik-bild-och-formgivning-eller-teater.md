@@ -6,9 +6,9 @@ layout: post
 
 ## Antagningsprover 2019
 <ul>
-<li>Teater måndag 18 mars kl 14</li>
-<li>Bild måndag 18 mars kl 14</li>
-<li>Musik tisdag 19 mars tid meddelas i kallelsen till provet.</li>
+<li>Teater måndag 18e mars kl 14</li>
+<li>Bild måndag 14e mars kl 14</li>
+<li>Musik Måndag 18e Tisdag 19e mars tid meddelas i kallelsen till provet.</li>
 </ul>
 
 ## Bild och Formgivning
