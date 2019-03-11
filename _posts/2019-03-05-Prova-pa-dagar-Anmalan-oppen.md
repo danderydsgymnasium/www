@@ -9,11 +9,11 @@ Du får under en halvdag träffa lärare och elever från ett program och känna
 Välj vilket program du önskar följa samt vilken dag du önskar komma, klicka på länken för anmälan och följ instruktionerna<br>
 Dagarna kommer att vara följande:<br>
 <ul>
-<li>Ekonomiprogrammet: Tisdagen den 26/3 eftermiddag <a href="https://docs.google.com/forms/d/1AJ0pHxMeakYBa_S1ergMekIle1HAE7Clts1FudMSRqc/edit">Klicka här för anmälan</a></li>
-<li>Naturvetenskapsprogrammet: Tisdagen den 26/3 förmiddag <a href="https://docs.google.com/forms/d/1hpeV6381JxIl81RSy0O0u4hHu-WcNNSguPAOXvAcv-4/edit">Klicka här för anmälan</a></li>
-<li>Samhällsvetenskapsprogrammet: Tisdag den 9/4 eftermiddag <a href="https://docs.google.com/forms/d/1CwpDku60LTgNk-Z1wsiJOl1z1Qhgj8kvDDe5AVq5zPQ/edit">Klicka här för anmälan</a></li>
-<li>Samhällsvetenskapsprogrammet med estetisk inriktning: Tisdag den 9 /4 eftermiddag <a href="https://docs.google.com/forms/d/1G7nlka6RdCA8pbtOe7AKrgT7PAmpxQ0Do-KTl_AEiOs/edit">Klicka här för anmälan</a></li>
-<li>Teknikprogrammet: Tisdagen den 9/4 förmiddag <a href="https://docs.google.com/forms/d/1q9jUI1cTssgCVFKxosZlVIqtfUolc23jZuT8nWYly7k/edit">Klicka här för anmälan</a></li>
+<li>Ekonomiprogrammet: Tisdagen den 26/3 eftermiddag (Anmäl dig senast 21/3) <a href="https://docs.google.com/forms/d/1AJ0pHxMeakYBa_S1ergMekIle1HAE7Clts1FudMSRqc/edit">Klicka här för anmälan</a></li>
+<li>Naturvetenskapsprogrammet: Tisdagen den 26/3 förmiddag (Anmäl dig senast 21/3) <a href="https://docs.google.com/forms/d/1hpeV6381JxIl81RSy0O0u4hHu-WcNNSguPAOXvAcv-4/edit">Klicka här för anmälan</a></li>
+<li>Samhällsvetenskapsprogrammet: Tisdag den 9/4 eftermiddag (Anmäl dig senast 4/4) <a href="https://docs.google.com/forms/d/1CwpDku60LTgNk-Z1wsiJOl1z1Qhgj8kvDDe5AVq5zPQ/edit">Klicka här för anmälan</a></li>
+<li>Samhällsvetenskapsprogrammet med estetisk inriktning: Tisdag den 9/4 eftermiddag (Anmäl dig senast 4/4) <a href="https://docs.google.com/forms/d/1G7nlka6RdCA8pbtOe7AKrgT7PAmpxQ0Do-KTl_AEiOs/edit">Klicka här för anmälan</a></li>
+<li>Teknikprogrammet: Tisdagen den 9/4 förmiddag (Anmäl dig senast 4/4) <a href="https://docs.google.com/forms/d/1q9jUI1cTssgCVFKxosZlVIqtfUolc23jZuT8nWYly7k/edit">Klicka här för anmälan</a></li>
 </ul>
 <br>
 
