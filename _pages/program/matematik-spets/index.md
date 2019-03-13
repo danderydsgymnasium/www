@@ -7,12 +7,14 @@ programs_order: 0
 menu_order: 0
 ---
 
-Tycker du att matematik är extra roligt? Tycker du att matematiken i grundskolan har varit för enkel? Längtar du efter att utmana ditt matematiska tänkande? 
+## Länets främsta matematikutbildning för gymnasieungdomar
 
-Hos oss finns möjligheten. Matematikgymnasiet är en nationellt erkänd spetsutbildning som har funnits på Danderyds gymnasium i mer än 30 år. Matematikgymnasiet är en särskild variant av det Naturvetenskapliga programmet. Du läser matematikkurser parallellt och i snabbare takt. Vi erbjuder dig en stimulerande miljö med likasinnade. Våra elever brukar varje år nå framgångar i både nationella och internationella matematik- och programmeringstävlingar.
+På Danderyds gymnasium är vi mycket stolta över vår spetsutbildning i matematik. Det finns idag 20 teoretiska spetsutbildningar i Sverige som har blivit beviljade av Skolverket. Av dessa är vår spetsutbildning den enda i Stockholms län som är inriktad på matematik. [<i>Läs mer här om spetsutbildningar</i>](http://www.spetsutbildningar.se/index.php/#start)
 
-Det finns idag 20 teoretiska spetsutbildningar i Sverige som har blivit beviljade av Skolverket. Av dessa är vår spetsutbildning den enda i Stockholms län som är inriktad på matematik. [<i>Läs mer här om spetsutbildningar</i>](http://www.spetsutbildningar.se/index.php/#start)
-
+Vi jobbar med att låta våra elever fördjupa sig i matematiken, och längtar du efter att utmana ditt matematiska tänkande har du kommit rätt. Redan första året läser du förutom Ma1c och Ma2c fördjupade kurser såsom matematik 5 och matematikspecialisering. 
+Som en följd av den gedigna undervisningen ser vi att våra elever når ständiga framgångar i både nationella och internationella matematik- och programmeringstävlingar samt i sina vidare studier. 
+Under 2018 hade vi besök av skolinspektionen. Deras utlåtande lät: Skolinspektionen bedömer att det på Danderyds gymnasium genomförs en undervisning med allmändidaktiska kvaliteter för högpresterande elever med god kvalitet stämmer väl med vår bild. 
+Vill du gå på en skola där du får gedigna matematikkunskaper, träffa andra elever du kan prata matematik med och få möjlighet att vidga dina begrepp är du varmt välkommen till oss.
 Du som söker denna utbildning kallas till en heldag för antagningsprov där vi testar dina baskunskaper och din problemlösningsförmåga i matematik. Resultaten på dessa prov samt dina betyg från åk 9 ligger till grund för antagningen.
 
 [Läs mer i vår broschyr](/assets/BroschyrMaspets.2018-2019.pdf)
