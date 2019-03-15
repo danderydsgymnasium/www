@@ -9,7 +9,6 @@ High Five UF har bland annat ställt ut på Allt för hälsan mässan, gästat A
 Eleverna bakom High Five UF går ”entreprenörskap med UF” som individuellt val och undervisas av Pernilla Furugren. 
 
 <br>
-<br>
 
 <i>Vi är otroligt glada och tacksamma över att ha vunnit detta wildcard. Vi är riktigt taggade och vi kommer ge allt under SM. 
 Det är en ära att få representera Dagy och UFsthlm på SM.</i> 
