@@ -22,6 +22,8 @@ Det finns endast ett begränsat antal platser. Vidare krävs att du har betyg f�
 * Träningslära och näringslära
 * Idrottsskadebehandling
 
+<iframe src="https://open.spotify.com/embed/track/42W1kxDa2zdL4CwxI7Bbxb" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ## Varför ska du välja Danderyds gymnasium?
 
 * Padel på schemat tre gånger i veckan på förmiddagstid under hela gymnasiet.
