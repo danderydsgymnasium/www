@@ -22,7 +22,7 @@ Det finns endast ett begränsat antal platser. Vidare krävs att du har betyg f�
 * Träningslära och näringslära
 * Idrottsskadebehandling
 
-<iframe src="https://open.spotify.com/embed/track/42W1kxDa2zdL4CwxI7Bbxb" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/109436922&color=%235190de&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ## Varför ska du välja Danderyds gymnasium?
 
