@@ -3,6 +3,7 @@ title: Gåspennan
 image: /assets/forfattare.png
 layout: post
 ---
+
 <b>NY ÅRLIG NOVELL-SKRIVARTÄVLING PÅ DAGY</b>
 
 Danderyds gymnasium har genom lärarna i Svenska, Carina Lundkvist och Thomas Lindell, skapat en ny novellskrivartävling ”GåsPennan”, 
