@@ -8,7 +8,7 @@ programs_order: 3
 menu_order: 0
 ---
 
-[Prova på Padel gratis den 15:e April!](/assets/Padellager.pdf)
+Vill du prova på Padel gratis den 15:e April? [Klicka här!](/assets/Padellager.pdf)
 
 Från och med läsår 19/20 erbjuder Danderyds gymnasium Nationell idrottsutbildning Padel som riktar sig till dig som vill satsa på en framtid inom Padel.
 Undervisningen ger dig möjlighet att utveckla dina förmågor inom Padel samtidigt som du läser ett högskoleförberedande program.
