@@ -8,4 +8,4 @@ Musik-, bild- och teaterelever i N16e och S16e har gjort succé med fullsatta f�
 en legendarisk plats för all sorts kreativitet i New York 1962-1984.
 Musik av Velvet underground, Lou Read, Pink Floyd och Isabelle Olsson (elev i S16e) spelades.
 
-{% include image-gallery.html folder="/assets/factory" %}
+{% include image-gallery.html folder="/uploads/album" %}
