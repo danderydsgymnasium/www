@@ -13,7 +13,7 @@ menu_order: 4
 
 Sportlov: vecka 9 (25 februari - 1 mars)
 
-Påsklov: vecka 16 (15 april - 18 april)
+Påsklov: vecka 16 (15 april - 22 april)
 
 Andra lovdagar: 
 1 maj
