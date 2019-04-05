@@ -1,5 +1,5 @@
 ---
-title: Bästa UFföretag i Danderyd
+title: Finalister i entreprenörskapstävling
 image: /assets/winwin.jpg
 layout: post
 ---
