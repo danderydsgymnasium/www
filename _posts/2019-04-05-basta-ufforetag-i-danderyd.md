@@ -9,7 +9,7 @@ Tävlingen består av två kategorier som är <i>Entreprenörspriset</i> och det
 Båda företagen från Dagy är representerade i Hållbarhetspriset vilket vi tycker är extra kul!<br>
 
 Fram till den 10:e april så kan alla gå in och rösta på det företag som ni tycker pitchar sitt företag på bästa sätt.
-Klicka här för att komma till sidan med alla bidrag och RÖSTA!<br>
+<a href="https://www.foretagarna.se/nyheter/stockholms-lan/2019/april/rosta-fram-arets-basta-uf-foretag-i-danderyd/">Klicka här för att komma till sidan med alla bidrag och RÖSTA!</a><br>
 
 Här kan du se Dagys två bidrag:<br>
 Smart 3D printing UF<br>
