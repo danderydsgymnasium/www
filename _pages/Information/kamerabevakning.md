@@ -9,7 +9,7 @@ menu_order: 11
 ## Danderyds kommun kamerabevakar Danderyds gymnasium
 
 Ansvariga kontaktpersoner:<br>
--Viktoria Wallin, rektor Danderyds gymnasium
+-Viktoria Wallin, rektor Danderyds gymnasium<br>
 -Johan Nordenmark, Säkerhetschef Danderyds kommun
 <br>
 
