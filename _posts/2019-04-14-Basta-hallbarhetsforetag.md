@@ -1,5 +1,5 @@
 ---
-title: Bästa Hållbarhetsföretag
+title: Bästa hållbarhetsföretag
 image: /assets/hallbart.png
 layout: post
 ---
