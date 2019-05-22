@@ -20,7 +20,7 @@ Väl förbered för de utmaningar som där ges. Vi har ett nära samarbete med b
 		<div>TF Rektor NA-TE och spetsutbildningen i matematik</div>
 
 		<a class="profile__link" href="mailto:stig.liljestrom@danderyd.se">
-			stig.liljestrom.bjaras@danderyd.se
+			stig.liljestrom@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:08-56891374">
 			0856891374
