@@ -11,6 +11,7 @@ layout: post
 <li>Musik Måndag 18e Tisdag 19e mars tid meddelas i kallelsen till provet.</li>
 </ul>
 ## Antagningsprover OMVAL 2019
+<br>
 Välkomna till omval för estetfördjupningarna, följande datum och tider är det som gäller:
 <ul>
   <li>4/6 kl. 15.00 Bild Robert Lindström möter upp i expeditionen</li>
