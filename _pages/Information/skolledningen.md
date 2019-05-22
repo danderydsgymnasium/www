@@ -56,16 +56,16 @@ menu_order: 1
 <br>
 
 <div class="profile">
-	<img class="profile__image" src="/assets/anette-bjaras.png" alt="Anette Bjärås">
+	<img class="profile__image" src="/assets/stig.png" alt="Anette Bjärås">
 	<div class="profile__info">
-		<div class="profile__title">Anette Bjärås</div>
-		<div>Rektor NA-TE och spetsutbildningen i matematik</div>
+		<div class="profile__title">Stig Liljeström</div>
+		<div>TF Rektor NA-TE och spetsutbildningen i matematik</div>
 
-		<a class="profile__link" href="mailto:anette.bjaras@danderyd.se">
-			anette.bjaras@danderyd.se
+		<a class="profile__link" href="mailto:stig.liljestrom@danderyd.se">
+			stig.liljestrom.bjaras@danderyd.se
 		</a>
-		<a class="profile__link" href="tel:073-7481877">
-			0737481877
+		<a class="profile__link" href="tel:08-56891374">
+			0856891374
 		</a>
 	</div>
 </div>
