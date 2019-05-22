@@ -10,7 +10,16 @@ layout: post
 <li>Bild måndag 14e mars kl 14</li>
 <li>Musik Måndag 18e Tisdag 19e mars tid meddelas i kallelsen till provet.</li>
 </ul>
-
+## Antagningsprover OMVAL 2019
+Välkomna till omval för estetfördjupningarna, följande datum och tider är det som gäller:
+<ul>
+  <li>4/6 kl. 15.00 Bild Robert Lindström möter upp i expeditionen</li>
+  <li>27/5 kl. 14.00 Musik</li>
+  <li>27/5 kl. 14.00 Teater</li>
+</ul>
+<br>
+[Klicka här](/assets/omval19.pdf) för att läsa om antagningsprovet för Teater
+<br>
 ## Bild och Formgivning
 
 Du kommer till Danderyds gymnasium i mars och gör två uppgifter under några timmar. Då får du också prata med bildansvarig. Datum för provet skickas ut med brev till alla som söker inriktningen. Ditt arbete utgör underlag för bedömning av din förutsättning att utvecklas på bild och form inriktningen. Bilduppgifterna ges en provpoäng, som tillsammans med betyget från åk 9 utgör underlag för antagning.
