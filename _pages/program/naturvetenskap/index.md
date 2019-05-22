@@ -12,16 +12,15 @@ Vi erbjuder två inriktningar inom det naturvetenskapliga programmet; Naturveten
 och arbetsplatser. Vi deltar också i den forskarskola som anordnas av Stockholms Universitet. Du kommer att få arbeta med till exempel laborationer, fältarbete och undersökande arbetsmetoder. Varje år deltar många av våra elever i internationella olympiader inom matematik, kemi, biologi, fysik och programmering.
 
 <div class="profile">
-	<img class="profile__image" src="/assets/anette-bjaras.png" alt="Anette Bjärås">
+	<img class="profile__image" src="/assets/stig.png" alt="Stig Liljeström">
 	<div class="profile__info">
-		<div class="profile__title">Anette Bjärås</div>
-		<div>Programrektor</div>
+		<div class="profile__title">Stig Liljeström</div>
+		<div>TF Rektor NA-TE och spetsutbildningen i matematik</div>
 
-		<a class="profile__link" href="mailto:anette.bjaras@danderyd.se">
-			anette.bjaras@danderyd.se
+		<a class="profile__link" href="mailto:stig.liljestrom@danderyd.se">
+			stig.liljestrom.bjaras@danderyd.se
 		</a>
-			<a class="profile__link" href="tel:08-568 91 000">
-				08-568 91 000
-			</a>
+		<a class="profile__link" href="tel:08-56891374">
+			0856891374
+		</a>
 	</div>
-</div>
