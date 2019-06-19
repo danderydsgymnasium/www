@@ -29,12 +29,16 @@ Vidare erhöll Johan Sundström Curstedt (N18a) Mikael Passares stipendium för 
 <br>
 <img src="/assets/bild2.png" alt="bild2" width="374" height="281" align="left">
 <br>
+
 Från vänster: Jonathan Lööv, Fredrik Ekholm, Ivar Källström (Vinnare av Pythagoras Enigma 2019)
 <br>
+
 <img src="/assets/bild3.png" alt="bild3" width="374" height="281" align="left">
 <br>
+
 Från vänster: Carl Westerlund, Fredrik Ekholm (Representerar Sverige i IOI 2019) 
 <br>
+
 <img src="/assets/bild4.png" alt="bild4" width="374" height="281" align="left">
 <br>
 Från vänster: Leopold Hermansson, Axel Nilsson, Fredrik Ekholm (Vinnare av Säkerhets-SM 2019)
