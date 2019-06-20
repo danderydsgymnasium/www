@@ -35,4 +35,4 @@ Tävlingen fortsätter under nästa läsår så håll utkik efter information un
 </ul>
 <br>
 <br>
-[Klicka här för att läsa Annika Sigfridssons novell <i>Porslinsduvan</i>](/assets/2019 novellvinnare Annika Sigfridson.pdf)
+[Klicka här för att läsa Annika Sigfridssons novell <i>Porslinsduvan</i>](/assets/porslins.pdf)
