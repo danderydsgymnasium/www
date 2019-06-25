@@ -20,7 +20,7 @@ public_transport: |
 footer_menu_title: Intranät
 footer_menu:
   - title: Portalen
-    url: https://portal.office.com
+    url: https://portal.danderyd.se
   - title: Schoolsoft
     url: https://sms.schoolsoft.se/danderyd
 
