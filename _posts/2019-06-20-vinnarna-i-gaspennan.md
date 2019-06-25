@@ -34,5 +34,4 @@ Tävlingen fortsätter under nästa läsår så håll utkik efter information un
 <li>Årets bubblare åk 1 Liam Walford T18b och Rebecca Schale T18a</li>
 </ul>
 <br>
-<br>
 [Klicka här för att läsa Annika Sigfridssons novell <i>Porslinsduvan</i>](/assets/porslins.pdf)
