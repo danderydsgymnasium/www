@@ -65,6 +65,6 @@ Andra lovdagar:
 <br>
 Kristi himmelsfärd: 21 - 22 maj
 <br>
-<b>Studenten:</b> Onsdagen 9 Juni 
+<b>Studenten:</b> Tisdag 9 Juni 
 <br>
 Terminens sista dag 12 Juni
