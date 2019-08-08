@@ -15,8 +15,6 @@ SA/NA -Musik, Bild, Teater [klicka här](/program/estet). Är du intresserad av
 NIU-fotboll [klicka här](/program/fotboll). Är du intresserad av
 Spetsutbildningen i Matematik [klicka här](/program/matematik-spets).
 
-Det är verkligen roligt att det även i år är ett stort intresse för Danderyds gymnasium (Dagy) och att vår reservlista är lång. Här hittar du [information](/assets/rutinreservantagning.pdf) om hur reservantagningen går till på Dagy.
-
 # Titta igenom vår katalog
 [Klicka här för att läsa vår katalog](/assets/dagykatalog.pdf)
 
