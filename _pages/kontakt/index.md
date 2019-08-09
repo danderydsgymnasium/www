@@ -90,7 +90,7 @@ cover: /assets/aerial_photo.png
 <div class="profile">
 	<div class="profile__info">
 		<div class="profile__title">Lovisa Jansson</div>
-		<div>Biträdande rektor EK</div>
+		<div>Biträdande rektor EK och NIU</div>
 		<a class="profile__link" href="tel:08-568 91 304">
 			08-568 91 304
 		</a>
