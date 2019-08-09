@@ -15,6 +15,8 @@ SA/NA -Musik, Bild, Teater [klicka här](/program/estet). Är du intresserad av
 NIU-fotboll [klicka här](/program/fotboll). Är du intresserad av
 Spetsutbildningen i Matematik [klicka här](/program/matematik-spets).
 
+Här finns [information](/assets/Reservantagning.pdf) om hur reservantagningen går till.
+
 # Titta igenom vår katalog
 [Klicka här för att läsa vår katalog](/assets/dagykatalog.pdf)
 
