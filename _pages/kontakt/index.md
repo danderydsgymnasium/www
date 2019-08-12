@@ -75,7 +75,7 @@ cover: /assets/aerial_photo.png
 <div class="profile">
 	<div class="profile__info">
 		<div class="profile__title">Erik Håkansson</div>
-		<div>Biträdande rektor SA</div>
+		<div>Biträdande rektor med ansvar för SA och ASD</div>
 		<a class="profile__link" href="tel:08-568 91 374">
 			08-568 91 374
 		</a>
@@ -90,7 +90,7 @@ cover: /assets/aerial_photo.png
 <div class="profile">
 	<div class="profile__info">
 		<div class="profile__title">Lovisa Jansson</div>
-		<div>Biträdande rektor EK och NIU</div>
+		<div>Biträdande rektor med ansvar för EK</div>
 		<a class="profile__link" href="tel:08-568 91 304">
 			08-568 91 304
 		</a>
@@ -105,7 +105,7 @@ cover: /assets/aerial_photo.png
 <div class="profile">
 	<div class="profile__info">
 		<div class="profile__title">Anna Sarri Krantz</div>
-		<div>Rektor NA TE</div>
+		<div>Rektor med ansvar för NA och TE</div>
 		<a class="profile__link" href="tel:08-568 91 368">
 			08-568 91 368
 		</a>
@@ -120,7 +120,7 @@ cover: /assets/aerial_photo.png
 <div class="profile">
 	<div class="profile__info">
 		<div class="profile__title">Maria Wersäll</div>
-		<div>Rektor Gymnasiesärskola och språkintroduktion</div>
+		<div>Rektor med ansvar för RL och SI</div>
 		<a class="profile__link" href="tel:08-568 91 305">
 			08-568 91 305
 		</a>
