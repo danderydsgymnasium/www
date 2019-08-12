@@ -5,16 +5,27 @@ menu_order: 1
 ---
 
 <div class="profile">
-	<img class="profile__image" src="/assets/wallin.png" alt="Viktoria Wallin">
 	<div class="profile__info">
-		<div class="profile__title">Viktoria Wallin</div>
-		<div>Rektor samordning, ASD, Gysär</div>
-
-		<a class="profile__link" href="mailto:viktoria.wallin@danderyd.se">
-			viktoria.wallin@danderyd.se
+		<div class="profile__title">Maria Wersäll</div>
+		<div>tf. Rektor med ansvar för RL och SI</div>
+		<a class="profile__link" href="tel:08-568 91 305">
+			08-568 91 305
 		</a>
-		<a class="profile__link" href="tel:073-807 03 05">
-			073-807 03 05
+		<a class="profile__link" href="mailto:maria.wersall@danderyd.se">
+			Maria.Wersall@danderyd.se
+		</a>
+	</div>
+
+
+<div class="profile">
+	<div class="profile__info">
+		<div class="profile__title">Erik Håkansson</div>
+		<div>Biträdande rektor med ansvar för SA och ASD</div>
+		<a class="profile__link" href="tel:08-568 91 374">
+			08-568 91 374
+		</a>
+		<a class="profile__link" href="mailto:erik.hakansson@danderyd.se">
+			Erik.Hakansson@danderyd.se
 		</a>
 	</div>
 </div>
@@ -22,16 +33,14 @@ menu_order: 1
 <br>
 
 <div class="profile">
-	<img class="profile__image" src="/assets/heinz.png" alt="Heinz Glöckler">
 	<div class="profile__info">
-		<div class="profile__title">Heinz Glöckler</div>
-		<div>TF Rektor EK-NIU</div>
-
-		<a class="profile__link" href="mailto:heinz.glockler@danderyd.se">
-			heinz.glockler@danderyd.se
+		<div class="profile__title">Lovisa Jansson</div>
+		<div>Biträdande rektor med ansvar för EK</div>
+		<a class="profile__link" href="tel:08-568 91 304">
+			08-568 91 304
 		</a>
-		<a class="profile__link" href="tel:073-748 11 86">
-			073-748 11 86
+		<a class="profile__link" href="mailto:lovisa.jansson@danderyd.se">
+			Lovisa.Jansson@danderyd.se
 		</a>
 	</div>
 </div>
@@ -39,33 +48,14 @@ menu_order: 1
 <br>
 
 <div class="profile">
-	<img class="profile__image" src="/assets/asa.png" alt="Åsa Hedman">
 	<div class="profile__info">
-		<div class="profile__title">Åsa Hedman</div>
-		<div>Rektor SA-ES-SI</div>
-
-		<a class="profile__link" href="mailto:Asa.hedman@danderyd.se">
-			Asa.hedman@danderyd.se
+		<div class="profile__title">Anna Sarri Krantz</div>
+		<div>Biträdande rektor med ansvar för NA och TE</div>
+		<a class="profile__link" href="tel:08-568 91 368">
+			08-568 91 368
 		</a>
-		<a class="profile__link" href="tel:073-748 19 22">
-			073-748 19 22
-		</a>
-	</div>
-</div>
-
-<br>
-
-<div class="profile">
-	<img class="profile__image" src="/assets/stig.png" alt="Anette Bjärås">
-	<div class="profile__info">
-		<div class="profile__title">Stig Liljeström</div>
-		<div>TF Rektor NA-TE och spetsutbildningen i matematik</div>
-
-		<a class="profile__link" href="mailto:stig.liljestrom@danderyd.se">
-			stig.liljestrom@danderyd.se
-		</a>
-		<a class="profile__link" href="tel:08-56891374">
-			0856891374
+		<a class="profile__link" href="mailto:anna.sarrikrantz@danderyd.se">
+			Anna.SarriKrantz@danderyd.se
 		</a>
 	</div>
 </div>
