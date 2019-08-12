@@ -16,6 +16,7 @@ menu_order: 1
 		</a>
 	</div>
 
+<br>
 
 <div class="profile">
 	<div class="profile__info">
