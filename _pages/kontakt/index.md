@@ -105,7 +105,7 @@ cover: /assets/aerial_photo.png
 <div class="profile">
 	<div class="profile__info">
 		<div class="profile__title">Anna Sarri Krantz</div>
-		<div>Rektor med ansvar för NA och TE</div>
+		<div>Biträdande rektor med ansvar för NA och TE</div>
 		<a class="profile__link" href="tel:08-568 91 368">
 			08-568 91 368
 		</a>
