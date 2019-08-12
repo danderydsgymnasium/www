@@ -11,13 +11,12 @@ Vi anpassar undervisningen efter den kunskapsnivå du har i de olika ämnena  oc
 
 <div class="profile">
 	<div class="profile__info">
-		<div class="profile__title">Pernilla Ivier</div>
-		<div></div>
-		<a class="profile__link" href="mailto:pernilla.ivier@danderyd.se">
-			pernilla.ivier@danderyd.se
+		<div class="profile__title">Maria Wersäll</div>
+		<div>tf. Rektor med ansvar för RL och SI</div>
+		<a class="profile__link" href="tel:08-568 91 305">
+			08-568 91 305
 		</a>
-		<a class="profile__link" href="tel:08-568 91 317">
-			08-568 91 317
+		<a class="profile__link" href="mailto:maria.wersall@danderyd.se">
+			Maria.Wersall@danderyd.se
 		</a>
 	</div>
-</div>
