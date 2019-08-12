@@ -66,8 +66,6 @@ cover: /assets/aerial_photo.png
 	</div>
 </div>
 
-<br>
-<br>
 
 # Skolledningen
 
