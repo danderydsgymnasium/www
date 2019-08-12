@@ -71,6 +71,18 @@ cover: /assets/aerial_photo.png
 
 # Skolledningen
 
+<div class="profile">
+	<div class="profile__info">
+		<div class="profile__title">Maria Wersäll</div>
+		<div>tf. Rektor med ansvar för RL och SI</div>
+		<a class="profile__link" href="tel:08-568 91 305">
+			08-568 91 305
+		</a>
+		<a class="profile__link" href="mailto:maria.wersall@danderyd.se">
+			Maria.Wersall@danderyd.se
+		</a>
+	</div>
+
 
 <div class="profile">
 	<div class="profile__info">
@@ -114,17 +126,3 @@ cover: /assets/aerial_photo.png
 		</a>
 	</div>
 </div>
-
-<br>
-
-<div class="profile">
-	<div class="profile__info">
-		<div class="profile__title">Maria Wersäll</div>
-		<div>Rektor med ansvar för RL och SI</div>
-		<a class="profile__link" href="tel:08-568 91 305">
-			08-568 91 305
-		</a>
-		<a class="profile__link" href="mailto:maria.wersall@danderyd.se">
-			Maria.Wersall@danderyd.se
-		</a>
-	</div>
