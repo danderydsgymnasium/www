@@ -32,12 +32,12 @@ Här kan du ladda ner exempel på antagningsprovet för att testa hur din proble
 [Antagningsprovet från 2015](/assets/masint151.docx)
 
 <div class="profile">
-	<img class="profile__image" src="/assets/SGW.png" alt="Susanne Gennow">
+	<img class="profile__image" src="/assets/bluedot.png" alt="bluedot">
 	<div class="profile__info">
-		<div class="profile__title">Susanne Gennow</div>
+		<div class="profile__title">Ulf Backlund</div>
 
-		<a class="profile__link" href="mailto:susanne.gennow@danderyd.se">
-			susanne.gennow@danderyd.se
+		<a class="profile__link" href="mailto:ulf.backlund@danderyd.se">
+			ulf.backlund@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:08-568 913 26">
 			08-568 913 26
