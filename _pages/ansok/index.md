@@ -11,7 +11,7 @@ gå in på  [http://www.gyantagningen.se/](http://www.gyantagningen.se).
 Där hittar du all information om hur du gör din ansökan till oss. Om du har
 några frågor om våra program eller om vår skola är du välkommen att kontakta
 oss. Har du frågor om antagningsprov till våra särskilda varianter,
-SA/NA -Musik, Bild, Teater [klicka här](/program/estet). Är du intresserad av
+SA-Musik, Bild, Teater [klicka här](/program/estet). Är du intresserad av
 NIU-fotboll [klicka här](/program/fotboll). Är du intresserad av
 Spetsutbildningen i Matematik [klicka här](/program/matematik-spets).
 
@@ -28,4 +28,4 @@ Går du på ett annat gymnasium men vill byta skola till oss?
 
 # Öppet hus 2019
 
-## 2019 - 4:e Februari 18:00-20:00
+## Datum för hösten 2019 och våren 2020 kommer inom kort
