@@ -14,15 +14,14 @@ För dig som vill utvecklas inom grafisk design eller programmering.  Du arbetar
 Väl förbered för de utmaningar som där ges. Vi har ett nära samarbete med branschen, våra 100% behöriga lärare har gedigna bakgrunder, bl.a som forskare, lektorer, utvecklare, ingenjörer och företagare. Några har t.ex. varit delaktiga i produktionen av Battlefield2, andra har forskat inom Surface Science i Japan, varit läromedelsförfattare, skrivit texter till Nationalencyklopedin och spel- och programutvecklare, startat berg och dalbanefysiken på Gröna Lund som sedermera blev en stor succé i Stockholmsområdet. Bredden hos våra lärare garanterar att utbildningen som här erbjuds både är relevant men också stimulerande.Vår ambition är att arbeta med den absolut senaste tekniken och de senaste mjukvarorna där vi jobbar mycket med VR och 3D-printing i våra fullt utrustade lokaler. Vi kan t.o.m. stoltsera med ett VR-labb! Här tar våra teknikelever fram virtuella applikationer, bygger framtidens designkoncept eller bara har kul mellan lektionerna.  Inom teknikprogrammet kan du välja mellan två olika inriktningar, design och produktutveckling eller informations - och medieteknik.
 
 <div class="profile">
-	<img class="profile__image" src="/assets/stig.png" alt="Stig Liljeström">
 	<div class="profile__info">
-		<div class="profile__title">Stig Liljeström</div>
-		<div>TF Rektor NA-TE och spetsutbildningen i matematik</div>
-
-		<a class="profile__link" href="mailto:stig.liljestrom@danderyd.se">
-			stig.liljestrom@danderyd.se
+		<div class="profile__title">Anna Sarri Krantz</div>
+		<div>Biträdande rektor med ansvar för NA och TE</div>
+		<a class="profile__link" href="tel:08-568 91 368">
+			08-568 91 368
 		</a>
-		<a class="profile__link" href="tel:08-56891374">
-			0856891374
+		<a class="profile__link" href="mailto:anna.sarrikrantz@danderyd.se">
+			Anna.SarriKrantz@danderyd.se
 		</a>
 	</div>
+</div>
