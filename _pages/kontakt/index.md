@@ -72,6 +72,7 @@ cover: /assets/aerial_photo.png
 # Skolledningen
 
 <div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="blue">
 	<div class="profile__info">
 		<div class="profile__title">Maria Wersäll</div>
 		<div>tf. Rektor med ansvar för RL och SI</div>
@@ -86,6 +87,7 @@ cover: /assets/aerial_photo.png
 <br>
 
 <div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="blue">
 	<div class="profile__info">
 		<div class="profile__title">Erik Håkansson</div>
 		<div>Biträdande rektor med ansvar för SA och ASD</div>
@@ -101,6 +103,7 @@ cover: /assets/aerial_photo.png
 <br>
 
 <div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="blue">
 	<div class="profile__info">
 		<div class="profile__title">Lovisa Jansson</div>
 		<div>Biträdande rektor med ansvar för EK</div>
@@ -116,6 +119,7 @@ cover: /assets/aerial_photo.png
 <br>
 
 <div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="blue">
 	<div class="profile__info">
 		<div class="profile__title">Anna Sarri Krantz</div>
 		<div>Biträdande rektor med ansvar för NA och TE</div>
