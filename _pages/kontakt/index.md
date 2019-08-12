@@ -83,6 +83,7 @@ cover: /assets/aerial_photo.png
 		</a>
 	</div>
 
+<br>
 
 <div class="profile">
 	<div class="profile__info">
