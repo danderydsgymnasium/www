@@ -13,16 +13,14 @@ På Ekonomiprogrammet studerar du svenska och internationella företags och orga
 På ekonomiprogrammet har vi under en lång tid haft ett starkt och aktivt programråd, bestående av elever som driver viktiga skolfrågor ur elevperspektiv. De gör också sitt bästa för att skapa trivsel och skapa sammanhållning mellan årskurserna.
 
 <div class="profile">
-	<img class="profile__image" src="/assets/heinz.png" alt="Heinz Glöckler">
 	<div class="profile__info">
-		<div class="profile__title">Heinz Glöckler</div>
-		<div>TF Rektor EK</div>
-
-		<a class="profile__link" href="mailto:heinz.glockler@danderyd.se">
-			heinz.glockler@danderyd.se
+		<div class="profile__title">Lovisa Jansson</div>
+		<div>Biträdande rektor med ansvar för EK</div>
+		<a class="profile__link" href="tel:08-568 91 304">
+			08-568 91 304
 		</a>
-		<a class="profile__link" href="tel:073-748 11 86">
-			073-748 11 86
+		<a class="profile__link" href="mailto:lovisa.jansson@danderyd.se">
+			Lovisa.Jansson@danderyd.se
 		</a>
 	</div>
 </div>
