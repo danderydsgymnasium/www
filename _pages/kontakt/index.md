@@ -86,6 +86,7 @@ cover: /assets/aerial_photo.png
 	</div>
 
 <br>
+<br>
 
 <div class="profile">
 	<img class="profile__image" src="/assets/bluedot.png" alt="blue">
@@ -105,6 +106,7 @@ cover: /assets/aerial_photo.png
 </div>
 
 <br>
+<br>
 
 <div class="profile">
 	<img class="profile__image" src="/assets/bluedot.png" alt="blue">
@@ -123,6 +125,7 @@ cover: /assets/aerial_photo.png
 	</div>
 </div>
 
+<br>
 <br>
 
 <div class="profile">
