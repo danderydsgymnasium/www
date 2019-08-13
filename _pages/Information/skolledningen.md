@@ -3,7 +3,9 @@ title: Skolledningen
 layout: banner
 menu_order: 1
 ---
-
+# Skolledningen
+<br>
+<br>
 <div class="profile">
 	<img class="profile__image" src="/assets/bluedot.png" alt="bluedot">
 	<div class="profile__info">
