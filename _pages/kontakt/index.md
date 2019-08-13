@@ -148,3 +148,23 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 </div>
+
+<br>
+
+<div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="bluedot">
+	<div class="profile__info">
+		<div class="profile__title">Agneta Löwenhielm</div>
+
+		<a class="profile__link" href="mailto:agneta.lowenhielm@danderyd.se">
+			agneta.lowenhielm@danderyd.se
+		</a>
+		<a class="profile__link" href="tel:08-568 91 329">
+			08-568 91 329
+		</a>
+
+		<div>
+			Skolintendent
+		</div>
+	</div>
+</div>
