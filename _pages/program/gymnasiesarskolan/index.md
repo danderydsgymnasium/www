@@ -24,15 +24,19 @@ delar av utbildningen på en eller flera arbetsplatser
 utanför skolan.
 
 <div class="profile">
-	<img class="profile__image" src="/assets/UBB1.png" alt="Ulla-Britt Blom">
+	<img class="profile__image" src="/assets/bluedot.png" alt="bluedot">
 	<div class="profile__info">
-		<div class="profile__title">Ulla-Britt Blom</div>
-
-		<a class="profile__link" href="mailto:ulla-britt.blom@danderyd.se">
-			ulla-britt.blom@danderyd.se
+		<div class="profile__title">Maria Wersäll</div>
+		<a class="profile__link" href="mailto:maria.wersall@danderyd.se">
+			maria.wersall@danderyd.se
 		</a>
-			<a class="profile__link" href="tel:08-568 913 60">
-				08-568 913 60
-			</a>
+		<a class="profile__link" href="tel:08-568 91 305">
+			08-568 91 305
+		</a>
+
+		<div>
+			tf. Rektor med ansvar för RL och SI
+		</div>
+
 	</div>
 </div>
