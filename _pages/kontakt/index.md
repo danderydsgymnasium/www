@@ -61,7 +61,7 @@ cover: /assets/aerial_photo.png
 		</a>
 
 		<div>
-			Samhällsvetenskapsprogrammet, ASD, Gymnasiesärskolan
+			Samhällsvetenskapsprogrammet, ASD, RL
 		</div>
 	</div>
 </div>
@@ -77,8 +77,8 @@ cover: /assets/aerial_photo.png
 		<a class="profile__link" href="mailto:maria.wersall@danderyd.se">
 			maria.wersall@danderyd.se
 		</a>
-		<a class="profile__link" href="tel:08-568 91 316">
-			08-568 91 316
+		<a class="profile__link" href="tel:08-568 91 305">
+			08-568 91 305
 		</a>
 
 		<div>
