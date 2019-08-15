@@ -11,9 +11,13 @@ Vid förhinder måste frånvaroanmälan göras till [Dagy.Expedition@danderyd.se
 Annars förlorar man sin plats och vi ringer till nästa person på reservlistan.
 
 <b>Här kan du ladda ner alla blanketter och dokument vi skickade ut till dig som ska börja åk 1:</b>
+<br>
 [Klicka här för att ladda ner Välkomstbrev](/assets/Brev till ÅK1 2019 (1).pdf)
+<br>
 [Klicka här för att ladda ner Hälsoinformation](/assets/HÄLSAinfo_ny_elev 2019.pdf)
+<br>
 [Klicka här för att ladda ner Journalrekvisition](/assets/Journalrekvisition Gymnasiet 2019.pdf)
+<br>
 [Klicka här för att ladda ner Preparandkurs i matematik](/assets/Preparand.pdf)
 
 <b>Upprop årskurs 2 och 3 - 21 Augusti -Se nedan för tid och plats:</b>
