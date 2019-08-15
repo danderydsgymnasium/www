@@ -10,6 +10,7 @@ Varmt välkommen till Danderyds gymnasium!
 Vid förhinder måste frånvaroanmälan göras till [Dagy.Expedition@danderyd.se](mailto:Dagy.Expedition@danderyd.se) 
 Annars förlorar man sin plats och vi ringer till nästa person på reservlistan.
 
+Vi vill att du som ska börja tar med dig alla blanketter (ifyllda), som vi skickat ut till dig under sommaren!
 <b>Här kan du ladda ner alla blanketter och dokument vi skickade ut till dig som ska börja åk 1:</b>
 <br>
 [Klicka här för att ladda ner Välkomstbrev](/assets/Brev till ÅK1 2019 (1).pdf)
