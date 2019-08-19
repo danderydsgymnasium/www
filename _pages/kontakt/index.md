@@ -71,7 +71,7 @@ cover: /assets/aerial_photo.png
 <br>
 <br>
 <div class="profile">
-	<img class="profile__image" src="/assets/bluedot.png" alt="bluedot">
+	<img class="profile__image" src="/assets/MariaW.png" alt="bluedot">
 	<div class="profile__info">
 		<div class="profile__title">Maria Wersäll</div>
 		<a class="profile__link" href="mailto:maria.wersall@danderyd.se">
@@ -91,7 +91,7 @@ cover: /assets/aerial_photo.png
 <br>
 
 <div class="profile">
-	<img class="profile__image" src="/assets/bluedot.png" alt="bluedot">
+	<img class="profile__image" src="/assets/ErikH.png" alt="bluedot">
 	<div class="profile__info">
 		<div class="profile__title">Erik Håkansson</div>
 
@@ -112,7 +112,7 @@ cover: /assets/aerial_photo.png
 <br>
 
 <div class="profile">
-	<img class="profile__image" src="/assets/bluedot.png" alt="bluedot">
+	<img class="profile__image" src="/assets/LovisaJ.png" alt="bluedot">
 	<div class="profile__info">
 		<div class="profile__title">Lovisa Jansson</div>
 
@@ -132,7 +132,7 @@ cover: /assets/aerial_photo.png
 <br>
 
 <div class="profile">
-	<img class="profile__image" src="/assets/bluedot.png" alt="bluedot">
+	<img class="profile__image" src="/assets/annaSK.png" alt="bluedot">
 	<div class="profile__info">
 		<div class="profile__title">Anna Sarri Krantz</div>
 
@@ -152,7 +152,7 @@ cover: /assets/aerial_photo.png
 <br>
 
 <div class="profile">
-	<img class="profile__image" src="/assets/bluedot.png" alt="bluedot">
+	<img class="profile__image" src="/assets/AgnetaL.png" alt="bluedot">
 	<div class="profile__info">
 		<div class="profile__title">Agneta Löwenhielm</div>
 
