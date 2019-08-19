@@ -1,6 +1,6 @@
 ---
 title: Nya ledningsgruppen
-image: /assets/503073SKOLLEDNING.png
+image: /assets/skolledny1.png
 layout: post
 ---
 
