@@ -66,6 +66,7 @@ menu_order: 2
 <br>
 
 <div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="Annika Sedenberg">
 	<div class="profile__info">
 		<div class="profile__title">Pernilla Ivier</div>
 
