@@ -72,8 +72,8 @@ menu_order: 2
 		<a class="profile__link" href="mailto:pernilla.ivier@danderyd.se">
 			pernilla.ivier@danderyd.se
 		</a>
-		<a class="profile__link" href="tel:08-568 913 17">
-			08-568 913 17
+		<a class="profile__link" href="tel:08-568 91 317">
+			08-568 91 317
 		</a>
 
 		<div>
