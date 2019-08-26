@@ -35,9 +35,15 @@ Tävlingen fortsätter under nästa läsår så håll utkik efter information un
 </ul>
 <br>
 [Klicka här för att läsa Annika Sigfridssons novell <i>Porslinsduvan</i>](/assets/porslins.pdf)
-[Klicka här för att läsa Caroline Olsmats novell](/assets/2019_novelltävling_andra placering,_Caroline_Olsmats.pdf)
-[Klicka här för att läsa Louise Löfstedts novell](/assets/Årets_novellvinnare_bibliotekets_pris,_Louise_Löfstedt.pdf)
-[Klicka här för att läsa Isabelle Lefflers novell](/assets/Novellbubblare_åk_2,_Isabelle_Leffler.pdf)
-[Klicka här för att läsa Shuangao Tangs novell](/assets/Novellbubblare_åk_2,_Shuangao_Tang.pdf)
-[Klicka här för att läsa Liam Walfords novell](/assets/Novellbubblare_åk_1_Liam_Walford.pdf)
-[Klicka här för att läsa Rebecca Schales novell](/assets/Novellbubblare_åk_1_Rebecca_Schale.pdf)
+<br>
+[Klicka här för att läsa Caroline Olsmats novell](/assets/CarolineOlsmats.pdf)
+<br>
+[Klicka här för att läsa Louise Löfstedts novell](/assets/LouiseLofstedt.pdf)
+<br>
+[Klicka här för att läsa Isabelle Lefflers novell](/assets/IsabelleLeffler.pdf)
+<br>
+[Klicka här för att läsa Shuangao Tangs novell](/assets/ShuangaoTang.pdf)
+<br>
+[Klicka här för att läsa Liam Walfords novell](/assets/LiamWalford.pdf)
+<br>
+[Klicka här för att läsa Rebecca Schales novell](/assets/RebeccaSchale.pdf)
