@@ -7,7 +7,7 @@ Den tolfte svenska deltävlingen i den internationella språktävlingen <i>Chine
 Chinese Bridge är en officiell och välkänd tävling i kinesiska som hålls varje år i hela världen för alla elever från grundskolan till universitet som läser kinesiska som ett främmande språk. 
 <br>
 Genom att hålla en presentation på kinesiska, svara på frågor om kinesisk grammatik samt utföra ett framträdande visade deltagarna sina språkfärdigheter och kunskaper i kinesisk kultur och traditioner.
-Gui Congyou, Kinas ambassadör i Sverige och Cao Diefeng, utbildningsråd vid Kinas ambassad i Stockholm var närvarande vid tävlingen och delade ur priser till vinnarna. 
+Gui Congyou, Kinas ambassadör i Sverige och Cao Diefeng, utbildningsråd vid Kinas ambassad i Stockholm var närvarande vid tävlingen och delade ut priser till vinnarna. 
 Nathan Carlshamre från Danderyds gymnasium var en av dem som vann första priset i den svenska deltävlingen.
 De två förstapristagarna får representera Sverige i finalen i Kina.
 <br>
