@@ -1,6 +1,6 @@
 ---
 title: Projekt för att minska matsvinnet
-image: /assets/untitledshuanghao.png
+image: /assets/hao.png
 layout: post
 ---
 Vår elev Shuanghao Tang har under sommaren bedrivit ett projekt för att minska matsvinnet.
