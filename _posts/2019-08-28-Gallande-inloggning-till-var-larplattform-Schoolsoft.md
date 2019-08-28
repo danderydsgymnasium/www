@@ -9,5 +9,5 @@ Om det är något du undrar fram tills dess får du gärna mejla vår administra
 <br>
 <b>OBS!</b>
 <br>
-Om du tidigare haft en inloggning på SchoolSoft kan du redan finnas inne i systemet. 
+Om du tidigare haft en inloggning på SchoolSoft och bor i Danderyds kommun kan du redan finnas inne i systemet. 
 Mejla då Moa på adressen ovan så kan hon uppdatera ditt lösenord så du kommer in direkt.
