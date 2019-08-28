@@ -26,16 +26,16 @@ utanför skolan.
 <div class="profile">
 	<img class="profile__image" src="/assets/bluedot.png" alt="bluedot">
 	<div class="profile__info">
-		<div class="profile__title">Maria Wersäll</div>
-		<a class="profile__link" href="mailto:maria.wersall@danderyd.se">
-			maria.wersall@danderyd.se
+		<div class="profile__title">David Åkerlund</div>
+		<a class="profile__link" href="mailto:david.akerlund@danderyd.se">
+			david.akerlundl@danderyd.se
 		</a>
-		<a class="profile__link" href="tel:08-568 91 305">
-			08-568 91 305
+		<a class="profile__link" href="tel:08-568 91 360">
+			08-568 91 360
 		</a>
 
 		<div>
-			tf. Rektor med ansvar för RL och SI
+			Ansvarig för Gymnasiesärskolan
 		</div>
 
 	</div>
