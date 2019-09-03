@@ -6,9 +6,10 @@ layout: post
 
 Varmt välkommen till Danderyds gymnasium! 
 <br>
-Påminnelse till vårdnadshavare
 <br>
-Informationsmöte åk 1 – torsdagen den 5 september
+Påminnelse till vårdnadshavare - Informationsmöte åk 1 – torsdagen den 5 september
+<br>
+<br>
 Informationsmötet börjar med en gemensam del som hålls av skolledningen och sedan träffar vårdnadshavare ungdomarnas mentorer. 
 <br>
 •	Ekonomiprogrammet (aulan) kl. 17:30 <br>
