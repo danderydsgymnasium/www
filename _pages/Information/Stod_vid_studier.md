@@ -12,7 +12,7 @@ Lasse von Gegerfelt   F10
 <br>
 <a href="tel:08-568 913 61">08-568 913 61</a>
 
-Studiestöd; Asperger; ADHD
+Studiestöd; ASD, Asperger; ADHD
 
 ## E- och J-klasser
 Maria Teinert           F100
