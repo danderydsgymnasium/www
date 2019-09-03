@@ -48,7 +48,7 @@ Kuratorerna arbetar förebyggande med Kamratstödjare på skolan. Några gånger
 		Gymnasiesärskolan
 		Naturprogrammet
 		Samhällsprogrammet
-		ASD/Aspberger
+		ASD/Asperger
 
 		</div>
 	</div>
@@ -119,7 +119,7 @@ Vi nås lättast på mail eller Schoolsoft.
 		</a>
 		<div>
 			Gymnasiesärskolan
-			ASD/Aspberger
+			ASD/Asperger
 			Ekonomi
 			Samhälle
 			Teknik
