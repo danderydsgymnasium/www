@@ -8,7 +8,7 @@ cover: /assets/aerial_photo.png
 <br>
 <br>
 <div class="profile">
-	<img class="profile__image" src="/assets/orve.png" alt="Maj Orve">
+	<img class="profile__image" src="/assets/orve1.png" alt="Maj Orve">
 	<div class="profile__info">
 		<div class="profile__title">Maj Orve</div>
 		<a class="profile__link" href="mailto:maj.orve@danderyd.se">
@@ -28,7 +28,7 @@ cover: /assets/aerial_photo.png
 <br>
 
 <div class="profile">
-	<img class="profile__image" src="/assets/lindgren.png" alt="Anna Lindgren">
+	<img class="profile__image" src="/assets/lindgren1.png" alt="Anna Lindgren">
 	<div class="profile__info">
 		<div class="profile__title">Anna Lindgren</div>
 
@@ -49,7 +49,7 @@ cover: /assets/aerial_photo.png
 <br>
 
 <div class="profile">
-	<img class="profile__image" src="/assets/annika.png" alt="Annika Sedenberg">
+	<img class="profile__image" src="/assets/sedenberg1.png" alt="Annika Sedenberg">
 	<div class="profile__info">
 		<div class="profile__title">Annika Sedenberg</div>
 
