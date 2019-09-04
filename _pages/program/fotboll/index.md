@@ -3,7 +3,7 @@ title: Nationell idrottsutbildning fotboll
 subtitle: NIU
 collection: specializations
 layout: sub
-image: /assets/IMG_36367.jpg
+image: /assets/niu2019.png
 programs_order: 1
 ---
 
