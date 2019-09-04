@@ -56,7 +56,7 @@ kombinerbart med NIU.
 
 OBS! Sista ansökningsdatum är 1/12 2019.
 
-[Informationsfolder](/assets/BroschyrNIUfotboll2019-20.pdf)
+[Informationsfolder](/assets/BroschyrNIUfotboll2020-21.pdf)
 
 För att bli antagen krävs att du kommer in på något av Danderyds gymnasiums program. Du söker via webben som vanligt senast den 15 februari.
 
