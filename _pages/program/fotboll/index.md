@@ -40,7 +40,7 @@ kombinerbart med NIU.
 
 * Fotboll på schemat på förmiddagstid under hela gymnasiet.
 * Välutbildade instruktörer med såväl GIH-examen, egna erfarenheter av elitnivå samt kvalificerande utbildningar inom SvFF.
-* Stockholms bästa träningsförutsättningar med naturgräs under vår och höst samt uppvärmt konstgräs på Danderyd arena vintertid. RM-hallen finns också att tillgå om vädret inte tillåter utomhusträning. Samtliga planer ligger på skolans område. Vi har också ett välutrustat gym för fys- och rehabträning.
+* Stockholms bästa träningsförutsättningar med naturgräs under vår och höst samt konstgräs på Danderyd arena vintertid. RM-hallen finns också att tillgå om vädret inte tillåter utomhusträning. Samtliga planer ligger på skolans område. Vi har också ett välutrustat gym för fys- och rehabträning.
 
 ## Följande program och inriktningar kan du kombinera med fotbollsinriktningen
 
@@ -52,20 +52,20 @@ kombinerbart med NIU.
 
 # Ansökan NIU - Fotboll
 
-OBS! Sista ansökningsdatum är 1/12 2018.
-[<i>Klicka här</i>](http://fogis.se/fotboll-i-skolan/fotboll-i-gymnasieskolan/nationella-idrottsutbildningar-fotboll1/ ) för att göra din ansökan till NIU – fotboll inför läsåret 2019/2020. 
+[<i>Här gör du din ansökan för NIU-fotboll inför läsåret 2020/21</i>](http://fogis.se/fotboll-i-skolan/fotboll-i-gymnasieskolan/nationellaidrottsutbildningar-fotboll1/)<br>
 
+OBS! Sista ansökningsdatum är 1/12 2019.
 
-[Informationsfolder och ansökningsblankett](/assets/BroschyrNIUfotboll2019-20.pdf)
+[Informationsfolder](/assets/BroschyrNIUfotboll2019-20.pdf)
 
 För att bli antagen krävs att du kommer in på något av Danderyds gymnasiums program. Du söker via webben som vanligt senast den 15 februari.
 
 ## Dessutom erbjuder vi fyra provträningstillfällen
 
-* Torsdagen   8 november kl 14-15.30 på Danderyd Arena (killar)
-* Torsdagen 22 november kl 14-15.30 på Danderyd Arena (killar)
-* Torsdagen 29 november kl 14-15.30 på Danderyd Arena (tjejer)
-* Torsdagen   6 december kl 14-15.30 på Danderyd Arena (killar)
+* Torsdagen   14 november kl 14-15.30 på Danderyd Arena (killar)
+* Torsdagen 28 november kl 14-15.30 på Danderyd Arena (killar)
+* Torsdagen 5 december kl 14-15.30 på Danderyd Arena (tjejer)
+* Torsdagen   12 december kl 14-15.30 på Danderyd Arena (killar)
 
 Anmäl ditt deltagande i förväg med namn, klubblag samt position till Daniel Kalles-Pettersson via mail:
 [daniel.kalles-pettersson@danderyd.se](mailto:daniel.kalles-pettersson@danderyd.se)
