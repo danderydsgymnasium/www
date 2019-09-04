@@ -83,7 +83,7 @@ Vi har öppen mottagning Måndag till fredag kl 10-12 och 13-14 förutom Tisdag 
 Vi nås lättast på mail eller Schoolsoft.
 
 <div class="profile">
-	<img class="profile__image" src="/assets/bluedot.png" alt="carlander">
+	<img class="profile__image" src="/assets/klint2.png" alt="carlander">
 	<div class="profile__info">
 		<div class="profile__title">Anna-Karin Klint Carlander
 			</div>
