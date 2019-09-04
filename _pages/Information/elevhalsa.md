@@ -11,6 +11,7 @@ Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som e
 Kuratorerna arbetar förebyggande med Kamratstödjare på skolan. Några gånger per termin har de Kamratstödjarmöten där de resonerar kring hur det fungerar i klasserna, till exempel stämning, utanförskap med mera. Syftet är att få en bild ur elevperspektiv hur det fungerar och diskutera vad man eventuellt behöver göra för att förbättra klassituationen.
 <br>
 <div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="Maj Orve">
 	<div class="profile__info">
 		<div class="profile__title">Synnöve Roness</div>
 		<a class="profile__link" href="mailto:synnove.roness@danderyd.se">
@@ -33,6 +34,7 @@ Kuratorerna arbetar förebyggande med Kamratstödjare på skolan. Några gånger
 <br>
 
 <div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="Maj Orve">
 	<div class="profile__info">
 		<div class="profile__title">Linus Hultstrand</div>
 
@@ -57,6 +59,7 @@ Kuratorerna arbetar förebyggande med Kamratstödjare på skolan. Några gånger
 <br>
 
 <div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="Maj Orve">
 	<div class="profile__info">
 		<div class="profile__title">Christine Arlehov</div>
 
@@ -80,6 +83,7 @@ Vi har öppen mottagning Måndag till fredag kl 10-12 och 13-14 förutom Tisdag 
 Vi nås lättast på mail eller Schoolsoft.
 
 <div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="Maj Orve">
 	<div class="profile__info">
 		<div class="profile__title">Anna-Karin Klint Carlander
 			</div>
@@ -104,6 +108,7 @@ Vi nås lättast på mail eller Schoolsoft.
 <br>
 
 <div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="Maj Orve">
 	<div class="profile__info">
 		<div class="profile__title">Cecilia Nilsonne 
 			</div>
