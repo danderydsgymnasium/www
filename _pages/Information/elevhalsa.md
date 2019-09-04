@@ -75,6 +75,7 @@ Kuratorerna arbetar förebyggande med Kamratstödjare på skolan. Några gånger
 	</div>
 </div>
 
+<br>
 <h1>Skolsköterskor</h1>
 
 På Danderyds gymnasium består elevhälsan av två kuratorer och två skolsköterskor. Det är viktigt att alla elever mår bra och känner sig trygga under sin skoltid, vilket även främjar studiemotivationen. Elevhälsan verkar för att eleverna under din gymnasietid ska må bra, både psykosocialt och fysiskt. 
