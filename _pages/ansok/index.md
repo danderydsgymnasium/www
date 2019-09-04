@@ -28,4 +28,5 @@ Går du på ett annat gymnasium men vill byta skola till oss?
 
 # Öppet hus 2019
 
-## Datum för hösten 2019 och våren 2020 kommer inom kort
+## 26 november kl. 18 - 20
+## 3 februari kl. 18 -20
