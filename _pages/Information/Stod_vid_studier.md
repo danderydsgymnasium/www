@@ -9,11 +9,11 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 ## S-klasser
 <br>
 <div class="profile">
-	<img class="profile__image" src="/assets/bluedot.png" alt="Maj Orve">
+	<img class="profile__image" src="/assets/bluedot.png" alt="geggan">
 	<div class="profile__info">
 		<div class="profile__title">Lasse von Gegerfelt F10</div>
 		<a class="profile__link" href="mailto:Lars.von-gegerfelt@danderyd.se">
-			maj.orve@danderyd.se
+			lars.von-gegerfelt@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:08-568 91 361">
 			08-568 91 361
@@ -31,7 +31,7 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 ## E- och J-klasser
 <br>
 <div class="profile">
-	<img class="profile__image" src="/assets/bluedot.png" alt="teinert">
+	<img class="profile__image" src="/assets/teinert2.png" alt="teinert">
 	<div class="profile__info">
 		<div class="profile__title">Maria Teinert F100</div>
 		<a class="profile__link" href="mailto:maria.teinert@danderyd.se">
@@ -54,7 +54,7 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 <br>
 <br>
 <div class="profile">
-	<img class="profile__image" src="/assets/bluedot.png" alt="teinert">
+	<img class="profile__image" src="/assets/willart2.png" alt="willart">
 	<div class="profile__info">
 		<div class="profile__title">Anders Willart F100</div>
 		<a class="profile__link" href="mailto:anders.willart@danderyd.se">
@@ -76,7 +76,7 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 ## Matematik
 <br>
 <div class="profile">
-	<img class="profile__image" src="/assets/bluedot.png" alt="teinert">
+	<img class="profile__image" src="/assets/goras2.png" alt="goras">
 	<div class="profile__info">
 		<div class="profile__title">Birgittta Göras F101</div>
 		<a class="profile__link" href="mailto:birgitta.goras@danderyd.se">
