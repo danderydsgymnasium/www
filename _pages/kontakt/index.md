@@ -65,6 +65,26 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 </div>
+
+<br>
+
+<div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="sarah sundbom">
+	<div class="profile__info">
+		<div class="profile__title">Sarah Sundbom</div>
+
+		<a class="profile__link" href="mailto:sarah.sundbom@danderyd.se">
+			sarah.sundbom@danderyd.se
+		</a>
+		<a class="profile__link" href="tel:08-568 91 317">
+			08-568 91 317
+		</a>
+
+		<div>
+			Språkintroduktion
+		</div>
+	</div>
+</div>
 <br>
 <br>
 # Skolledningen
