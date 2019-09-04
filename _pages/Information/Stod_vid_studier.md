@@ -6,31 +6,82 @@ menu_order: 6
 # Särskilt stöd
 Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och strukturera studierna, så kan du kontakta din mentor eller själv boka tid hos någon av specialpedagogerna:
 
-## S-klasser 
-Lasse von Gegerfelt   F10
-[Lars.von-gegerfelt@danderyd.se](mailto:Lars.von-gegerfelt@danderyd.se)
+## S-klasser
 <br>
-<a href="tel:08-568 913 61">08-568 913 61</a>
+<div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="Maj Orve">
+	<div class="profile__info">
+		<div class="profile__title">Lasse von Gegerfelt F10</div>
+		<a class="profile__link" href="mailto:Lars.von-gegerfelt@danderyd.se">
+			maj.orve@danderyd.se
+		</a>
+		<a class="profile__link" href="tel:08-568 91 361">
+			08-568 91 361
+		</a>
 
-Studiestöd; ASD, Asperger; ADHD
+		<div>
+			Studiestöd; ASD, Asperger; ADHD
+		</div>
+
+	</div>
+</div>
+
+<br>
 
 ## E- och J-klasser
-Maria Teinert           F100
-[maria.teinert@danderyd.se](mailto:maria.teinert@danderyd.se)
 <br>
-<a href="tel:08-568 913 51">08-568 913 51</a>
+<div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="teinert">
+	<div class="profile__info">
+		<div class="profile__title">Maria Teinert F100</div>
+		<a class="profile__link" href="mailto:maria.teinert@danderyd.se">
+			maria.teinert@danderyd.se
+		</a>
+		<a class="profile__link" href="tel:08-568 91 351">
+			08-568 91 351
+		</a>
 
-Studiestöd; Dyslexi 
+		<div>
+			Studiestöd; Dyslexi
+		</div>
+
+	</div>
+</div>
+
+<br>
 
 ## T- och N-klasser
-Anders Willart        F100
-[Anders.willart@danderyd.se](mailto:Anders.willart@danderyd.se)
 <br>
-<a href="tel:08-568 913 58">08-568 913 58</a>
+<br>
+<div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="teinert">
+	<div class="profile__info">
+		<div class="profile__title">Anders Willart F100</div>
+		<a class="profile__link" href="mailto:anders.willart@danderyd.se">
+			anders.willart@danderyd.se
+		</a>
+		<a class="profile__link" href="tel:08-568 91 358">
+			08-568 91 358
+		</a>
 
-Studiestöd; Dyslexi
+		<div>
+			Studiestöd; Dyslexi
+		</div>
+
+	</div>
+</div>
+
+<br>
 
 ## Matematik
-Birgitta Göras        F101
-[Birgitta.goras@danderyd.se](mailto:Birgitta.goras@danderyd.se)
+<br>
+<div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="teinert">
+	<div class="profile__info">
+		<div class="profile__title">Birgittta Göras F101</div>
+		<a class="profile__link" href="mailto:birgitta.goras@danderyd.se">
+			birgitta.goras@danderyd.se
+		</a>
+</div>
 
+<br>
