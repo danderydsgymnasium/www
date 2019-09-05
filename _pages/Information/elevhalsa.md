@@ -8,7 +8,7 @@ menu_order: 3
 
 På Danderyds gymnasium arbetar två kuratorer. Till dem kan du vända dig för stödsamtal gällande alla möjliga områden; t.ex. mående, stress, kompis- och föräldrarelationer, skolsituation, utanförskap, kärlek med mera. Stora som små frågor – du är alltid välkommen!
 Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som elev berättar, så till vida att man inte kommer överens om något annat. Det finns undantag från tystnadsplikten, och det är ifall en elev berättar något som innebär en fara för elevens hälsa och mående.
-Kuratorerna arbetar förebyggande med Kamratstödjare på skolan. Några gånger per termin har de Kamratstödjarmöten där de resonerar kring hur det fungerar i klasserna, till exempel stämning, utanförskap med mera. Syftet är att få en bild ur elevperspektiv hur det fungerar och diskutera vad man eventuellt behöver göra för att förbättra klassituationen.
+
 <br>
 <div class="profile">
 	<img class="profile__image" src="/assets/ronnes2.png" alt="Roness">
