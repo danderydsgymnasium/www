@@ -28,7 +28,7 @@ utanför skolan.
 	<div class="profile__info">
 		<div class="profile__title">David Åkerlund</div>
 		<a class="profile__link" href="mailto:david.akerlund@danderyd.se">
-			david.akerlundl@danderyd.se
+			david.akerlund@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:08-568 91 360">
 			08-568 91 360
