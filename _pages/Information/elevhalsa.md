@@ -24,7 +24,7 @@ Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som e
 		<div>
 			Kurator för elever i alla årskurser på:
 			Språkintroduktion
-			Teknikprogrammet och EK - juridik
+			Teknikprogrammet och Juridik
 
 		</div>
 
