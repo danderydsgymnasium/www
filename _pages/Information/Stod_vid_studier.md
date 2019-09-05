@@ -9,7 +9,7 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 ## S-klasser
 <br>
 <div class="profile">
-	<img class="profile__image" src="/assets/bluedot.png" alt="geggan">
+	<img class="profile__image" src="/assets/lasse.png" alt="geggan">
 	<div class="profile__info">
 		<div class="profile__title">Lasse von Gegerfelt F10</div>
 		<a class="profile__link" href="mailto:Lars.von-gegerfelt@danderyd.se">
