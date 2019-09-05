@@ -11,7 +11,7 @@ Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som e
 Kuratorerna arbetar förebyggande med Kamratstödjare på skolan. Några gånger per termin har de Kamratstödjarmöten där de resonerar kring hur det fungerar i klasserna, till exempel stämning, utanförskap med mera. Syftet är att få en bild ur elevperspektiv hur det fungerar och diskutera vad man eventuellt behöver göra för att förbättra klassituationen.
 <br>
 <div class="profile">
-	<img class="profile__image" src="/assets/bluedot.png" alt="Roness">
+	<img class="profile__image" src="/assets/ronnes2.png" alt="Roness">
 	<div class="profile__info">
 		<div class="profile__title">Synnöve Roness</div>
 		<a class="profile__link" href="mailto:synnove.roness@danderyd.se">
@@ -24,7 +24,7 @@ Kuratorerna arbetar förebyggande med Kamratstödjare på skolan. Några gånger
 		<div>
 			Kurator för elever i alla årskurser på:
 			Språkintroduktion
-			Teknikprogrammet
+			Teknikprogrammet och EK - juridik
 
 		</div>
 
