@@ -19,7 +19,7 @@ studieplan för fotboll i gymnasieskolan.
 En förutsättning för att läsa NIU fotboll är att eleven
 anses vara kvalificerad att gå utbildningen då det finns ett
 begränsat antal platser. (Skicka in din ansökan så att den
-är hos Danderyds gymnasium senast 1/12 2018.) Vidare
+är hos Danderyds gymnasium senast 1/12 2019.) Vidare
 krävs att eleven har betyg för att komma in på ett program
 kombinerbart med NIU.
 
