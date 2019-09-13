@@ -15,7 +15,7 @@ Du kan också välja kurser inom det individuella valet i årskurs 2, 3 samt lä
 
 Varje klass har en mentor som följer dig under utbildningen och som hjälper dig att på olika sätt bli förberedd inför kommande studier och yrkesval. Alla lärare är behöriga och har stor erfarenhet av att arbeta med personer med ASD. Du kommer under dina år hos oss att utvecklas både socialt och kommunikativt och få med dig ökade insikter och ett stärkt självförtroende.
 
-Om du är intresserad av att söka hit så skall du först kontakta oss. Du får sedan komma hit och träffa oss och bekanta dig med skolan. Ansökan sker därefter på vanligt vis. För att boka in ett besök, v.g. kontakta Staffan Lenneby.
+Om du är intresserad av att söka hit så skall du först kontakta oss. Du får sedan komma hit och träffa oss och bekanta dig med skolan. Ansökan sker därefter på vanligt vis. För att boka in ett besök, v.g. kontakta Outi Joelsson.
 
 <div class="profile">
 	<div class="profile__info">
