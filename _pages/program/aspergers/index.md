@@ -21,8 +21,8 @@ Om du är intresserad av att söka hit så skall du först kontakta oss. Du får
 	<div class="profile__info">
 		<div class="profile__title">Outi Joelsson</div>
 
-		<a class="profile__link" href="mailto:Outi.joelsson@danderyd.se">
-			Outi.joelsson@danderyd.se
+		<a class="profile__link" href="mailto:outi.joelsson@danderyd.se">
+			outi.joelsson@danderyd.se
 		</a>
 			
 	</div>
