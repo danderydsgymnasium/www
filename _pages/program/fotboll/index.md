@@ -52,11 +52,11 @@ kombinerbart med NIU.
 
 # Ansökan NIU - Fotboll
 
-[<i>Här gör du din ansökan för NIU-fotboll inför läsåret 2020/21</i>](http://fogis.se/fotboll-i-skolan/fotboll-i-gymnasieskolan/nationellaidrottsutbildningar-fotboll1/)<br>
+[<i>Här gör du din ansökan för NIU-fotboll inför läsåret 2020/21</i>](https://fogis.se/fotboll-i-skolan/fotboll-i-gymnasieskolan/nationella-idrottsutbildningar-fotboll1/)<br>
 
 OBS! Sista ansökningsdatum är 1/12 2019.
 
-[Informationsfolder](/assets/BroschyrNIUfotboll2020-21.pdf)
+[Informationsfolder](/assets/niu1920.pdf)
 
 För att bli antagen krävs att du kommer in på något av Danderyds gymnasiums program. Du söker via webben som vanligt senast den 15 februari.
 
