@@ -8,8 +8,6 @@ programs_order: 3
 menu_order: 0
 ---
 
-Vill du prova på Padel gratis den 15:e April? [Klicka här!](/assets/Padellager.pdf)
-
 Från och med läsår 19/20 erbjuder Danderyds gymnasium Nationell idrottsutbildning Padel som riktar sig till dig som vill satsa på en framtid inom Padel.
 Undervisningen ger dig möjlighet att utveckla dina förmågor inom Padel samtidigt som du läser ett högskoleförberedande program.
 En förutsättning för att läsa Nationell idrottsutbildning Padel är att du anses vara idrottsmässigt kvalificerad att gå utbildningen.
@@ -43,7 +41,7 @@ Det finns endast ett begränsat antal platser. Vidare krävs att du har betyg f�
 Ansökan till Danderyds gymnasiums sker i två steg. Dels krävs att du bli antagen till något av de program vi erbjuder och du söker via webben som vanligt senast den 15 februari. 
  
 Den andra delen består av en ansökan, med information om ditt klubblag, tränare, meriter, samt ett personligt brev. Detta skickar du med post eller mail till ansvarig på Danderyds gymnasium för NIU-Padel. 
-För mer information är ni varmt välkomna på skolans öppet hus 29 november klockan 18-20
+För mer information är ni varmt välkomna på skolans öppet hus 26 november klockan 18-20
 Dessutom erbjuder vi provträningstillfällen, för mer info om dessa, kontakta verksamhetsansvarig för NIU-Padel
 
 # Programfördjupning
