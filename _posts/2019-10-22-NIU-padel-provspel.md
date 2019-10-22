@@ -14,5 +14,5 @@ Plats: Catellaarena<br>
 Tid provspel:17.00-18.00<br>
 Tid informationsmöte: 18.00-19.00<br>
 Anmälan görs till: Jonas Bergdahl Lindkvist<br>
-Anmälan via mail: [JBL@dagy.danderyd.se](JBL@dagy.danderyd.se)<br>
-Anmälan via telefon: [0735001075](0735001075)<br>
+Anmälan via mail: [JBL@dagy.danderyd.se](mailto:JBL@dagy.danderyd.se)<br>
+Anmälan via telefon: [0735001075](tel:0735001075)<br>
