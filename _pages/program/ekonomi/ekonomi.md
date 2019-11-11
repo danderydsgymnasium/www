@@ -10,13 +10,40 @@ Ekonomiprogrammet med inriktning mot ekonomi kommer att utveckla din kreativitet
 
 ## Internationell ekonomi
 
-I en globaliserad värld är kommunikation och kunskap om ekonomiska drivkrafter allt viktigare. I den här fördjupningen ingår kurserna Internationell ekonomi och Engelska 7, vilka ger dig en god förståelse för internationella ekonomiska samband och förbereder dig för vidare studier såväl i Sverige som utomlands. Den praktikperiod som våra elever de senaste åren genomfört i London, har gett dem arbetslivserfarenhet och nya värdefulla nätverk.
+Vill du vara förberedd inför att
+arbeta utanför Sverige efter
+studierna?
+I en globaliserad värld är
+kommunikation och kunskap
+om ekonomiska drivkrafter allt
+viktigare. I internationell ekonomi
+ingår kurserna Internationell
+ekonomi och Engelska 7, vilka
+ger dig en god förståelse för
+internationella ekonomiska
+samband och förbereder dig för
+vidare studier såväl i Sverige som
+utomlands. Den praktikperiod
+som våra elever de senaste åren
+genomfört i London, har gett dem
+arbetslivserfarenhet och nya
+värdefulla nätverk.
 
 {% include video.html src="/assets/Inte.ek.10.mp4" %}
 
 ## Kreativ marknadsföring
-
-Är du intresserad av marknadsföring och reklam? Då är fördjupningen i kreativ marknadföring rätt utbildning för dig.
-Vi varvar teoretiska kunskaper med kreativa lösningar kopplade till olika fall. I åk 2 får du bland annat ta fram förslag på hur olika företag skulle kunna marknadsföra sig. I årskurs 3 lägger vi mycket tid på UF, där du får driva ett eget företag ihop med andra i klassen. 
+Är du intresserad av
+marknadsföring och reklam?
+Då är ekonomi kreativ
+marknadföring rätt utbildning för
+dig.
+Vi varvar teoretiska kunskaper med
+kreativa lösningar kopplade till
+olika fall. I åk 2 får du bland annat
+ta fram förslag på hur olika företag
+skulle kunna marknadsföra sig. I
+årskurs 3 lägger vi mycket tid på
+UF, där du får driva ett eget företag
+ihop med andra i klassen. 
 
 {% include video.html src="/assets/kreativ08.mp4" %}
