@@ -34,7 +34,8 @@ Du kan också välja kurser inom
 det individuella valet i årskurs
 2, 3 samt läsa språkkurser i
 modernt språk redan från årskurs
-1. Vår undervisning sker i en lugn
+1. 
+Vår undervisning sker i en lugn
 arbetsmiljö och våra lärare tar stort
 ansvar för att göra undervisningen
 meningsfull, hanterbar och
