@@ -4,4 +4,9 @@ layout: sub
 image: /assets/Leksaksrymdraket.jpg
 menu_order: 1
 ---
-Om du vill jobba med industridesign, där du jobbar både digitalt med den senaste tekniken men även jobbar analogt. Tex så kan ett projekt vara att ta du tar fram en lermodell av en bil som du överför till digitalt format, bearbetar i 3D och presenterar i vår VR miljö 
+På inriktningen design och
+produktutveckling arbetar vi från
+enkla skisser till färdiga modeller
+och tar fram produkter som tar
+hänsyn till miljö, funktion, form och
+ekonomi. 
