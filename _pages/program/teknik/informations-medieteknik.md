@@ -5,8 +5,6 @@ image: /assets/StingrayVR.jpg
 menu_order: 2
 ---
 
-# Fördjupningar
-
 På inriktningen informations- och
 medieteknik fokuserar du på
 programmering, digital media,
