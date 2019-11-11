@@ -3,7 +3,7 @@ title: Samhällsvetenskaps&shy;programmet
 short_title: Samhällsvetenskap
 collection: programs
 layout: sub
-image: /assets/vq__yk6faoi-claire-anderson.png
+image: /assets/samprog.png
 programs_order: 2
 menu_order: 0
 ---
