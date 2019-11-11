@@ -1,9 +1,9 @@
 ---
-title: Teknik&shy;programmet
+title: Teknikprogrammet
 short_title: Teknik
 collection: programs
 layout: sub
-image: /assets/tek1.png
+image: /assets/teknikprog.png
 programs_order: 3
 menu_order: 0
 ---
