@@ -21,6 +21,8 @@ main_menu:
 program/naturvetenskap:
   - title: Matematik spetsutbildning
     url: /program/matematik-spets
+  - title: Musik, Bild och formgivning eller Teater
+    url: /program/estet
 
 program/ekonomi:
   - title: Londonpraktik 2016
