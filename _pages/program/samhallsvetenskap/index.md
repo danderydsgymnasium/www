@@ -8,8 +8,15 @@ programs_order: 2
 menu_order: 0
 ---
 
-Om du vill ha en bred bas inför kommande högskolestudier är samhällsvetenskapsprogrammet ett bra val. Programmet fokuserar på de faktorer som styr och bygger ett samhälle samt samspelet mellan de aktörer som ingår i ett samhällssystem.
-Vi tar upp frågor som rör demokrati, mänskliga rättigheter, kommunikation, etik, genus och miljö. Inom programmet väljer du den inriktning och den fördjupning som intresserar dig mest. Är det juridik, internationella relationer, ledarskap eller kanske något mer estetiskt ämne som du är mest nyfiken på?
+Om du vill ha en bred bas inför
+kommande högskolestudier är
+samhällsvetenskapsprogrammet
+ett bra val. Programmet
+fokuserar på de faktorer som styr
+och bygger ett samhälle samt
+samspelet mellan de aktörer som
+ingår i ett samhällssystem. Full
+merit är alltid möjlig med tillval. 
 
 <div class="profile">
 	<div class="profile__info">
