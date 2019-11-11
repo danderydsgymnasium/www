@@ -3,7 +3,7 @@ title: Naturvetenskapsprogrammet
 short_title: Naturvetenskap
 collection: programs
 layout: sub
-image: /assets/rtzw4f02zy8-nasa.png
+image: /assets/naturprog.png
 programs_order: 0
 menu_order: 0
 ---
