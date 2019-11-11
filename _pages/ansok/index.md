@@ -18,7 +18,7 @@ Spetsutbildningen i Matematik [klicka här](/program/matematik-spets).
 Här finns [information](/assets/Reservantagning19.pdf) om hur reservantagningen går till.
 
 # Titta igenom vår katalog
-[Klicka här för att läsa vår katalog](/assets/dagykatalog.pdf)
+[Klicka här för att läsa vår katalog](/assets/DG Utbud 2020_web.pdf)
 
 # Byt till Åk 2 eller 3
 
