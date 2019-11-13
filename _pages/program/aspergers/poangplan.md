@@ -7,4 +7,4 @@ menu_order: 1
 ### Klicka för att se poängplan för fördjupning
 
 
-[Samhällsvetenskapsprogrammet: Samhälle, för elever med ASD](/assets/SASAM19D1.pdf)
+[Samhällsvetenskapsprogrammet: Samhälle, för elever med ASD](/assets/SASAM20D.pdf)
