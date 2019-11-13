@@ -7,16 +7,22 @@ menu_order: 3
 ### Klicka på länkarna för att se poängplanerna för respektive fördjupning
 
 
-[Naturvetenskapsprogrammet: Natur Samhälle NIU](/assets/NASAM19NIU.pdf)
+[Naturvetenskapsprogrammet: Natur Samhälle NIU](/assets/NASAM20NIU.pdf)
 
-[Naturvetenskapsprogrammet: Natur NIU](/assets/NANAT19NIU.pdf)
+[Naturvetenskapsprogrammet: Natur NIU](/assets/NANAT20NIU.pdf)
 
-[Naturvetenskapsprogrammet: Samhälle](/assets/NASAM19.pdf)
+[Naturvetenskapsprogrammet: Samhälle](/assets/NASAM20.pdf)
 
-[Naturvetenskapsprogrammet: Natur](/assets/NANAT19.pdf)
+[Naturvetenskapsprogrammet: Natur](/assets/NANAT20.pdf)
 
-[Naturvetenskapsprogrammet: Spetsutbildning matematik](/assets/NAMAT19.pdf)
+[Naturvetenskapsprogrammet: Spetsutbildning matematik](/assets/NAMAT20.pdf)
 
-[Naturvetenskapsprogrammet: Internationell](/assets/NAINT19.pdf)
+[Naturvetenskapsprogrammet: Internationell](/assets/NAINT20.pdf)
 
-[Naturvetenskapsprogrammet: Entreprenörskap](/assets/NAENT19.pdf)
+[Naturvetenskapsprogrammet: Entreprenörskap](/assets/NAENT20.pdf)
+
+[Naturvetenskapsprogrammet: Natur Musik](/assets/NAMUS20.pdf)
+
+[Naturvetenskapsprogrammet: Natur Bild](/assets/NABIL20.pdf)
+
+[Naturvetenskapsprogrammet: Natur Teater](/assets/NATEA20.pdf)
