@@ -3,7 +3,7 @@ title: En skolledare berättar
 layout: sub
 menu_order: 3
 ---
-<img src="/assets/annaint.png" alt="annaint" width="200" height="300" align="left">
+<img src="/assets/annaint.png" alt="annaint" width="200" height="300">
 
 Välkommen till Danderyds gymnasiums hemsida!
 <br>
