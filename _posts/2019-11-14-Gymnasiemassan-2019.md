@@ -4,7 +4,7 @@ image: /assets/gymnasiebild2019.png
 layout: post
 ---
 
-På torsdag och i helgen (21:a till 23:e November) kan du träffa oss på Gymnasiemässan på Stockholmsmässan.
+På torsdag och i helgen (21:a till 23:e November) kan du träffa oss i monter C08:01 på Gymnasiemässan på Stockholmsmässan i Älvsjö.
 Vi ser så mycket fram emot att få träffa våra framtida elever och vårdnadshavare!
 <br>
 [Klicka här för att läsa mer om oss och gymnasiemässan](https://www.gymnasiemassan.nu/2019/digital-stands/danderyds-gymnasium?sc_lang=sv-se)
