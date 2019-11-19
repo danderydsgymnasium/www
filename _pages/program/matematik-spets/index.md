@@ -21,7 +21,7 @@ Du som söker denna utbildning kallas till en heldag för antagningsprov där vi
 
 # Antagningsprov
 
-Du kallas till antagningsprov 2019, antingen 18/3 eller 19/3. Provet består av två delar, basprovet som testar grundläggande baskunskaper och problemlösningsprov. Elever från hela landet är välkomna att söka denna utbildning, den är alltså riksrekryterande. Du som söker kommer att kallas till en heldag för antagningsprov där vi testar dina baskunskaper och din problemlösningsförmåga i matematik. Resultaten från dessa prov samt dina betyg från åk 9 ligger till grund för antagningen. 
+Du kallas till antagningsprov 2020, antingen 18/3 eller 19/3. Provet består av två delar, basprovet som testar grundläggande baskunskaper och problemlösningsprov. Elever från hela landet är välkomna att söka denna utbildning, den är alltså riksrekryterande. Du som söker kommer att kallas till en heldag för antagningsprov där vi testar dina baskunskaper och din problemlösningsförmåga i matematik. Resultaten från dessa prov samt dina betyg från åk 9 ligger till grund för antagningen. 
 
 Här kan du ladda ner exempel på antagningsprovet för att testa hur din problemlösningsförmåga ser ut.
 
