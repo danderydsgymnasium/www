@@ -5,7 +5,7 @@ menu_order: 4
 ---
 <img src="/assets/erikint.png" alt="erikint" width="200" height="300">
 
-Välkommen till Danderyds gymnasium!
+Välkommen till Danderyds gymnasiums hemsida!
 <br>
 Vi i ledningsgruppen på Danderyds gymnasium är fulla av energi och entusiasm inför vårt uppdrag: att leda och utveckla en stor kommunal gymnasieskola som har bredd, djup och spetskompetens både hos våra lärare och elever.
 <br>
