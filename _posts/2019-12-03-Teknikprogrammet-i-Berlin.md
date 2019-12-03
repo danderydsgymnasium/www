@@ -4,11 +4,9 @@ image: /assets/tekberlin.png
 layout: post
 ---
 <img src="/assets/ifat18.png" alt="ifat18" style="width:500px;height:333px;">
-<br>
-<br>
+
 Den 9:e till 11:e September åkte teknikklassen T18ab till Berlin för att besöka den stora teknikmässan IFA – Internationale Funkschtellung Berlin. Under besöket till mässan så fick eleverna olika uppgifter att arbeta med samtidigt som de upptäckte det otroligt stora utbudet av utställare. En av de uppgifterna var att söka efter utställare som hade ett hållbarhetsperspektiv i sin monter, men även att se på hela mässan ur detta perspektiv. Vad hade exempelvis Greta Thunberg den nu världskända klimataktivisten tyckt och tänkt om mässan? Hur hade mässan kunnat utvecklas? Vi valde att kalla uppgiften IFA 2.0.
 Efter inlämning gjorde vi medresande lärare, förstelärare och biträdande rektorer ett urval av elevernas olika texter med syfte att publicera en som vi tyckte ramade in hållbarhetsperspektivet och tanken om ett mer miljömedvetet IFA. Texten som valdes har författats av Robin Bäckström:
-<br>
 <br>
 <i>”Mässan handlade mycket om effektivitet och hållbarhet, jag tror Greta hade gillat vissa bitar av mässan. Mycket av mässan är väldigt inriktad mot hållbarhet som alla elsparkcyklar och disk- och tvätt maskiner som var effektiva på så sätt att dom använda mycket mindre vatten än dom vanliga. Men sedan fanns det många bitar av mässan som var mer inriktad på nya produkter och sådant som inte nödvändigtvis är skapta för att förbättra miljön eller vara hållbara, exempelvis alla enorma TV skärmar och projektorer som var mer ”lyx”.
 För att förbättra hållbarhets aspekten av hela mässan så hade jag nog velat sätta krav på produktionen av produkterna - inte så mycket plast och liknande och istället ersättas med aluminium eller liknande som kan återvinnas i högre grad. Sen så var montrarna på mässan var väldigt coola och påkostade men jag tror att man skulle kunna göra dom mer miljövänliga genom att se till att sänka användningen av el per monter. Vissa montrar hade sjukt mycket lampor och skärmar. Detta kanske är för mycket att begära då det är en teknik-mässa och självaste meningen är att visa upp ny och revolutionerade teknik.
