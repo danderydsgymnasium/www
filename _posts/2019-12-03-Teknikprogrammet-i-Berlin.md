@@ -3,7 +3,7 @@ title: Teknikprogrammet i Berlin
 image: /assets/tekberlin.png
 layout: post
 ---
-<img src="/assets/ifat18.png" alt="ifat18" style="width:500px;height:333px;">
+<img src="/assets/ifat18.png" alt="ifat18" style="width:300px;height:200px;">
 Den 9:e till 11:e September åkte teknikklassen T18ab till Berlin för att besöka den stora teknikmässan IFA – Internationale Funkschtellung Berlin. Under besöket till mässan så fick eleverna olika uppgifter att arbeta med samtidigt som de upptäckte det otroligt stora utbudet av utställare. En av de uppgifterna var att söka efter utställare som hade ett hållbarhetsperspektiv i sin monter, men även att se på hela mässan ur detta perspektiv. Vad hade exempelvis Greta Thunberg den nu världskända klimataktivisten tyckt och tänkt om mässan? Hur hade mässan kunnat utvecklas? Vi valde att kalla uppgiften IFA 2.0.
 Efter inlämning gjorde vi medresande lärare, förstelärare och biträdande rektorer ett urval av elevernas olika texter med syfte att publicera en som vi tyckte ramade in hållbarhetsperspektivet och tanken om ett mer miljömedvetet IFA. Texten som valdes har författats av Robin Bäckström:
 <br>
