@@ -7,18 +7,18 @@ menu_order: 1
 <br>
 <br>
 <div class="profile">
-	<img class="profile__image" src="/assets/MariaW.png" alt="bluedot">
+	<img class="profile__image" src="/assets/bluedot.png" alt="bluedot">
 	<div class="profile__info">
-		<div class="profile__title">Maria Wersäll</div>
-		<a class="profile__link" href="mailto:maria.wersall@danderyd.se">
-			maria.wersall@danderyd.se
+		<div class="profile__title">Fredrik Nordlander</div>
+		<a class="profile__link" href="mailto:fredrik.nordlander@danderyd.se">
+			fredrik.nordlander@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:08-568 91 305">
 			08-568 91 305
 		</a>
 
 		<div>
-			tf. Rektor med ansvar för RL och SI
+			Rektor
 		</div>
 
 	</div>
