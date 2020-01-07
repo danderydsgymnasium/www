@@ -91,7 +91,7 @@ cover: /assets/aerial_photo.png
 <br>
 <br>
 <div class="profile">
-	<img class="profile__image" src="/assets/bluedot.png" alt="bluedot">
+	<img class="profile__image" src="/assets/FredrikN.png" alt="FredrikN">
 	<div class="profile__info">
 		<div class="profile__title">Fredrik Nordlander</div>
 		<a class="profile__link" href="mailto:fredrik.nordlander@danderyd.se">
