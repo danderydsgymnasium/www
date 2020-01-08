@@ -1,6 +1,6 @@
 ---
 title: Ny termin ny rektor
-image: /assets/hejfredrik.png
+image: /assets/hejfredrik1.png
 layout: post
 ---
 
