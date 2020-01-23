@@ -6,9 +6,9 @@ layout: post
 
 ## Antagningsprover 2020
 <ul>
-<li>Teater måndag 23e mars kl 14-16</li>
-<li>Bild måndag 23e mars kl 14-16</li>
-<li>Musik Torsdag 19/3 08.30 - 11.30 med reservtid Fredag 20/3 09.45 - 14.00</li>
+<li>Teater - Måndag 23e mars kl 14-16</li>
+<li>Bild - Måndag 23e mars kl 14-16</li>
+<li>Musik - Torsdag 19/3 08.30 - 11.30 med reservtid Fredag 20/3 09.45 - 14.00</li>
 </ul>
 <br>
 
