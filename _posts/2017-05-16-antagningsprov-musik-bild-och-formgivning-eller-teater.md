@@ -4,22 +4,12 @@ image: /assets/smaller-2017-05-16T09-48-52.937Z.jpeg
 layout: post
 ---
 
-## Antagningsprover 2019
+## Antagningsprover 2020
 <ul>
-<li>Teater måndag 18e mars kl 14</li>
-<li>Bild måndag 14e mars kl 14</li>
-<li>Musik Måndag 18e Tisdag 19e mars tid meddelas i kallelsen till provet.</li>
+<li>Teater måndag 23e mars kl 14-16</li>
+<li>Bild måndag 23e mars kl 14-16</li>
+<li>Musik Torsdag 19/3 08.30 - 11.30 med reservtid Fredag 20/3 09.45 - 14.00</li>
 </ul>
-## Antagningsprover OMVAL 2019
-<br>
-Välkomna till omval för estetfördjupningarna, följande datum och tider är det som gäller:
-<ul>
-  <li>4/6 kl. 15.00 Bild Robert Lindström möter upp i expeditionen</li>
-  <li>27/5 kl. 14.00 Musik</li>
-  <li>27/5 kl. 14.00 Teater</li>
-</ul>
-<br>
-[Klicka här](/assets/omval19.pdf) för att läsa om antagningsprovet för Teater
 <br>
 ## Bild och Formgivning
 
