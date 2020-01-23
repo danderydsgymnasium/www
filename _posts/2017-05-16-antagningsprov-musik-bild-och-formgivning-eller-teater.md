@@ -11,6 +11,7 @@ layout: post
 <li>Musik Torsdag 19/3 08.30 - 11.30 med reservtid Fredag 20/3 09.45 - 14.00</li>
 </ul>
 <br>
+
 ## Bild och Formgivning
 
 Du kommer till Danderyds gymnasium i mars och gör två uppgifter under några timmar. Då får du också prata med bildansvarig. Datum för provet skickas ut med brev till alla som söker inriktningen. Ditt arbete utgör underlag för bedömning av din förutsättning att utvecklas på bild och form inriktningen. Bilduppgifterna ges en provpoäng, som tillsammans med betyget från åk 9 utgör underlag för antagning.
