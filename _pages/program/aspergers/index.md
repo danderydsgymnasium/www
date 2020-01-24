@@ -56,7 +56,7 @@ och kommunikativt och få med
 dig ökade insikter och ett stärkt
 självförtroende.
 
-Om du är intresserad av att söka hit så skall du först kontakta oss. Du får sedan komma hit och träffa oss och bekanta dig med skolan. Ansökan sker därefter på vanligt vis. För att boka in ett besök, v.g. kontakta Outi Joelsson.
+Om du är intresserad av att söka hit så skall du först kontakta oss. Du får sedan komma hit och träffa oss och bekanta dig med skolan. Ansökan sker därefter på vanligt vis. För att boka in ett besök, v.g. kontakta Outi Joelsson eller Erika Håkansson
 
 <div class="profile">
 	<div class="profile__info">
@@ -66,5 +66,24 @@ Om du är intresserad av att söka hit så skall du först kontakta oss. Du får
 			outi.joelsson@danderyd.se
 		</a>
 			
+	</div>
+</div>
+<br>
+<div class="profile">
+	<img class="profile__image" src="/assets/ErikH.png" alt="bluedot">
+	<div class="profile__info">
+		<div class="profile__title">Erik Håkansson</div>
+
+		<a class="profile__link" href="mailto:erik.hakansson@danderyd.se">
+			erik.hakansson@danderyd.se
+		</a>
+		<a class="profile__link" href="tel:08-568 91 374">
+			08-568 91 374
+		</a>
+
+		<div>
+			Biträdande rektor med ansvar för SA och ASD
+		</div>
+
 	</div>
 </div>
