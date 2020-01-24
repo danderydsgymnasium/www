@@ -68,7 +68,7 @@ Om du är intresserad av att söka hit så skall du först kontakta oss. Du får
 			
 	</div>
 </div>
-<br>
+
 <div class="profile">
 	<img class="profile__image" src="/assets/ErikH.png" alt="bluedot">
 	<div class="profile__info">
