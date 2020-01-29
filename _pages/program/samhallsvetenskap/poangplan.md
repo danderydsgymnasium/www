@@ -8,7 +8,7 @@ menu_order: 3
 
 [Samhällsvetenskapsprogrammet: För elever med ASD](/assets/SASAM20D.pdf)
 
-[Samhällsvetenskapsprogrammet: Samhällsvetenskap](/assets/SASAM20.pdf)
+[Samhällsvetenskapsprogrammet: Samhällsvetenskap](/assets/SASAMINT20.pdf)
 
 [Samhällsvetenskapsprogrammet: Estet musik](/assets/SAMUS20.pdf)
 
