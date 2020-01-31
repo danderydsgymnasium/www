@@ -17,7 +17,7 @@ Som en följd av den gedigna undervisningen ser vi att våra elever når ständi
 Vill du gå på en skola där du får gedigna matematikkunskaper, träffa andra elever du kan prata matematik med och få möjlighet att vidga dina begrepp är du varmt välkommen till oss.
 Du som söker denna utbildning kallas till en heldag för antagningsprov där vi testar dina baskunskaper och din problemlösningsförmåga i matematik. Resultaten på dessa prov samt dina betyg från åk 9 ligger till grund för antagningen.
 
-[Läs mer i vår broschyr](/assets/Spetsutbildning Matematik 2019-2020 Infoblad.pdf)
+[Läs mer i vår broschyr](/assets/spetsfolder2020.pdf)
 
 # Antagningsprov
 
