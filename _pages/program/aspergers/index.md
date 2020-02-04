@@ -56,7 +56,7 @@ och kommunikativt och få med
 dig ökade insikter och ett stärkt
 självförtroende.
 
-Om du är intresserad av att söka hit så skall du först kontakta oss. Du får sedan komma hit och träffa oss och bekanta dig med skolan. Ansökan sker därefter på vanligt vis. För att boka in ett besök, v.g. kontakta Outi Joelsson eller Erika Håkansson
+Om du är intresserad av att söka hit så skall du först kontakta oss. Du får sedan komma hit och träffa oss och bekanta dig med skolan. Ansökan sker därefter på vanligt vis. För att boka in ett besök, v.g. kontakta Outi Joelsson eller Erik Håkansson
 
 <div class="profile">
 	<div class="profile__info">
