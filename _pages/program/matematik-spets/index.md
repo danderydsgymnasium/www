@@ -25,14 +25,19 @@ Du kallas till antagningsprov 2020 den 9:e Mars. Provet består av två delar, b
 
 Här kan du ladda ner exempel på antagningsprovet för att testa hur din problemlösningsförmåga ser ut.
 
-[Antagningsprovet från 2017](/assets/masint171.docx)
+[Antagningsprovet från 2015](/assets/Antagningsprov 2015.pdf)
 <br>
-[Antagningsprovet från 2016](/assets/antagningsprov matematik spets2016161.docx)
+[Antagningsprovet från 2016](/assets/Antagningsprov 2016.pdf)
 <br>
-[Antagningsprovet från 2015](/assets/masint151.docx)
+[Antagningsprovet från 2017](/assets/Antagningsprov 2017.pdf)
+<br>
+[Antagningsprovet från 2018](/assets/Antagningsprov 2018.pdf)
+<br>
+[Antagningsprovet från 2019](/assets/Antagningsprov 2019.pdf)
+
 
 <div class="profile">
-	<img class="profile__image" src="/assets/UB.png" alt="bluedot">
+	<img class="profile__image" src="/assets/UB.png" alt="UB">
 	<div class="profile__info">
 		<div class="profile__title">Ulf Backlund</div>
 
