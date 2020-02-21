@@ -1,14 +1,15 @@
 ---
 title: Antagningsprov Estetfördjupning
-image: /assets/smaller-2017-05-16T09-48-52.937Z.jpeg
+image: /assets/stormen.png
 layout: post
 ---
 
 ## Antagningsprover 2019
 <ul>
-<li>Teater Måndag 18e mars kl 14</li>
-<li>Bild Torsdag 14e mars kl 14</li>
-<li>Musik Måndag 18e Tisdag 19e mars tid meddelas i kallelsen till provet.</li>
+<li>Teater Måndag 16e mars kl 14 Lärare möter er vid skolans entré</li>
+<li>Bild Måndag 16e mars kl 14 Lärare möter er vid skolans entré</li>
+<li>Musik Torsdag 19e 8:30 - 11:30 Skyltat med pilar från skolans entré</li>
+<li>Musik Fredag 20e 9:45 - 13:30 Skyltat med pilar från skolans entré</li>
 </ul>
 
 ## Bild och Formgivning
