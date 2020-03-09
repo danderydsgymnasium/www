@@ -6,8 +6,8 @@ layout: post
 
 ## Antagningsprover 2019
 <ul>
-<li>Teater Måndag 16e mars kl 14 Lärare möter er vid skolans entré</li>
-<li>Bild Måndag 16e mars kl 14 Lärare möter er vid skolans entré</li>
+<li>Teater Måndag 23e mars kl 14 Lärare möter er vid skolans entré</li>
+<li>Bild Måndag 23e mars kl 14 Lärare möter er vid skolans entré</li>
 <li>Musik Torsdag 19e 8:30 - 11:30 Skyltat med pilar från skolans entré</li>
 <li>Musik Fredag 20e 9:45 - 13:30 Skyltat med pilar från skolans entré</li>
 </ul>
