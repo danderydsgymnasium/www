@@ -25,14 +25,10 @@ program/naturvetenskap:
     url: /program/estet
 
 program/ekonomi:
-  - title: Londonpraktik 2016
-    url: /nyheter/londonpraktik-2016
   - title: Studieresa i Berlin
     url: /nyheter/eleverna-pa-ekonomiprogrammets-globala-profil-pa-studieresa-i-berlin
   - title: Till Strasbourg med juridikklasserna!
     url: /nyheter/till-strasbourg-med-juridikklasserna
-  - title: Londonpraktik 2015
-    url: /nyheter/tva-veckors-praktik-i-london
 
 program/samhallsvetenskap:
   - title: Musik, Bild och formgivning eller Teater
