@@ -23,11 +23,7 @@ ger dig en god förståelse för
 internationella ekonomiska
 samband och förbereder dig för
 vidare studier såväl i Sverige som
-utomlands. Den praktikperiod
-som våra elever de senaste åren
-genomfört i London, har gett dem
-arbetslivserfarenhet och nya
-värdefulla nätverk.
+utomlands.
 
 {% include video.html src="/assets/Inte.ek.10.mp4" %}
 
