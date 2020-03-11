@@ -1,6 +1,6 @@
 ---
 title: Case competition 2020
-image: /assets/DSCF6355[1].png
+image: /assets/casecase.png
 layout: post
 ---
 
