@@ -9,9 +9,6 @@ Regeringen har idag gått ut med en rekommendation till samtliga gymnasieskolor 
 Den 18 till 20 mars arbetar skolans personal med att förbereda fullskalig distansundervisning. Eleverna studerar dessa dagar hemifrån med arbetsuppgifter enligt information på Schoolsoft.
 <br>
 <br>
-Gymnasiesärskolan och ASD-verksamheten på Danderyds gymnasium håller öppet, förutom studiedagen den 18 mars.
-<br>
-<br>
 När det gäller prov och bedömningstillfällen kommer instruktioner i varje enskild kurs på SchoolSoft. Under den period som skolan är stängd kommer inga nationella prov att genomföras.
 <br>
 <br>
