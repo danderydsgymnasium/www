@@ -37,6 +37,8 @@ Staffan Isbäck<br>
 
 ## Teater
 
+[Klicka här för instruktioner till ansökan på distans](/assets/distansansökan.pdf)
+<br>
 Provet går till så här:
 
 Tillsammans med andra sökande deltar du först i några teater- och improvisationsövningar. Sedan förbereder vi tillsammans en kort scen som kan handla om människor i ett väntrum, i en park eller på en flygplats. Efteråt samtalar vi kort om varför du vill studera på teaterinriktningen. Inga förkunskaper eller förberedelse krävs, men fundera på hur teater kan stödja ditt lärande under gymnasietiden.
