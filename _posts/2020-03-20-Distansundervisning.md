@@ -10,3 +10,5 @@ Var god läs följande dokument innehållande riktlinjer för distansundervisnin
 Datum för publicerat dokument: 20/3 - 2020
 <br>
 Notera att dokumentet kommer uppdateras fortlöpande.
+<br>
+Telefonnummer till kommunens IT-support: <a href="tel:08-501 32 000">Call 08-501 32 000</a>
