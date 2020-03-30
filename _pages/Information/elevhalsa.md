@@ -78,7 +78,7 @@ Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som e
 <br>
 <h1>Skolsköterskor</h1>
 
-På Danderyds gymnasium består elevhälsan av 3 kuratorer och 1 skolsköterska. Det är viktigt att alla elever mår bra och känner sig trygga under sin skoltid, vilket även främjar studiemotivationen. Elevhälsan verkar för att eleverna under din gymnasietid ska må bra, både psykosocialt och fysiskt. 
+Utöver tre kuratorer i elevhälsan arbetar här också en skolsköterska. Det är viktigt att alla elever mår bra och känner sig trygga under sin skoltid, vilket även främjar studiemotivationen. Elevhälsan verkar för att eleverna under din gymnasietid ska må bra, både psykosocialt och fysiskt. 
 <br>
 Vi har öppen mottagning Måndag till fredag kl 10-12 och 13-14 förutom Tisdag då är det öppen mottagning endast 13-14. 
 Vi nås lättast på mail eller Schoolsoft.
