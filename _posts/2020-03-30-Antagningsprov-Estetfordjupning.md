@@ -5,12 +5,11 @@ layout: post
 ---
 
 ## Antagningsprover 2019
-<ul>
-<li>Teater Måndag 23e mars kl 14 Lärare möter er vid skolans entré</li>
-<li>Bild Måndag 23e mars kl 14 Lärare möter er vid skolans entré</li>
-<li>Musik Torsdag 19e 8:30 - 11:30 Skyltat med pilar från skolans entré</li>
-<li>Musik Fredag 20e 9:45 - 13:30 Skyltat med pilar från skolans entré</li>
-</ul>
+
+Till dig som söker estetinriktningar på DAGY.
+Pga risken för spridning av Corona-viruset har vi i år genomfört filmade och fotade ansökningsprov som mejlats till undervisande lärare.
+Om du har missat detta eller funderar på omval behöver du inte vara orolig. Du har möjlighet att göra detta igen i samband med omvalsproceduren i maj!<br>
+Håll dig uppdaterad via din SYV och vår hemsida. 
 
 ## Bild och Formgivning
 
