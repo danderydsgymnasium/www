@@ -4,7 +4,7 @@ image: /assets/stormen.png
 layout: post
 ---
 
-## Antagningsprover 2019
+## Antagningsprover 2020
 
 Till dig som söker estetinriktningar på DAGY.
 Pga risken för spridning av Corona-viruset har vi i år genomfört filmade och fotade ansökningsprov som mejlats till undervisande lärare.
