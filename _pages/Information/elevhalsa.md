@@ -78,35 +78,10 @@ Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som e
 <br>
 <h1>Skolsköterskor</h1>
 
-På Danderyds gymnasium består elevhälsan av två kuratorer och två skolsköterskor. Det är viktigt att alla elever mår bra och känner sig trygga under sin skoltid, vilket även främjar studiemotivationen. Elevhälsan verkar för att eleverna under din gymnasietid ska må bra, både psykosocialt och fysiskt. 
+På Danderyds gymnasium består elevhälsan av 3 kuratorer och 1 skolsköterska. Det är viktigt att alla elever mår bra och känner sig trygga under sin skoltid, vilket även främjar studiemotivationen. Elevhälsan verkar för att eleverna under din gymnasietid ska må bra, både psykosocialt och fysiskt. 
 <br>
 Vi har öppen mottagning Måndag till fredag kl 10-12 och 13-14 förutom Tisdag då är det öppen mottagning endast 13-14. 
 Vi nås lättast på mail eller Schoolsoft.
-
-<div class="profile">
-	<img class="profile__image" src="/assets/klint2.png" alt="carlander">
-	<div class="profile__info">
-		<div class="profile__title">Anna-Karin Klint Carlander
-			</div>
-
-		<a class="profile__link" href="mailto:anna-karin.klintcarlander@danderyd.se">
-			anna-karin.klintcarlander@danderyd.se
-		</a>
-		<a class="profile__link" href="tel:08-568 913 12">
-			08-568 913 12
-		</a>
-		<a class="profile__link" href="tel:0738-07 03 44">
-			0738-07 03 44
-		</a>
-		<div>
-			Språkintro
-			Natur
-		</div>
-
-	</div>
-</div>
-
-<br>
 
 <div class="profile">
 	<img class="profile__image" src="/assets/nilsonne2.png" alt="nilsonne">
@@ -123,13 +98,5 @@ Vi nås lättast på mail eller Schoolsoft.
 		<a class="profile__link" href="tel:0738-07 03 45">
 			0738-07 03 45
 		</a>
-		<div>
-			Gymnasiesärskolan
-			ASD/Asperger
-			Ekonomi
-			Samhälle
-			Teknik
-		</div>
-
 	</div>
 </div>
