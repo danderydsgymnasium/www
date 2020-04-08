@@ -66,6 +66,10 @@ Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som e
 		<a class="profile__link" href="mailto:christine.arlehov@danderyd.se">
 			christine.arlehov@danderyd.se
 		</a>
+		<a class="profile__link" href="tel:070-087 05 28">
+			070-087 05 28
+		</a>	
+		
 
 		<div>
 		Kurator för elever i alla årskurser på:
