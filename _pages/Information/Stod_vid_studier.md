@@ -9,7 +9,7 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 ## S-klasser
 <br>
 <div class="profile">
-	<img class="profile__image" src="/assets/lasse.png" alt="geggan">
+	<img class="profile__image" src="/assets/lasse.png" alt="LarsVGegerfelt">
 	<div class="profile__info">
 		<div class="profile__title">Lasse von Gegerfelt F10</div>
 		<a class="profile__link" href="mailto:Lars.von-gegerfelt@danderyd.se">
@@ -81,6 +81,9 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 		<div class="profile__title">Birgittta Göras F101</div>
 		<a class="profile__link" href="mailto:birgitta.goras@danderyd.se">
 			birgitta.goras@danderyd.se
+		</a>
+		<a class="profile__link" href="tel:08-568 91 339">
+			08-568 91 339
 		</a>
 </div>
 
