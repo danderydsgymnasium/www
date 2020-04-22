@@ -1,15 +1,16 @@
 ---
-title: Antagningsprov Estetfördjupning
+title: Omval Estetfördjupning
 image: /assets/stormen.png
 layout: post
 ---
 
-## Antagningsprover 2020
+## Omvalsprocess 2020
 
 Till dig som söker estetinriktningar på DAGY.
 Pga risken för spridning av Corona-viruset har vi i år genomfört filmade och fotade ansökningsprov som mejlats till undervisande lärare.
-Om du har missat detta eller funderar på omval behöver du inte vara orolig. Du har möjlighet att göra detta igen i samband med omvalsproceduren i maj!<br>
-Håll dig uppdaterad via din SYV och vår hemsida. 
+Kontakta ansvarig lärare för den fördjupning du vill söka in till.
+<br>
+
 
 ## Bild och Formgivning
 
@@ -36,12 +37,11 @@ Staffan Isbäck<br>
 
 ## Teater
 
-[Klicka här för instruktioner till ansökan på distans](/assets/distansansökan.pdf)
+[Klicka här för instruktioner till ansökan på distans](/assets/omvalteater2020.pdf)
 <br>
-Provet går till så här:
+<!Provet går till så här:
 
-Tillsammans med andra sökande deltar du först i några teater- och improvisationsövningar. Sedan förbereder vi tillsammans en kort scen som kan handla om människor i ett väntrum, i en park eller på en flygplats. Efteråt samtalar vi kort om varför du vill studera på teaterinriktningen. Inga förkunskaper eller förberedelse krävs, men fundera på hur teater kan stödja ditt lärande under gymnasietiden.
-
+Tillsammans med andra sökande deltar du först i några teater- och improvisationsövningar. Sedan förbereder vi tillsammans en kort scen som kan handla om människor i ett väntrum, i en park eller på en flygplats. Efteråt samtalar vi kort om varför du vill studera på teaterinriktningen. Inga förkunskaper eller förberedelse krävs, men fundera på hur teater kan stödja ditt lärande under gymnasietiden.-->
 Kontaktperson:<br>
 Martin Lange<br>
 [08-568 913 55](tel:08-568 913 55)<br>
