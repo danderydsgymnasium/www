@@ -3,7 +3,7 @@ layout: contact
 title: Kontakt
 cover: /assets/aerial_photo.png
 ---
-# Kuratorer
+# Kuratorer och skolsköterska
 <div class="profile">
 	<img class="profile__image" src="/assets/ronnes2.png" alt="Roness">
 	<div class="profile__info">
@@ -68,9 +68,6 @@ cover: /assets/aerial_photo.png
 	</div>
 </div>
 <br>
-
-# Skolsköterska
-<br>
 <div class="profile">
 	<img class="profile__image" src="/assets/nilsonne2.png" alt="nilsonne">
 	<div class="profile__info">
@@ -86,12 +83,12 @@ cover: /assets/aerial_photo.png
 		<a class="profile__link" href="tel:0738-07 03 45">
 			0738-07 03 45
 		</a>
+		<div>
+		Skolsköterska
+		</div>
 	</div>
 </div>
-<br>
-
 # Särskilt stöd
-<br>
 <div class="profile">
 	<img class="profile__image" src="/assets/lasse.png" alt="LarsVGegerfelt">
 	<div class="profile__info">
@@ -163,7 +160,6 @@ cover: /assets/aerial_photo.png
 		
 </div>
 <br>
-
 # Studie och yrkesvägledare
 <div class="profile">
 	<img class="profile__image" src="/assets/orve2.png" alt="Maj Orve">
@@ -245,7 +241,6 @@ cover: /assets/aerial_photo.png
 	</div>
 </div>
 <br>
-
 # Skolledningen
 <div class="profile">
 	<img class="profile__image" src="/assets/FredrikN.png" alt="FredrikN">
