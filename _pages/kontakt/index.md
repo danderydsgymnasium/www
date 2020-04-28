@@ -78,6 +78,7 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 </div>
+<br>
 # Skolledningen
 <br>
 <div class="profile">
@@ -170,6 +171,7 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 </div>
+<br>
 # Kuratorer och skolsköterska
 <br>
 <div class="profile">
@@ -256,6 +258,7 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 </div>
+<br>
 # Särskilt stöd
 <br>
 <div class="profile">
