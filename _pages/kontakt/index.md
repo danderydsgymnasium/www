@@ -110,7 +110,6 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 <br>
 ## S-klasser
 <br>
-<br>
 <div class="profile">
 	<img class="profile__image" src="/assets/lasse.png" alt="LarsVGegerfelt">
 	<div class="profile__info">
@@ -131,7 +130,6 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 <br>
 <br>
 ## E- och J-klasser
-<br>
 <br>
 <div class="profile">
 	<img class="profile__image" src="/assets/teinert2.png" alt="teinert">
@@ -154,7 +152,6 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 <br>
 ## T- och N-klasser
 <br>
-<br>
 <div class="profile">
 	<img class="profile__image" src="/assets/willart2.png" alt="willart">
 	<div class="profile__info">
@@ -173,9 +170,7 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 	</div>
 </div>
 <br>
-<br>
 ## Matematik
-<br>
 <br>
 <div class="profile">
 	<img class="profile__image" src="/assets/goras2.png" alt="goras">
@@ -189,9 +184,8 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 		</a>
 </div>
 <br>
-<br>
+
 # Studie- och yrkesvägledare
-<br>
 <br>
 <div class="profile">
 	<img class="profile__image" src="/assets/orve2.png" alt="Maj Orve">
@@ -274,7 +268,6 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 <br>
 <br>
 # Skolledningen
-<br>
 <br>
 <div class="profile">
 	<img class="profile__image" src="/assets/FredrikN.png" alt="FredrikN">
