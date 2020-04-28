@@ -4,7 +4,6 @@ title: Kontakt
 cover: /assets/aerial_photo.png
 ---
 # Kuratorer
-<br>
 <div class="profile">
 	<img class="profile__image" src="/assets/ronnes2.png" alt="Roness">
 	<div class="profile__info">
@@ -69,13 +68,9 @@ cover: /assets/aerial_photo.png
 	</div>
 </div>
 <br>
+
 # Skolsköterska
 <br>
-Utöver tre kuratorer i elevhälsan arbetar här också en skolsköterska. Det är viktigt att alla elever mår bra och känner sig trygga under sin skoltid, vilket även främjar studiemotivationen. Elevhälsan verkar för att eleverna under din gymnasietid ska må bra, både psykosocialt och fysiskt. 
-<br>
-Vi har öppen mottagning Måndag till fredag kl 10-12 och 13-14 förutom Tisdag då är det öppen mottagning endast 13-14. 
-Vi nås lättast på mail eller Schoolsoft.
-
 <div class="profile">
 	<img class="profile__image" src="/assets/nilsonne2.png" alt="nilsonne">
 	<div class="profile__info">
@@ -94,8 +89,8 @@ Vi nås lättast på mail eller Schoolsoft.
 	</div>
 </div>
 <br>
+
 # Särskilt stöd
-Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och strukturera studierna, så kan du kontakta din mentor eller själv boka tid hos någon av specialpedagogerna:
 <br>
 <div class="profile">
 	<img class="profile__image" src="/assets/lasse.png" alt="LarsVGegerfelt">
@@ -168,8 +163,8 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 		
 </div>
 <br>
+
 # Studie och yrkesvägledare
-<br>
 <div class="profile">
 	<img class="profile__image" src="/assets/orve2.png" alt="Maj Orve">
 	<div class="profile__info">
@@ -250,8 +245,8 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 	</div>
 </div>
 <br>
+
 # Skolledningen
-<br>
 <div class="profile">
 	<img class="profile__image" src="/assets/FredrikN.png" alt="FredrikN">
 	<div class="profile__info">
