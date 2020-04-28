@@ -5,10 +5,8 @@ cover: /assets/aerial_photo.png
 ---
 # Kuratorer
 <br>
-<br>
 På Danderyds gymnasium arbetar tre kuratorer. Till dem kan du vända dig för stödsamtal gällande alla möjliga områden; t.ex. mående, stress, kompis- och föräldrarelationer, skolsituation, utanförskap, kärlek med mera. Stora som små frågor – du är alltid välkommen!
 Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som elev berättar, så till vida att man inte kommer överens om något annat. Det finns undantag från tystnadsplikten, och det är ifall en elev berättar något som innebär en fara för elevens hälsa och mående.
-<br>
 <br>
 <div class="profile">
 	<img class="profile__image" src="/assets/ronnes2.png" alt="Roness">
@@ -30,7 +28,6 @@ Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som e
 
 	</div>
 </div>
-<br>
 <br>
 <div class="profile">
 	<img class="profile__image" src="/assets/linus2.png" alt="linus">
@@ -55,7 +52,6 @@ Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som e
 	</div>
 </div>
 <br>
-<br>
 <div class="profile">
 	<img class="profile__image" src="/assets/arlehov2.png" alt="arlehov">
 	<div class="profile__info">
@@ -68,7 +64,6 @@ Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som e
 			070-087 05 28
 		</a>	
 		
-
 		<div>
 		Kurator för elever i alla årskurser på:
 		Ekonomiprogrammet
@@ -77,9 +72,7 @@ Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som e
 	</div>
 </div>
 <br>
-<br>
 # Skolsköterska
-<br>
 <br>
 Utöver tre kuratorer i elevhälsan arbetar här också en skolsköterska. Det är viktigt att alla elever mår bra och känner sig trygga under sin skoltid, vilket även främjar studiemotivationen. Elevhälsan verkar för att eleverna under din gymnasietid ska må bra, både psykosocialt och fysiskt. 
 <br>
@@ -104,11 +97,8 @@ Vi nås lättast på mail eller Schoolsoft.
 	</div>
 </div>
 <br>
-<br>
 # Särskilt stöd
 Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och strukturera studierna, så kan du kontakta din mentor eller själv boka tid hos någon av specialpedagogerna:
-<br>
-## S-klasser
 <br>
 <div class="profile">
 	<img class="profile__image" src="/assets/lasse.png" alt="LarsVGegerfelt">
@@ -122,12 +112,11 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 		</a>
 
 		<div>
-			Studiestöd; ASD, Asperger; ADHD
+			Studiestöd; ASD, Asperger; ADHD, Samklasser
 		</div>
 
 	</div>
 </div>
-<br>
 <br>
 ## E- och J-klasser
 <br>
@@ -143,14 +132,11 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 		</a>
 
 		<div>
-			Studiestöd; Dyslexi
+			Studiestöd; Dyslexi Ekonomi och Juridikklasser
 		</div>
 
 	</div>
 </div>
-<br>
-<br>
-## T- och N-klasser
 <br>
 <div class="profile">
 	<img class="profile__image" src="/assets/willart2.png" alt="willart">
@@ -164,33 +150,37 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 		</a>
 
 		<div>
-			Studiestöd; Dyslexi
+			Studiestöd; Dyslexi Teknik och Naturklasser
 		</div>
 
 	</div>
 </div>
 <br>
-## Matematik
-<br>
 <div class="profile">
 	<img class="profile__image" src="/assets/goras2.png" alt="goras">
 	<div class="profile__info">
 		<div class="profile__title">Birgittta Göras F101</div>
+		
 		<a class="profile__link" href="mailto:birgitta.goras@danderyd.se">
 			birgitta.goras@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:08-568 91 339">
 			08-568 91 339
 		</a>
+		<div>
+			Matematik
+		</div>
+		
 </div>
 <br>
 
-# Studie- och yrkesvägledare
+# Studie och yrkesvägledare
 <br>
 <div class="profile">
 	<img class="profile__image" src="/assets/orve2.png" alt="Maj Orve">
 	<div class="profile__info">
 		<div class="profile__title">Maj Orve</div>
+		
 		<a class="profile__link" href="mailto:maj.orve@danderyd.se">
 			maj.orve@danderyd.se
 		</a>
@@ -265,7 +255,6 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 		</div>
 	</div>
 </div>
-<br>
 <br>
 # Skolledningen
 <br>
