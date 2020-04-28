@@ -5,9 +5,6 @@ cover: /assets/aerial_photo.png
 ---
 # Kuratorer
 <br>
-På Danderyds gymnasium arbetar tre kuratorer. Till dem kan du vända dig för stödsamtal gällande alla möjliga områden; t.ex. mående, stress, kompis- och föräldrarelationer, skolsituation, utanförskap, kärlek med mera. Stora som små frågor – du är alltid välkommen!
-Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som elev berättar, så till vida att man inte kommer överens om något annat. Det finns undantag från tystnadsplikten, och det är ifall en elev berättar något som innebär en fara för elevens hälsa och mående.
-<br>
 <div class="profile">
 	<img class="profile__image" src="/assets/ronnes2.png" alt="Roness">
 	<div class="profile__info">
@@ -118,8 +115,6 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 	</div>
 </div>
 <br>
-## E- och J-klasser
-<br>
 <div class="profile">
 	<img class="profile__image" src="/assets/teinert2.png" alt="teinert">
 	<div class="profile__info">
@@ -173,7 +168,6 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 		
 </div>
 <br>
-
 # Studie och yrkesvägledare
 <br>
 <div class="profile">
