@@ -12,8 +12,8 @@ Om du är i behov av särskilt stöd, anpassningar eller hjälp att planera och 
 	<img class="profile__image" src="/assets/lasse.png" alt="LarsVGegerfelt">
 	<div class="profile__info">
 		<div class="profile__title">Lasse von Gegerfelt F10</div>
-		<a class="profile__link" href="mailto:Lars.von-gegerfelt@danderyd.se">
-			lars.von-gegerfelt@danderyd.se
+		<a class="profile__link" href="mailto:Lars.VonGegerfelt@danderyd.se">
+			lars.VonGegerfelt@danderyd.se
 		</a>
 		<a class="profile__link" href="tel:08-568 91 361">
 			08-568 91 361
