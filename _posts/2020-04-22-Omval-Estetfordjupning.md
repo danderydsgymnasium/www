@@ -31,13 +31,13 @@ Robert Lindström<br>
 
 ## Musik
 
-Du som söker musikinriktningen kallas till ett provtillfälle. Då vill vi att du spelar två korta stycken på ditt huvudinstrument, gärna olika slags musik. Om ditt huvudinstrument är sång så sjunger du två sånger. Kan du spela flera instrument får du gärna visa det. Du kan till exempel kompa dig själv när du sjunger.
+<!Du som söker musikinriktningen kallas till ett provtillfälle. Då vill vi att du spelar två korta stycken på ditt huvudinstrument, gärna olika slags musik. Om ditt huvudinstrument är sång så sjunger du två sånger. Kan du spela flera instrument får du gärna visa det. Du kan till exempel kompa dig själv när du sjunger.
 
 [Vem kan segla](/assets/VemKanSeglaförutanVind.pdf) är en obligatorisk sång. Vi gör även ett litet gehörs och teoriprov samt en kortare intervju.
 
 Läs mer om antagningsprovet här: [Antagningsprov i musik](/assets/Antagningsprov Musik.pdf)
 
-Glöm inte att ta med noter om du vill att vi ska kompa dig. Är noterna komplicerade är vi tacksamma om du skickar dem i förväg så att vi kan förbereda oss. Vi sätter en provpoäng, som tillsammans med betyget från åk 9 utgör underlag för antagning.
+Glöm inte att ta med noter om du vill att vi ska kompa dig. Är noterna komplicerade är vi tacksamma om du skickar dem i förväg så att vi kan förbereda oss. Vi sätter en provpoäng, som tillsammans med betyget från åk 9 utgör underlag för antagning.-->
 
 Kontaktperson:<br>
 Staffan Isbäck<br>
