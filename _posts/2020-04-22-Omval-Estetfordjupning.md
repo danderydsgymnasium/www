@@ -14,8 +14,17 @@ Kontakta ansvarig lärare för den fördjupning du vill söka in till.
 
 ## Bild och Formgivning
 
-Du kommer till Danderyds gymnasium i mars och gör två uppgifter under några timmar. Då får du också prata med bildansvarig. Datum för provet skickas ut med brev till alla som söker inriktningen. Ditt arbete utgör underlag för bedömning av din förutsättning att utvecklas på bild och form inriktningen. Bilduppgifterna ges en provpoäng, som tillsammans med betyget från åk 9 utgör underlag för antagning.
+- TECKNING
 
+rita av ett hörn i ditt rum. Använd blyerts och försök få med både skuggor och högdagrar (ljus).<br>
+- MÅLNING
+
+Här kan du ta en något du målat i skolan och är nöjd med. Om du inte har något får du göra en ny målning. Valfritt material och motiv men var gärna generös med färger.<br>
+- TEXT
+
+Skriv några rader om din teckning och målning samt något om dig själv.<br>
+
+Allt fotas av och skickas digitalt till<br>
 Kontaktperson:<br>
 Robert Lindström<br>
 [robert.lindstrom@danderyd.se](mailto:robert.lindstrom@danderyd.se)
