@@ -31,6 +31,22 @@ Robert Lindström<br>
 
 ## Musik
 
+Har du sökt musik? Följ dessa instruktioner:
+<br>
+- Spela in en film där du spelar och/eller sjunger minst två musikstycken/låtar, gärna av olika karaktär eller genre på ditt huvudinstrument. Filma gärna så att vi ser så mycket av dig som möjligt.
+Är ditt huvudinstrument sång gäller samma sak, sjung två sånger. Kompa gärna dig själv om du kan. 
+
+- Vi har dessutom en obligatorisk sång: ”Vem kan segla för utan vind”. Sången finns att hämta här: [klicka här.](/assets/VemKanSeglaförutanVind.pdf) Välj vilken ton du vill börja sjunga på så att det passar din röst.
+
+- Om du har fler färdigheter, t.ex. spelar flera instrument, skriver egna låtar m.m. ser vi gärna att du visar upp även detta. Du kan aldrig få minuspoäng!
+
+- Berätta också lite om dig själv, ditt namn, vilken skola går du i, varför söker du ett program med musikinriktning, hur har du lärt dig spela det du visar upp, brukar du spela sjunga tillsammans med andra.
+
+- Tänk på att våga ta plats, försök att sjunga och spela så att det hörs ordentligt.
+
+- Du får naturligtvis dela upp detta i flera ”film-snuttar”.
+
+Filmerna kan du ladda upp på [https://wetransfer.com/](https://wetransfer.com/) och sedan skicka länken till [staffan.isback@danderyd.se](mailto:staffan.isback@danderyd.se) samt [anders.henriksson@danderyd.se](mailto:staffan.isback@danderyd.se)
 <!Du som söker musikinriktningen kallas till ett provtillfälle. Då vill vi att du spelar två korta stycken på ditt huvudinstrument, gärna olika slags musik. Om ditt huvudinstrument är sång så sjunger du två sånger. Kan du spela flera instrument får du gärna visa det. Du kan till exempel kompa dig själv när du sjunger.
 
 [Vem kan segla](/assets/VemKanSeglaförutanVind.pdf) är en obligatorisk sång. Vi gör även ett litet gehörs och teoriprov samt en kortare intervju.
@@ -39,10 +55,13 @@ Läs mer om antagningsprovet här: [Antagningsprov i musik](/assets/Antagningspr
 
 Glöm inte att ta med noter om du vill att vi ska kompa dig. Är noterna komplicerade är vi tacksamma om du skickar dem i förväg så att vi kan förbereda oss. Vi sätter en provpoäng, som tillsammans med betyget från åk 9 utgör underlag för antagning.-->
 
-Kontaktperson:<br>
+Kontaktpersonr:<br>
 Staffan Isbäck<br>
 [08-568 913 54](tel:08-568 913 54)<br>
 [staffan.isback@danderyd.se](mailto:staffan.isback@danderyd.se)
+
+Anders Henriksson<br>
+[anders.henriksson@danderyd.se](mailto:anders.henriksson@danderyd.se)
 
 ## Teater
 
