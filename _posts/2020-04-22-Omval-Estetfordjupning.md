@@ -33,26 +33,27 @@ Robert Lindström<br>
 
 Har du sökt musik? Följ dessa instruktioner:
 <br>
-* Spela in en film där du spelar och/eller sjunger minst två musikstycken/låtar, gärna av olika karaktär eller genre på ditt huvudinstrument. Filma gärna så att vi ser så mycket av dig som möjligt.
+-Spela in en film där du spelar och/eller sjunger minst två musikstycken/låtar, gärna av olika karaktär eller genre på ditt huvudinstrument. Filma gärna så att vi ser så mycket av dig som möjligt.
 Är ditt huvudinstrument sång gäller samma sak, sjung två sånger. Kompa gärna dig själv om du kan. 
 
-* Vi har dessutom en obligatorisk sång: ”Vem kan segla för utan vind”. Sången finns att hämta här: [klicka här.](/assets/VemKanSeglaförutanVind.pdf) Välj vilken ton du vill börja sjunga på så att det passar din röst.
+-Vi har dessutom en obligatorisk sång: ”Vem kan segla för utan vind”. Sången finns att hämta här: [klicka här.](/assets/VemKanSeglaförutanVind.pdf) Välj vilken ton du vill börja sjunga på så att det passar din röst.
 
-* Om du har fler färdigheter, t.ex. spelar flera instrument, skriver egna låtar m.m. ser vi gärna att du visar upp även detta. Du kan aldrig få minuspoäng!
+-Om du har fler färdigheter, t.ex. spelar flera instrument, skriver egna låtar m.m. ser vi gärna att du visar upp även detta. Du kan aldrig få minuspoäng!
 
-* Berätta också lite om dig själv, ditt namn, vilken skola går du i, varför söker du ett program med musikinriktning, hur har du lärt dig spela det du visar upp, brukar du spela sjunga tillsammans med andra.
+-Berätta också lite om dig själv, ditt namn, vilken skola går du i, varför söker du ett program med musikinriktning, hur har du lärt dig spela det du visar upp, brukar du spela sjunga tillsammans med andra.
 
-* Tänk på att våga ta plats, försök att sjunga och spela så att det hörs ordentligt.
+-Tänk på att våga ta plats, försök att sjunga och spela så att det hörs ordentligt.
 
-* Du får naturligtvis dela upp detta i flera ”film-snuttar”.
+-Du får naturligtvis dela upp detta i flera ”film-snuttar”.
 
 Filmerna kan du ladda upp på [https://wetransfer.com/](https://wetransfer.com/) och sedan skicka länken till [staffan.isback@danderyd.se](mailto:staffan.isback@danderyd.se) samt [anders.henriksson@danderyd.se](mailto:staffan.isback@danderyd.se)
+<br>
 <br>
 Kontaktpersonr:<br>
 Staffan Isbäck<br>
 [08-568 913 54](tel:08-568 913 54)<br>
 [staffan.isback@danderyd.se](mailto:staffan.isback@danderyd.se)
-
+<br>
 Anders Henriksson<br>
 [anders.henriksson@danderyd.se](mailto:anders.henriksson@danderyd.se)
 
