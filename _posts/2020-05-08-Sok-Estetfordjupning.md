@@ -1,14 +1,14 @@
 ---
-title: Omval Estetfördjupning
+title: Sök Estetfördjupning
 image: /assets/stormen.png
 layout: post
 ---
 
 ## Omvalsprocess 2020
 
-Till dig som söker estetinriktningar på DAGY.
+Till dig som söker estetfördjupning på DAGY - <b>Det går att välja fördjupning fram till 15:e maj!</b>
 Pga risken för spridning av Corona-viruset har vi i år genomfört filmade och fotade ansökningsprov som mejlats till undervisande lärare.
-Kontakta ansvarig lärare för den fördjupning du vill söka in till.
+Nedan följer instruktioner för hur du ansöker till just den utbildning du har sökt, oavsett om det är på samhälls- eller naturprogrammet. <b>Ni behöver skicka in era arbetsprover senast den 25 maj.</b>
 <br>
 
 
