@@ -23,6 +23,10 @@ program/naturvetenskap:
     url: /program/matematik-spets
   - title: Musik, Bild och formgivning eller Teater
     url: /program/estet
+    
+program/teknik:
+  - title: Makerspace
+    url: /nyheter/Vi-startar-makerspace-pa-Danderyds-gymnasium
 
 program/ekonomi:
   - title: Studieresa i Berlin
