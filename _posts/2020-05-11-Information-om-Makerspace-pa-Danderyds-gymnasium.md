@@ -1,6 +1,6 @@
 ---
 title: Information om Makerspace på Danderyds gymnasium
-image: /assets/geometri.png
+image: /assets/makerspace_penna.png
 layout: post
 ---
 
