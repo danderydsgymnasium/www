@@ -81,5 +81,5 @@ Proven bedöms enligt betygsstegen A-F, och räknas ihop på följande sätt:
 <li>E = 60 p</li>
 <li>F = 0 p</li>
 </ul>
-<br>
+
 Därefter adderar man den sökandes grundskolebetyg till poängen på förkunskapsprovet, för att få fram den slutgiltiga poäng som man ansöker till programmet med. Högsta möjliga slutgiltiga poäng blir alltså 660 p (320 x 2 + 20p för eventuellt språkval). Ditt förkunskapsprov är alltså lika mycket värd som dina grundskolebetyg i ansökan till en estetisk fördjupning.”
