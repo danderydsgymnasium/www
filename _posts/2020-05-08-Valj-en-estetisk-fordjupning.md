@@ -78,7 +78,7 @@ Proven bedöms enligt betygsstegen A-F, och räknas ihop på följande sätt:
 <li>B = 280 p</li>
 <li>C = 240 p</li>
 <li>D = 200 p</li>
-<li>E = 60 p</li>
+<li>E = 180 p</li>
 <li>F = 0 p</li>
 </ul>
 
