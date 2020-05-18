@@ -6,7 +6,7 @@ menu_order: 3
 
 ### Klicka på länkarna för att se poängplanerna för respektive fördjupning
 
-[Samhällsvetenskapsprogrammet: För elever med ASD](/assets/SASAM20D.pdf)
+[Samhällsvetenskapsprogrammet: För elever med ASD](/assets/1SASAM20D.pdf)
 
 [Samhällsvetenskapsprogrammet: Samhällsvetenskap](/assets/SASAMINT20.pdf)
 
