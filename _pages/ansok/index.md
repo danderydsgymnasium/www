@@ -26,6 +26,6 @@ Går du på ett annat gymnasium men vill byta skola till oss?
 [Klicka här för att ladda ner en ansökningsblankett](/assets/Ansökan om Utbildningsplats.pdf)
 . Glöm inte att bifoga bilagor enligt instruktionerna på ansökningsblanketten
 
-# Öppet hus 2020
+# Öppet hus 2020/2021
 
-## 3 februari kl. 18 -20
+## Datum för hösttermin och vårttermin kommer!
