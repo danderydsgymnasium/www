@@ -1,6 +1,6 @@
 ---
 title: Årets spetselev 2020
-image: /assets/fredrikspets.png
+image: /assets/spetsfredrik1.png
 layout: post
 ---
 Fredrik Ekholm tilldelades stipendiet ”Årets spetselev 2020”!
