@@ -1,5 +1,5 @@
 ---
-title:Statsbidrag till teknikprogrammet
+title: Statsbidrag till teknikprogrammet
 image: /assets/statsbidrag.png
 layout: post
 ---
