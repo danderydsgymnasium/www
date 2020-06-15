@@ -1,6 +1,6 @@
 ---
 title: Tips från kuratorer
-image: /assets/skogen.png
+image: /assets/skogsbild.png
 layout: post
 ---
 
