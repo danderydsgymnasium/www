@@ -1,6 +1,6 @@
 ---
 title: Gåspennan
-image: /assets/forfattare.png
+image: /assets/ballpoint-pen-classic-coffee-261510.png
 layout: post
 ---
 
