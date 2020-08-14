@@ -65,7 +65,7 @@ Varje dag genomförs en noggrann städning av skolan.
 <br>
 Elever som på grund av sjukdom inte har möjlighet att studera på plats i skolan kommer att kunna följa kursen med stöd av planeringen i V-klass eller Google Classroom.
 Elev som uppvisar sjukdomssymtom i skolan kommer att sändas hem. 
-Elever med allergi som uppvisar symptom som likar symptomen vid Covid-19 ska kunna intyga att det är just allergi. 
+Elever med allergi som uppvisar symptom som liknar symptomen vid Covid-19 ska kunna intyga att det är just allergi. 
 Elever som befinner sig i riskgrupp bör kontakta sin läkare för att göra en bedömning av vilka åtgärder den enskilde kan göra för att kunna vistas säkert i skolan. 
 <br>
 <br>
