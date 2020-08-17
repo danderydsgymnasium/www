@@ -4,41 +4,39 @@ layout: banner
 menu_order: 4
 ---
 
-## Höstterminen 2019
+## Höstterminen 2020
 
-<b>Terminstart åk 1</b> 19 Augusti
+<b>Terminstart åk 1</b> 17 Augusti
 <br>
-<b>Terminstart åk 2 och 3</b> 21 Augusti
+<b>Terminstart åk 2 och 3</b> 19 Augusti
 
 ### Lovdagar
 
-Höstlov: vecka 44 (28 Oktober - 1 November)
+Höstlov: vecka 44 (26 Oktober - 30 Oktober)
 
 Andra lovdagar: 
-4 November - Studiedag
+30 September - Studiedag
 <br>
 ### Terminsavslutning
-19 December
+18 December
 <br>
 
 ## Vårterminen 2020
 
-<b>Terminstart</b> 8 januari
+<b>Terminstart</b> 12 januari
 <br>
 
 ### Lovdagar
 
-Sportlov: vecka 9 (24 februari - 28 Februari)
+Sportlov: vecka 9 (1 Mars - 5 Mars)
 <br>
-18 Mars - Studiedag
+Påsklov: vecka 14 (5 April - 9 April)
 <br>
-Påsklov: vecka 15 (6 april - 13 april)
+13 April - Studiedag
 <br>
 Andra lovdagar: 
-1 maj
+13-14 Maj
 <br>
-Kristi himmelsfärd: 21 - 22 maj
+<b>Studenten:</b> 9 Juni 
 <br>
-<b>Studenten:</b> Tisdag 9 Juni 
-<br>
-Terminens sista dag 12 Juni
+Terminens sista dag 15 Juni
