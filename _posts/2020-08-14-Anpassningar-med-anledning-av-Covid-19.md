@@ -49,8 +49,7 @@ För att begränsa antalet personer som varje elev träffas undviker vi att blan
 Vi placerar bord och stolar så glest det går i klassrummen och ser till att det finns handsprit i anslutning till varje klassrum.
 Elever som under lektionstid behöver hjälp av en lärare kommer fram till läraren, men håller avstånd. Hjälp ges gärna via chatt om möjligt.
 Grupparbeten sker framför allt digitalt.
-För att undvika onödig närhet i klassrummet ska eleverna så långt som möjligt sitta på sina platser, toalettbesök görs innan lektionen och korta bensträckare bör undvikas.
-Vi har fasta placeringar i klassrummen och de elever som ska sitta längst bak går först in i klassrummet.
+För att undvika onödig närhet i klassrummet ska eleverna så långt som möjligt sitta på sina platser, toalettbesök görs om möjligt innan lektionen. Vi har fasta placeringar i klassrummen och de elever som ska sitta längst bak går först in i klassrummet. Detta gäller även vid kortare såkallade bensträckare under lektionstid.
 Mobiltelefoner kommer att samlas in och förvaras på ett säkert sätt under lektionstid. 
 Idrottsundervisningen kommer i möjligaste mån att bedrivas utomhus.
 <br>
