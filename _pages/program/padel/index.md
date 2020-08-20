@@ -41,7 +41,7 @@ Det finns endast ett begränsat antal platser. Vidare krävs att du har betyg f�
 
 Ansökan till Danderyds gymnasiums sker i två steg. Dels krävs att du bli antagen till något av de program vi erbjuder och du söker via webben som vanligt senast den 15 februari. 
  
-Den andra delen består av en ansökan, med information om ditt klubblag, tränare, meriter, samt ett personligt brev. Detta skickar du med post (Jonas Bergdahl Lindkvist, Danderyds gymnasium, Rinkebyvägen 4, 182 36 Danderyd) eller mail till [jonas.bergdahllindkvist@danderyd.se](mailto:jonas.bergdahllindkvist@danderyd.se) ansvarig på Danderyds gymnasium för NIU-Padel senast 1 december. 
+Den andra delen består av en ansökan, med information om ditt klubblag, tränare, meriter, samt ett personligt brev. Detta skickar du med post till ansvarig på Danderyds gymnasium för NIU-Padel (Jonas Bergdahl Lindkvist, Danderyds gymnasium, Rinkebyvägen 4, 182 36 Danderyd) eller mail till [jonas.bergdahllindkvist@danderyd.se](mailto:jonas.bergdahllindkvist@danderyd.se) senast 1 december. 
 För mer information är ni varmt välkomna på skolans öppet hus 26 november klockan 18-20
 
 # Provträning
