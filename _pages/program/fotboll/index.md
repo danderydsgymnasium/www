@@ -54,22 +54,23 @@ kombinerbart med NIU.
 
 [<i>Här gör du din ansökan för NIU-fotboll inför läsåret 2020/21</i>](https://fogis.se/fotboll-i-skolan/fotboll-i-gymnasieskolan/nationella-idrottsutbildningar-fotboll1/)<br>
 
-OBS! Sista ansökningsdatum är 1/12 2019.
+OBS! Sista ansökningsdatum är 1/12 2020.
 
-[Informationsfolder](/assets/niu1920.pdf)
+[Informationsfolder](/assets/Broschyr NIU fotboll 2020-2021.pdf)
 
 För att bli antagen krävs att du kommer in på något av Danderyds gymnasiums program. Du söker via webben som vanligt senast den 15 februari.
 
 ## Dessutom erbjuder vi fyra provträningstillfällen
 
-* Torsdagen   14 november kl 14-15.30 på Danderyd Arena (killar)
-* Torsdagen 28 november kl 14-15.30 på Danderyd Arena (killar)
-* Torsdagen 5 december kl 14-15.30 på Danderyd Arena (tjejer)
-* Torsdagen   12 december kl 14-15.30 på Danderyd Arena (killar)
+* Torsdagen   12 november kl 14-15.30 på Danderyd Arena (killar)
+* Torsdagen 26 november kl 14-15.30 på Danderyd Arena (killar)
+* Torsdagen Torsdagen 3 december   kl 14-15.30 på Danderyd Arena (tjejer)
+* Torsdagen 10 december kl 14-15.30 på Danderyd Arena (killar)
 
 Anmäl ditt deltagande i förväg med namn, klubblag samt position till Daniel Kalles-Pettersson via mail:
 [daniel.kalles-pettersson@danderyd.se](mailto:daniel.kalles-pettersson@danderyd.se)
-
+<br>
+Max 30 spelare per tillfälle. Först till kvarn!
 
 ## Se det som ett tillfälle att
 
