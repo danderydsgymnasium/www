@@ -52,7 +52,7 @@ kombinerbart med NIU.
 
 # Ansökan NIU - Fotboll
 
-[<i>Här gör du din ansökan för NIU-fotboll inför läsåret 2020/21</i>](https://fogis.se/fotboll-i-skolan/fotboll-i-gymnasieskolan/nationella-idrottsutbildningar-fotboll1/)<br>
+[<i>Här gör du din ansökan för NIU-fotboll inför läsåret 2021/22</i>](https://fogis.se/fotboll-i-skolan/fotboll-i-gymnasieskolan/nationella-idrottsutbildningar-fotboll1/)<br>
 
 OBS! Sista ansökningsdatum är 1/12 2020.
 
