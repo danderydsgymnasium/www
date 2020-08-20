@@ -19,8 +19,6 @@ public_transport: |
 
 footer_menu_title: Intranät
 footer_menu:
-  - title: Portalen
-    url: https://danderyd365.sharepoint.com/sites/dagy/SitePages/Dagyportalen.aspx
-  - title: Schoolsoft
-    url: https://sms.schoolsoft.se/danderyd
+  - title: Vklass
+    url: https://auth.vklass.se/
 
