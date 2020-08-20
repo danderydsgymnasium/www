@@ -11,8 +11,8 @@ main_menu:
     edit_url: /posts
   - title: Kontakt
     url: /kontakt
-  - title: Schoolsoft
-    url: /schoolsoft
+  - title: Vklass
+    url: /Vklass
   - title: Biblioteket
     url: /Bibliotek
 
