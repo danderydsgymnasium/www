@@ -1,7 +1,7 @@
 ---
 layout: banner
 title: Vklass
-cover: /assets/nedladdning.png
+cover: /assets/vklass1.png
 ---
 
 # Vklass
