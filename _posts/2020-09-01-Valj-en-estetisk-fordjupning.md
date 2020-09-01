@@ -1,6 +1,6 @@
 ---
 title: Välj en estetisk fördjupning
-image: /assets/stormen.png
+image: /assets/smaller-2017-05-16T09-48-52.937Z.jpeg
 layout: post
 ---
 
