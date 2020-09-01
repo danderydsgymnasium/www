@@ -3,7 +3,10 @@ title: Välj en estetisk fördjupning
 image: /assets/smaller-2017-05-16T09-48-52.937Z.jpeg
 layout: post
 ---
-
+En utbildning som är särskilt speciell och erbjuder dig som elev en unik möjlighet att utveckla både dina akademiska och kreativa förmågor i kombination med varandra är våra estetiska fördjupningar som finns på både samhälls- och naturprogrammet. Du kan välja mellan teater, musik och bild. Läs gärna mer om respektive fördjupning [här.](https://www.dagy.danderyd.se/program/estet)
+<br>
+Nedan följer information kring hur du söker och gör ansökningsproven!
+<br>
 ## Bild och Formgivning
 
 * TECKNING
