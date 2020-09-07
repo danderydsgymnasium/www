@@ -58,28 +58,6 @@ Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som e
 
 <br>
 
-<div class="profile">
-	<img class="profile__image" src="/assets/arlehov2.png" alt="arlehov">
-	<div class="profile__info">
-		<div class="profile__title">Christine Arlehov</div>
-
-		<a class="profile__link" href="mailto:christine.arlehov@danderyd.se">
-			christine.arlehov@danderyd.se
-		</a>
-		<a class="profile__link" href="tel:070-087 05 28">
-			070-087 05 28
-		</a>	
-		
-
-		<div>
-		Kurator för elever i alla årskurser på:
-		Ekonomiprogrammet
-
-		</div>
-	</div>
-</div>
-
-<br>
 <h1>Skolsköterskor</h1>
 
 Utöver tre kuratorer i elevhälsan arbetar här också en skolsköterska. Det är viktigt att alla elever mår bra och känner sig trygga under sin skoltid, vilket även främjar studiemotivationen. Elevhälsan verkar för att eleverna under din gymnasietid ska må bra, både psykosocialt och fysiskt. 
