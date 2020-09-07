@@ -61,23 +61,6 @@ cover: /assets/aerial_photo.png
 	</div>
 </div>
 
-<div class="profile">
-	<img class="profile__image" src="/assets/bluedot.png" alt="Pernilla Ivier">
-	<div class="profile__info">
-		<div class="profile__title">Pernilla Ivier</div>
-
-		<a class="profile__link" href="mailto:pernilla.ivier@danderyd.se">
-			pernilla.ivier@danderyd.se
-		</a>
-		<a class="profile__link" href="tel:08-568 91 317">
-			08-568 91 317
-		</a>
-
-		<div>
-			Språkintroduktion
-		</div>
-	</div>
-</div>
 <br>
 # Skolledningen
 <br>
@@ -213,26 +196,6 @@ cover: /assets/aerial_photo.png
 		Naturprogrammet
 		Samhällsprogrammet
 		ASD/Asperger
-
-		</div>
-	</div>
-</div>
-
-<div class="profile">
-	<img class="profile__image" src="/assets/arlehov2.png" alt="arlehov">
-	<div class="profile__info">
-		<div class="profile__title">Christine Arlehov</div>
-
-		<a class="profile__link" href="mailto:christine.arlehov@danderyd.se">
-			christine.arlehov@danderyd.se
-		</a>
-		<a class="profile__link" href="tel:070-087 05 28">
-			070-087 05 28
-		</a>	
-		
-		<div>
-		Kurator för elever i alla årskurser på:
-		Ekonomiprogrammet
 
 		</div>
 	</div>
