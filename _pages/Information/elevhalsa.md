@@ -60,7 +60,7 @@ Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som e
 
 <h1>Skolsköterskor</h1>
 
-Utöver tre kuratorer i elevhälsan arbetar här också en skolsköterska. Det är viktigt att alla elever mår bra och känner sig trygga under sin skoltid, vilket även främjar studiemotivationen. Elevhälsan verkar för att eleverna under din gymnasietid ska må bra, både psykosocialt och fysiskt. 
+Utöver tre kuratorer i elevhälsan arbetar här också två skolsköterskor. Det är viktigt att alla elever mår bra och känner sig trygga under sin skoltid, vilket även främjar studiemotivationen. Elevhälsan verkar för att eleverna under din gymnasietid ska må bra, både psykosocialt och fysiskt. 
 <br>
 Vi har öppen mottagning Måndag till fredag kl 10-12 och 13-14 förutom Tisdag då är det öppen mottagning endast 13-14. 
 Vi nås lättast på mail eller Schoolsoft.
@@ -79,6 +79,24 @@ Vi nås lättast på mail eller Schoolsoft.
 		</a>
 		<a class="profile__link" href="tel:0738-07 03 45">
 			0738-07 03 45
+		</a>
+	</div>
+</div>
+
+<div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="Annsofie">
+	<div class="profile__info">
+		<div class="profile__title">Ann-Sofie Peterson
+			</div>
+
+		<a class="profile__link" href="mailto:ann-sofie.petersson@danderyd.se">
+			ann-sofie.petersson@danderyd.se
+		</a>
+		<a class="profile__link" href="tel:08-568 912 19">
+			08-568 912 19
+		</a>
+		<a class="profile__link" href="tel:0700-87 03 43">
+			0700-87 03 43
 		</a>
 	</div>
 </div>
