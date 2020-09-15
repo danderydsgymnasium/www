@@ -221,6 +221,24 @@ cover: /assets/aerial_photo.png
 		</div>
 	</div>
 </div>
+
+<div class="profile">
+	<img class="profile__image" src="/assets/bluedot.png" alt="Annsofie">
+	<div class="profile__info">
+		<div class="profile__title">Ann-Sofie Peterson
+			</div>
+
+		<a class="profile__link" href="mailto:ann-sofie.petersson@danderyd.se">
+			ann-sofie.petersson@danderyd.se
+		</a>
+		<a class="profile__link" href="tel:08-568 912 19">
+			08-568 912 19
+		</a>
+		<a class="profile__link" href="tel:0700-87 03 43">
+			0700-87 03 43
+		</a>
+	</div>
+</div>
 <br>
 # Särskilt stöd
 <br>
