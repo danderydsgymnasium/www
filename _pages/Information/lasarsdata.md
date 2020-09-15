@@ -21,7 +21,7 @@ Andra lovdagar:
 18 December
 <br>
 
-## Vårterminen 2020
+## Vårterminen 2021
 
 <b>Terminstart</b> 12 januari
 <br>
