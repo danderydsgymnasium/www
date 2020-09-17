@@ -170,8 +170,7 @@ cover: /assets/aerial_photo.png
 
 		<div>
 			Kurator för elever i alla årskurser på:
-			Språkintroduktion
-			Teknikprogrammet och Juridik
+			Teknikprogrammet, Ekonomiprogrammet och gymnasiesärskolan.
 
 		</div>
 
@@ -192,10 +191,7 @@ cover: /assets/aerial_photo.png
 
 		<div>
 		Kurator för elever i alla årskurser på:
-		Gymnasiesärskolan
-		Naturprogrammet
-		Samhällsprogrammet
-		ASD/Asperger
+		Naturprogrammet, Samhällsprogrammet, Juridikprogrammet och ASD/Asperger.
 
 		</div>
 	</div>
