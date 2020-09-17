@@ -23,8 +23,7 @@ Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som e
 
 		<div>
 			Kurator för elever i alla årskurser på:
-			Språkintroduktion
-			Teknikprogrammet och Juridik
+			Teknikprogrammet, Ekonomiprogrammet och gymnasiesärskolan.
 
 		</div>
 
@@ -47,10 +46,7 @@ Kuratorerna har tystnadsplikt. Det innebär att de inte för vidare det du som e
 
 		<div>
 		Kurator för elever i alla årskurser på:
-		Gymnasiesärskolan
-		Naturprogrammet
-		Samhällsprogrammet
-		ASD/Asperger
+		Naturprogrammet, Samhällsprogrammet, Juridikprogrammet och ASD/Asperger.
 
 		</div>
 	</div>
