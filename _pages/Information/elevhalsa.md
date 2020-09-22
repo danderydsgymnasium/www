@@ -82,7 +82,7 @@ Vi nås lättast på mail eller Schoolsoft.
 <div class="profile">
 	<img class="profile__image" src="/assets/bluedot.png" alt="Annsofie">
 	<div class="profile__info">
-		<div class="profile__title">Ann-Sofie Peterson
+		<div class="profile__title">Ann-Sofie Petersson
 			</div>
 
 		<a class="profile__link" href="mailto:ann-sofie.petersson@danderyd.se">
