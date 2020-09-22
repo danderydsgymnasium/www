@@ -155,7 +155,7 @@ cover: /assets/aerial_photo.png
 	</div>
 </div>
 <br>
-# Kuratorer och skolsköterska
+# Kuratorer och skolsköterskor
 <br>
 <div class="profile">
 	<img class="profile__image" src="/assets/ronnes2.png" alt="Roness">
@@ -221,7 +221,7 @@ cover: /assets/aerial_photo.png
 <div class="profile">
 	<img class="profile__image" src="/assets/bluedot.png" alt="Annsofie">
 	<div class="profile__info">
-		<div class="profile__title">Ann-Sofie Peterson
+		<div class="profile__title">Ann-Sofie Petersson
 			</div>
 
 		<a class="profile__link" href="mailto:ann-sofie.petersson@danderyd.se">
